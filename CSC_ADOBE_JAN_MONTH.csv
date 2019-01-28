@@ -1,0 +1,44 @@
+item,Unique Visitors,Visits,Page Views,Bounces,Time Spent on Page (min),e89 Video Views,e17 Form Success,Form Submission Rate,Total Weekly Unique Visitors,Entries,Total Time Spent,Account Number,Date,Granularity
+www.servicenow.com/success/value-calculator-it.html,430,500,610,291,1.23,0,0,0,570,436,36845,ISP Visitor,18-Jan,month
+www.servicenow.com/success/value-calculator-hr.html,92,101,136,10,1.46,0,0,0,570,19,8820,ISP Visitor,18-Jan,month
+www.servicenow.com/success/value-calculator-it-form.html,82,84,121,19,1.44,0,34,40.48,570,21,7240,ISP Visitor,18-Jan,month
+www.servicenow.com/success/value-calculator-security-ops.html,77,85,127,14,1.79,0,0,0,570,20,9144,ISP Visitor,18-Jan,month
+www.servicenow.com/success/value-calculator-intelligent-apps.html,64,67,78,13,1.76,0,0,0,570,20,7070,ISP Visitor,18-Jan,month
+www.servicenow.com/success/value-calculator-hr-form.html,21,22,35,0,0.91,0,9,40.91,570,1,1205,ISP Visitor,18-Jan,month
+www.servicenow.com/success/value-calculator-security-ops-form.html,15,16,29,1,0.61,0,8,50,570,1,590,ISP Visitor,18-Jan,month
+www.servicenow.com/success/value-calculator-intelligent-apps-form.html,9,10,11,1,3,0,1,10,570,1,1800,ISP Visitor,18-Jan,month
+www.servicenow.com/success/,4,4,5,0,0.3,0,0,0,570,0,72,ISP Visitor,18-Jan,month
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,3,3,4,0,0.34,0,1,33.33,570,0,61,ISP Visitor,18-Jan,month
+www.servicenow.com/success/value-calculator-it.html,436,572,759,263,2.14,0,0,0,566,452,73562,Not In List,18-Jan,month
+www.servicenow.com/success/value-calculator-hr.html,119,150,204,13,1.87,0,0,0,566,39,16867,Not In List,18-Jan,month
+www.servicenow.com/success/value-calculator-security-ops.html,98,127,161,21,1.53,0,0,0,566,36,11644,Not In List,18-Jan,month
+www.servicenow.com/success/value-calculator-intelligent-apps.html,90,104,122,12,1.45,0,0,0,566,23,9042,Not In List,18-Jan,month
+www.servicenow.com/success/value-calculator-it-form.html,83,100,192,4,2.49,0,71,71,566,10,14914,Not In List,18-Jan,month
+www.servicenow.com/success/value-calculator-hr-form.html,46,56,119,3,3.33,0,39,69.64,566,6,11172,Not In List,18-Jan,month
+www.servicenow.com/success/value-calculator-intelligent-apps-form.html,17,17,30,0,2.23,0,10,58.82,566,0,2277,Not In List,18-Jan,month
+www.servicenow.com/success/value-calculator-security-ops-form.html,15,17,38,2,2.42,0,15,88.24,566,3,2472,Not In List,18-Jan,month
+www.servicenow.com/success/value-calculator-csm.html,10,11,12,1,2.87,0,0,0,566,4,1891,Not In List,18-Jan,month
+www.servicenow.com/success/value-calculator-it-form-1.html,7,9,13,1,0.56,0,4,44.44,566,1,300,Not In List,18-Jan,month
+www.servicenow.com/success/value-calculator-it.html,413,458,473,305,1.2,0,0,0,498,455,32888,::unspecified::,18-Jan,month
+www.servicenow.com/success/value-calculator-intelligent-apps.html,34,35,37,20,0.73,0,0,0,498,33,1543,::unspecified::,18-Jan,month
+www.servicenow.com/success/value-calculator-hr.html,22,24,25,11,1.88,0,0,0,498,21,2708,::unspecified::,18-Jan,month
+www.servicenow.com/success/value-calculator-security-ops.html,12,13,14,4,1.51,0,0,0,498,13,1178,::unspecified::,18-Jan,month
+www.servicenow.com/success/value-calculator-it-form.html,11,11,12,10,1.08,0,1,9.09,498,11,715,::unspecified::,18-Jan,month
+www.servicenow.com/success/value-calculator-csm-form.html,3,3,4,1,0.11,0,0,0,498,3,20,::unspecified::,18-Jan,month
+www.servicenow.com/success/value-calculator-hr-form.html,3,3,3,1,0.17,0,0,0,498,2,31,::unspecified::,18-Jan,month
+www.servicenow.com/success/value-calculator-intelligent-apps-form.html,2,3,3,2,3.69,0,0,0,498,3,664,::unspecified::,18-Jan,month
+www.servicenow.com/success.do,2,2,2,2,0,0,0,0,498,2,0,::unspecified::,18-Jan,month
+www.servicenow.com/success/value-calculator-security-ops-form.html,1,1,1,0,0.15,0,0,0,498,1,9,::unspecified::,18-Jan,month
+www.servicenow.com/success/value-calculator-it.html,4,4,4,4,0,0,0,0,4,4,0,ACCT0004149,18-Jan,month
+www.servicenow.com/success/value-calculator-it.html,4,4,5,2,1.08,0,0,0,4,4,259,ACCT0026735,18-Jan,month
+www.servicenow.com/success/value-calculator-it-form.html,1,1,2,0,2.8,0,1,100,4,0,168,ACCT0026735,18-Jan,month
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,0,0,0,0,0,4,0,0,ACCT0026735,18-Jan,month
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,2,2,0,0,0,0,2,2,0,ACCT0024473,18-Jan,month
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,2,1,0,ACCT0024473,18-Jan,month
+www.servicenow.com/success/value-calculator-it.html,2,2,3,1,1.57,0,0,0,2,2,188,ACCT0000119,18-Jan,month
+www.servicenow.com/success/value-calculator-hr.html,2,2,3,0,0.06,0,0,0,2,0,7,ACCT0007072,18-Jan,month
+www.servicenow.com/success/value-calculator-it.html,1,1,1,0,1.05,0,0,0,2,1,63,ACCT0007072,18-Jan,month
+www.servicenow.com/success/value-calculator-hr-form.html,1,1,1,0,0.12,0,0,0,2,0,7,ACCT0007072,18-Jan,month
+www.servicenow.com/success/value-calculator-it.html,2,4,6,1,0.92,0,0,0,2,4,220,ACCT0021217,18-Jan,month
+www.servicenow.com/success/value-calculator-security-ops.html,1,2,2,0,1.43,0,0,0,2,0,172,ACCT0021217,18-Jan,month
+www.servicenow.com/success/value-calculator-it.html,2,2,3,1,11.6,0,0,0,2,2,1392,ACCT0024543,18-Jan,month

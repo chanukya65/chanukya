@@ -1,0 +1,977 @@
+item,Unique Visitors,Visits,Page Views,Bounce Rate,Time Spent on Page (min),e89 Video Views,e17 Form Success,Form Submission Rate,Account Number,Date,Granularity
+www.servicenow.com/success.html,131,138,252,74.72527473,1.69,0,0,0,ISP Visitor,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,25,27,49,20,3.07,0,0,0,ISP Visitor,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,17,18,57,12.5,1.96,0,0,0,ISP Visitor,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,17,18,19,100,1.31,0,1,5.56,ISP Visitor,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,15,15,50,0,0.72,0,0,0,ISP Visitor,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,2.33,0,0,0,ISP Visitor,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,0.67,0,0,0,ISP Visitor,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,2.08,0,0,0,ISP Visitor,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,6.62,4,0,0,ISP Visitor,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,ISP Visitor,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,25,27,49,20,3.07,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,17,18,57,12.5,1.96,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,17,18,19,100,1.31,0,1,5.56,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,15,15,50,0,0.72,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,2.33,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,0.67,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,2.08,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,6.62,4,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,100,112,201,40,0.95,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,Not In List,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,17,18,57,12.5,1.96,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,17,18,19,100,1.31,0,1,5.56,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,15,15,50,0,0.72,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,2.33,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,0.67,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,2.08,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,6.62,4,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,100,112,201,40,0.95,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,::unspecified::,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,17,18,19,100,1.31,0,1,5.56,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,15,15,50,0,0.72,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,2.33,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,0.67,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,2.08,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,6.62,4,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,100,112,201,40,0.95,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0065581,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,15,15,50,0,0.72,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,2.33,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,0.67,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,2.08,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,6.62,4,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,100,112,201,40,0.95,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0019679,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,2.33,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,0.67,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,2.08,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,6.62,4,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,100,112,201,40,0.95,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0001406,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,0.67,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,2.08,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,6.62,4,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,100,112,201,40,0.95,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0023867,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,2.08,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,6.62,4,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,100,112,201,40,0.95,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ACCT0106566,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,6.62,4,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,100,112,201,40,0.95,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,ACCT0071663,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,100,112,201,40,0.95,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,ACCT0000069,Mon. 23 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,25,27,49,20,3.07,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,17,18,57,12.5,1.96,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,17,18,19,100,1.31,0,1,5.56,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,15,15,50,0,0.72,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,2.33,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,0.67,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,2.08,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,6.62,4,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,7,8,12,0,0.76,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,100,112,201,40,0.95,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,136,140,249,79.78723404,1.39,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,2.34,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,4.73,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,2.43,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,0.92,0,10,58.82,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,0.45,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,0.16,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,10,11,34,INF,3.85,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,4.27,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,8,9,30,100,2.11,0,0,0,ISP Visitor,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,1.08,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,136,140,249,79.78723404,1.39,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,2.34,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,4.73,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,2.43,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,0.92,0,10,58.82,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,0.45,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,0.16,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,10,11,34,INF,3.85,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,4.27,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,8,9,30,100,2.11,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,117,127,271,33.33333333,1.1,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,108,117,258,40,2.64,0,1,0.85,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,28,29,100,INF,2.77,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,1.51,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,21,21,54,0,0.8,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,1.65,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,1.11,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,0.86,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,1.54,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,13,14,34,50,0.78,0,0,0,Not In List,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,14,15,42,50,1.12,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,136,140,249,79.78723404,1.39,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,2.34,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,4.73,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,2.43,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,0.92,0,10,58.82,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,0.45,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,0.16,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,10,11,34,INF,3.85,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,4.27,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,8,9,30,100,2.11,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,117,127,271,33.33333333,1.1,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,108,117,258,40,2.64,0,1,0.85,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,28,29,100,INF,2.77,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,1.51,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,21,21,54,0,0.8,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,1.65,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,1.11,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,0.86,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,1.54,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,13,14,34,50,0.78,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,16,16,27,50,2.03,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,8,8,10,33.33333333,0.26,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,4.56,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,0,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,25.97,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,3.97,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,2.52,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.57,0,0,0,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,7.05,0,2,200,::unspecified::,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,0.87,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,136,140,249,79.78723404,1.39,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,2.34,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,4.73,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,2.43,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,0.92,0,10,58.82,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,0.45,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,0.16,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,10,11,34,INF,3.85,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,4.27,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,8,9,30,100,2.11,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,117,127,271,33.33333333,1.1,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,108,117,258,40,2.64,0,1,0.85,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,28,29,100,INF,2.77,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,1.51,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,21,21,54,0,0.8,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,1.65,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,1.11,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,0.86,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,1.54,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,13,14,34,50,0.78,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,16,16,27,50,2.03,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,8,8,10,33.33333333,0.26,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,4.56,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,25.97,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,3.97,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,2.52,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.57,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,7.05,0,2,200,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,2,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,0,0,0,0,ACCT0065581,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,1.67,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,136,140,249,79.78723404,1.39,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,2.34,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,4.73,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,2.43,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,0.92,0,10,58.82,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,0.45,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,0.16,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,10,11,34,INF,3.85,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,4.27,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,8,9,30,100,2.11,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,117,127,271,33.33333333,1.1,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,108,117,258,40,2.64,0,1,0.85,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,28,29,100,INF,2.77,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,1.51,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,21,21,54,0,0.8,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,1.65,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,1.11,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,0.86,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,1.54,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,13,14,34,50,0.78,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,16,16,27,50,2.03,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,8,8,10,33.33333333,0.26,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,4.56,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,25.97,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,3.97,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,2.52,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.57,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,7.05,0,2,200,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,2,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,0,0,0,0,ACCT0019679,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,2.51,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,136,140,249,79.78723404,1.39,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,2.34,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,4.73,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,2.43,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,0.92,0,10,58.82,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,0.45,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,0.16,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,10,11,34,INF,3.85,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,4.27,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,8,9,30,100,2.11,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,117,127,271,33.33333333,1.1,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,108,117,258,40,2.64,0,1,0.85,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,28,29,100,INF,2.77,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,1.51,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,21,21,54,0,0.8,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,1.65,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,1.11,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,0.86,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,1.54,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,13,14,34,50,0.78,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,16,16,27,50,2.03,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,8,8,10,33.33333333,0.26,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,4.56,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,25.97,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,3.97,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,2.52,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.57,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,7.05,0,2,200,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,2,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,100,0,0,0,0,ACCT0001406,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,11,11,35,25,0.61,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,136,140,249,79.78723404,1.39,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,2.34,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,4.73,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,2.43,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,0.92,0,10,58.82,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,0.45,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,0.16,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,10,11,34,INF,3.85,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,4.27,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,8,9,30,100,2.11,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,117,127,271,33.33333333,1.1,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,108,117,258,40,2.64,0,1,0.85,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,28,29,100,INF,2.77,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,1.51,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,21,21,54,0,0.8,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,1.65,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,1.11,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,0.86,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,1.54,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,13,14,34,50,0.78,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,16,16,27,50,2.03,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,8,8,10,33.33333333,0.26,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,4.56,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,25.97,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,3.97,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,2.52,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.57,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,7.05,0,2,200,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,2,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,100,0,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,4,50,2.5,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/pillars/go-live.html,1,1,1,INF,10.1,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/pillars.html,1,1,1,INF,0.43,0,0,0,ACCT0023867,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,1.8,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,136,140,249,79.78723404,1.39,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,2.34,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,4.73,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,2.43,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,0.92,0,10,58.82,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,0.45,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,0.16,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,10,11,34,INF,3.85,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,4.27,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,8,9,30,100,2.11,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,117,127,271,33.33333333,1.1,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,108,117,258,40,2.64,0,1,0.85,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,28,29,100,INF,2.77,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,1.51,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,21,21,54,0,0.8,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,1.65,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,1.11,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,0.86,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,1.54,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,13,14,34,50,0.78,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,16,16,27,50,2.03,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,8,8,10,33.33333333,0.26,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,4.56,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,25.97,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,3.97,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,2.52,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.57,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,7.05,0,2,200,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,2,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,100,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,4,50,2.5,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/pillars/go-live.html,1,1,1,INF,10.1,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/pillars.html,1,1,1,INF,0.43,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,50,0.68,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,4,0,22.53,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,0,1.7,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,2,INF,0.22,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,1,1,INF,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/software-asset-mgmt.html,1,1,1,INF,0,0,0,0,ACCT0106566,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,0.54,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,136,140,249,79.78723404,1.39,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,2.34,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,4.73,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,2.43,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,0.92,0,10,58.82,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,0.45,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,0.16,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,10,11,34,INF,3.85,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,4.27,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,8,9,30,100,2.11,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,117,127,271,33.33333333,1.1,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,108,117,258,40,2.64,0,1,0.85,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,28,29,100,INF,2.77,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,1.51,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,21,21,54,0,0.8,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,1.65,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,1.11,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,0.86,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,1.54,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,13,14,34,50,0.78,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,16,16,27,50,2.03,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,8,8,10,33.33333333,0.26,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,4.56,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,25.97,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,3.97,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,2.52,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.57,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,7.05,0,2,200,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,2,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,100,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,4,50,2.5,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/pillars/go-live.html,1,1,1,INF,10.1,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/pillars.html,1,1,1,INF,0.43,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,50,0.68,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,4,0,22.53,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,0,1.7,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,2,INF,0.22,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,1,1,INF,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/software-asset-mgmt.html,1,1,1,INF,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,0,1.77,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,0,0.15,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,1,1,INF,2.65,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0,0,0,0,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/company/trust/gdpr.html,0,0,0,0,INF,0,0,INF,ACCT0071663,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,1.1,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,13,13,18,20,0.42,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,8,8,19,20,0.84,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,0.16,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,0.01,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.35,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,0.07,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,5.96,0,5,166.67,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,1.5,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,9,50,1.45,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,1.99,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0.75,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,1,1,1,INF,0.18,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,INF,1.27,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,8,INF,2.02,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,0.07,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,1,INF,0.22,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/upgrade,1,1,1,INF,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,INF,1.52,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,136,140,249,79.78723404,1.39,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,2.34,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,4.73,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,2.43,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,0.92,0,10,58.82,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,0.45,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,0.16,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,10,11,34,INF,3.85,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,4.27,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,8,9,30,100,2.11,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,117,127,271,33.33333333,1.1,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,108,117,258,40,2.64,0,1,0.85,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan.html,28,29,100,INF,2.77,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,1.51,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize.html,21,21,54,0,0.8,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,1.65,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,1.11,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,0.86,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,1.54,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,13,14,34,50,0.78,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,16,16,27,50,2.03,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,8,8,10,33.33333333,0.26,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,4.56,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,25.97,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,3.97,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,2.52,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.57,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,7.05,0,2,200,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,2,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,1,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,100,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,4,50,2.5,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/pillars/go-live.html,1,1,1,INF,10.1,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/pillars.html,1,1,1,INF,0.43,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,2,2,2,50,0.68,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,4,0,22.53,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,0,1.7,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy.html,1,1,2,INF,0.22,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,1,1,INF,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/lpbp/software-asset-mgmt.html,1,1,1,INF,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success.html,1,1,2,0,1.77,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,0,0.15,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,1,1,INF,2.65,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,0,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/company/trust/gdpr.html,0,0,0,0,INF,0,0,INF,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-it.html,2,2,6,0,2.29,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,INF,0.2,0,0,0,ACCT0000069,Tue. 24 Jul. 2018,day

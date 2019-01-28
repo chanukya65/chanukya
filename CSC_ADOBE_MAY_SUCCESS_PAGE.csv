@@ -1,0 +1,1240 @@
+ITEM,UNIQUE_VISITORS,VISITS,PAGE_VIEWS,BOUNCES,TIME_SPENT_ON_PAGE_(MIN),E89_VIDEO_VIEWS,E17_FORM_SUCCESS,FORM_SUBMISSIONS,TOTAL_WEEKLY_UNIQUE_VISITORS,ENTRIES,TOTAL_TIME_SPENT,ACCOUNT_NUMBER,START_DATE_OF_WEEK,GRANULARITY,SEGMENT_ID,GROUP,ETL_EXTRACT_DATE
+www.servicenow.com/success.html,33,36,55,18,0.97,0,0,0,46,31,2102,ISP Visitor,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,14,14,25,4,2.94,2,0,0,46,9,2466,ISP Visitor,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,6,6,18,0,0.71,0,0,0,46,0,254,ISP Visitor,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,5,5,11,1,0.21,0,0,0,46,1,64,ISP Visitor,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,3,3,7,0,7.42,0,0,0,46,0,1335,ISP Visitor,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage2.html,3,3,6,0,0.85,0,0,0,46,0,153,ISP Visitor,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,3,3,6,0,0.43,0,0,0,46,0,78,ISP Visitor,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage3.html,3,3,5,0,0.09,0,0,0,46,0,16,ISP Visitor,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,2,2,4,0,1.56,0,0,0,46,0,187,ISP Visitor,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage1.html,2,2,3,0,0.13,0,0,0,46,0,16,ISP Visitor,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,67,80,188,26,1.69,0,0,0,80,49,8131,Not In List,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,19,19,35,5,1.22,2,0,0,80,6,1391,Not In List,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,18,18,46,0,1.07,0,0,0,80,0,1151,Not In List,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,12,12,23,0,0.32,0,0,0,80,2,233,Not In List,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,7,10,11,2,0.33,0,0,0,80,3,196,Not In List,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,7,8,13,2,3.29,0,0,0,80,3,1578,Not In List,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,6,6,10,0,1.01,0,4,66.67,80,0,363,Not In List,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,5,6,18,0,1.38,0,0,0,80,0,496,Not In List,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,5,5,8,1,0.58,0,0,0,80,1,173,Not In List,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,4,6,7,0,0.64,0,0,0,80,1,232,Not In List,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,15,15,20,6,0.24,0,0,0,19,15,217,::unspecified::,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,2,2,2,0,0,0,0,19,2,0,::unspecified::,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/value,1,1,2,0,0.7,0,0,0,19,1,42,::unspecified::,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,1,1,1,0,0.38,0,0,0,19,1,23,::unspecified::,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,1,1,0,0.05,0,0,0,19,1,3,::unspecified::,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,19,7,0,::unspecified::,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/sucess.html,0,0,0,0,INF,0,0,INF,19,1,0,::unspecified::,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/value-calculator-csm.html,0,0,0,0,INF,0,0,INF,19,1,0,::unspecified::,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,3,3,3,3,0,0,0,0,3,3,0,ACCT0065581,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/1/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,53,58,78,15,1.03,3,0,0,90,31,3595,ISP Visitor,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,37,41,80,9,1.07,0,0,0,90,23,2642,ISP Visitor,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,17,17,22,0,0.35,0,5,29.41,90,1,359,ISP Visitor,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,8,8,13,0,0.35,0,0,0,90,0,170,ISP Visitor,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,7,8,21,0,3.91,0,0,0,90,0,1876,ISP Visitor,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,4,4,5,0,0.25,0,0,0,90,0,59,ISP Visitor,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,3,3,5,1,0.14,0,0,0,90,1,25,ISP Visitor,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,2,2,5,0,0.35,0,0,0,90,0,42,ISP Visitor,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,2,2,4,0,0.42,0,0,0,90,0,50,ISP Visitor,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,2,2,2,0,1.83,0,0,0,90,1,220,ISP Visitor,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,140,151,245,22,1.15,2,0,0,224,88,10454,Not In List,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,82,98,256,22,2.17,0,0,0,224,65,12731,Not In List,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,50,52,90,2,1.59,0,34,65.38,224,2,4956,Not In List,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,25,26,58,0,2.96,0,0,0,224,1,4623,Not In List,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,23,25,42,0,0.88,0,0,0,224,2,1315,Not In List,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,15,17,31,1,1.14,0,0,0,224,2,1165,Not In List,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,13,17,43,1,2.82,0,0,0,224,2,2876,Not In List,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,12,13,25,0,2.74,0,0,0,224,0,2135,Not In List,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,11,12,14,2,2.22,0,0,0,224,3,1597,Not In List,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage1.html,7,9,19,0,0.43,0,0,0,224,0,233,Not In List,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,18,19,37,5,4.23,0,0,0,33,18,4826,::unspecified::,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,14,15,18,5,0.32,0,0,0,33,10,285,::unspecified::,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itsm/modernize-itsm.html,2,3,10,0,6.7,0,0,0,33,1,1206,::unspecified::,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,2,2,2,1,0.22,0,0,0,33,2,26,::unspecified::,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,2,2,2,0,3.57,0,0,0,33,0,428,::unspecified::,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,2,3,1,0.09,0,0,0,33,1,11,::unspecified::,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/innovate-at-scale.html,1,1,1,0,0,0,0,0,33,0,0,::unspecified::,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,33,9,0,::unspecified::,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpebk/take-your-service-availiability-to-new-heights.html,0,0,0,0,INF,0,0,INF,33,7,0,::unspecified::,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/events.html,0,0,0,0,INF,0,0,INF,33,2,0,::unspecified::,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,4,4,6,3,0.12,0,0,0,5,3,30,ACCT0065581,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,2,0,11,0,0,0,5,0,660,ACCT0065581,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,0,0.55,0,0,0,5,0,33,ACCT0065581,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,0,0.58,0,0,0,5,1,35,ACCT0065581,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,5,1,0,ACCT0065581,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,3,4,4,0,5.67,0,0,0,3,1,1360,ACCT0008833,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,1,2,18,0,0.84,0,17,850,3,1,101,ACCT0008833,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpebk/take-your-service-availiability-to-new-heights.html,0,0,0,0,INF,0,0,INF,3,3,0,ACCT0008833,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,2,0,0.23,0,0,0,1,0,14,ACCT0048703,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0048703,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpebk/take-your-service-availiability-to-new-heights.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0048703,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/2/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,105,110,194,51,0.99,0,0,0,117,93,6561,ISP Visitor,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,21,21,41,0,0.34,0,0,0,117,0,428,ISP Visitor,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,15,15,27,1,2.7,2,0,0,117,3,2431,ISP Visitor,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,13,13,27,0,1.1,0,0,0,117,1,860,ISP Visitor,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,11,20,0,0.28,0,0,0,117,1,184,ISP Visitor,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,8,8,15,0,1.1,0,0,0,117,0,526,ISP Visitor,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itbm/it-business-management.html,7,7,15,0,4.35,0,0,0,117,1,1827,ISP Visitor,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,6,6,9,0,0.85,0,3,50,117,0,305,ISP Visitor,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/upgrade-servicenow-quicker.html,4,4,7,0,0.15,0,2,50,117,0,37,ISP Visitor,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,3,3,6,1,0.17,0,0,0,117,2,30,ISP Visitor,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,77,86,192,25,1.47,0,0,0,99,60,7563,Not In List,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,18,20,36,4,0.66,3,0,0,99,8,796,Not In List,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,17,18,38,0,2.33,0,0,0,99,1,2513,Not In List,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,11,13,35,1,4.27,0,0,0,99,5,3327,Not In List,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,11,11,26,0,0.29,0,0,0,99,1,193,Not In List,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,8,13,25,1,0.75,0,0,0,99,3,583,Not In List,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,8,8,12,0,0.19,0,0,0,99,1,91,Not In List,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage1.html,7,9,12,0,0.71,0,0,0,99,2,381,Not In List,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage2.html,7,8,14,0,2,0,0,0,99,1,961,Not In List,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,7,8,14,0,1.17,0,0,0,99,0,562,Not In List,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,33,35,61,12,1.28,0,0,0,37,33,2696,::unspecified::,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage3.html,1,2,2,1,0.01,0,0,0,37,2,1,::unspecified::,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage2.html,1,1,3,0,3.72,0,0,0,37,0,223,::unspecified::,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,3,0,0.78,0,0,0,37,0,47,::unspecified::,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,1,1,2,0,3.9,0,0,0,37,1,234,::unspecified::,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,1,2,0,0.98,0,0,0,37,0,59,::unspecified::,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,1,1,1,1,0,0,0,0,37,1,0,::unspecified::,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/upgrade-servicenow-quicker.html,1,1,1,0,4.92,0,0,0,37,0,295,::unspecified::,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itom/prevent-outages-itom.html,1,1,1,0,0.05,0,0,0,37,1,3,::unspecified::,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,0,0,0,0,0,37,0,0,::unspecified::,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,15,15,15,14,0.01,0,0,0,16,15,11,ACCT0065581,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,1,1,2,0,0.4,0,0,0,16,1,24,ACCT0065581,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management/stage1.html,1,1,1,0,0.48,0,0,0,16,0,29,ACCT0065581,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,1,0,0,0,0,0,16,0,0,ACCT0065581,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0106566,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,2,1,0,ACCT0048703,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,0,0,0,0,0,2,0,0,ACCT0048703,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpebk/take-your-service-availiability-to-new-heights.html,0,0,0,0,INF,0,0,INF,2,1,0,ACCT0048703,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0073335,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/3/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,86,93,178,25,1.17,0,0,0,111,63,6536,ISP Visitor,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,28,28,48,6,1.75,4,0,0,111,13,2943,ISP Visitor,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,11,11,29,0,0.48,0,0,0,111,0,317,ISP Visitor,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,10,10,16,1,2.15,0,6,60,111,1,1290,ISP Visitor,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,7,7,13,0,0.47,1,0,0,111,0,196,ISP Visitor,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,7,7,11,4,0.17,0,0,0,111,4,73,ISP Visitor,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,6,8,19,1,1.75,0,0,0,111,2,842,ISP Visitor,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,6,8,11,0,0.36,0,0,0,111,3,173,ISP Visitor,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itsm/modernize-itsm.html,5,5,14,0,0.77,0,0,0,111,0,230,ISP Visitor,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage1.html,5,5,7,0,0.26,0,0,0,111,0,77,ISP Visitor,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,124,156,419,25,2.34,0,0,0,150,74,21944,Not In List,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,32,35,78,0,2.2,0,0,0,150,3,4620,Not In List,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,30,31,58,4,1.84,4,0,0,150,15,3427,Not In List,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,19,19,41,0,1.91,0,0,0,150,0,2176,Not In List,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,12,12,22,2,1.96,0,0,0,150,3,1410,Not In List,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,10,10,14,0,0.71,0,0,0,150,0,425,Not In List,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,9,10,18,1,0.54,0,0,0,150,1,321,Not In List,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,8,13,26,1,5.24,0,0,0,150,4,4084,Not In List,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,8,10,14,1,1.81,1,0,0,150,3,1087,Not In List,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,8,9,24,0,4.19,3,0,0,150,0,2263,Not In List,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,9,10,21,5,0.47,0,0,0,19,10,284,::unspecified::,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,9,11,5,0.23,0,0,0,19,7,123,::unspecified::,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars/pdf/vision-and-outcomes.html,1,1,1,0,1.67,0,0,0,19,1,100,::unspecified::,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,0.8,0,0,0,19,1,48,::unspecified::,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,19,7,0,::unspecified::,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/value-calculator-it.html,0,0,0,0,INF,0,0,INF,19,2,0,::unspecified::,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/CSM-EN,0,0,0,0,INF,0,0,INF,19,1,0,::unspecified::,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/customersuccess,0,0,0,0,INF,0,0,INF,19,1,0,::unspecified::,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpebk/take-your-service-availiability-to-new-heights.html,0,0,0,0,INF,0,0,INF,19,1,0,::unspecified::,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/company/media/press-room/servicenow-acquires-parlo.html,0,0,0,0,INF,0,0,INF,19,1,0,::unspecified::,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,9,9,9,9,0,0,0,0,9,9,0,ACCT0065581,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,3,0,0.17,0,0,0,1,0,10,ACCT0021317,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage4.html,1,1,2,0,0.52,0,0,0,1,0,31,ACCT0021317,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,1,1,1,0,0.02,0,0,0,1,0,1,ACCT0021317,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage2.html,1,1,1,0,0.02,0,0,0,1,0,1,ACCT0021317,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/value-calculator-it.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0021317,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,3,0,4.57,0,0,0,1,1,274,ACCT0106566,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/4/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,59,66,167,1,1.79,0,0,0,68,12,7108,ISP Visitor,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,11,11,24,0,2.57,0,0,0,68,0,1697,ISP Visitor,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,7,7,13,0,1.3,0,0,0,68,0,547,ISP Visitor,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,11,3,0.41,1,0,0,68,3,171,ISP Visitor,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,6,6,8,1,0.49,0,0,0,68,1,177,ISP Visitor,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,5,5,9,0,0.28,0,0,0,68,1,84,ISP Visitor,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,4,4,10,0,0.61,0,0,0,68,1,147,ISP Visitor,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,4,4,5,0,0.59,0,0,0,68,0,142,ISP Visitor,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,4,4,5,0,0.36,0,0,0,68,0,87,ISP Visitor,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,4,4,4,0,2.4,0,0,0,68,0,576,ISP Visitor,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,28,33,101,5,1.99,0,0,0,30,13,3935,Not In List,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,5,5,16,0,2.07,0,0,0,30,0,622,Not In List,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,3,3,11,0,0.42,0,0,0,30,0,75,Not In List,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,3,3,7,0,0.17,0,0,0,30,0,31,Not In List,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,3,3,6,0,0.77,0,0,0,30,0,139,Not In List,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,2,2,5,1,1.86,0,0,0,30,1,223,Not In List,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,0,1.05,0,0,0,30,0,126,Not In List,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,2,2,2,0,0.21,0,0,0,30,0,25,Not In List,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/incident-response.html,2,2,2,0,0.13,0,0,0,30,1,16,Not In List,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage1.html,1,1,5,0,0.5,0,0,0,30,1,30,Not In List,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,2,2,3,1,0.89,0,0,0,3,1,107,::unspecified::,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,0,0.2,1,0,0,3,1,12,::unspecified::,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,1,1,0,0,0,0,0,3,0,0,::unspecified::,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,3,5,0,::unspecified::,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/content/dam/servicenow/demos/www-demo/Module_1/Mod1.html,0,0,0,0,INF,0,0,INF,3,1,0,::unspecified::,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/products/problem-management.html,0,0,0,0,INF,0,0,INF,3,1,0,::unspecified::,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,3,1,0,::unspecified::,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,3,1,0,::unspecified::,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/company/media/press-room/servicenow-acquires-parlo.html,0,0,0,0,INF,0,0,INF,3,1,0,::unspecified::,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5759/,0,0,0,0,INF,0,0,INF,3,1,0,::unspecified::,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0065581,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/5/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,75,79,163,10,1.45,0,0,0,89,24,6862,ISP Visitor,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,11,12,20,0,1.75,0,0,0,89,0,1262,ISP Visitor,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,7,9,9,2,0.74,0,0,0,89,2,400,ISP Visitor,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,7,8,13,0,0.48,0,0,0,89,2,231,ISP Visitor,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,3,4,5,1,0.18,1,0,0,89,1,43,ISP Visitor,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itsm/modernize-itsm.html,3,3,19,0,14.39,0,0,0,89,1,2590,ISP Visitor,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,3,3,4,0,0.61,0,0,0,89,1,109,ISP Visitor,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,3,0,1.19,0,0,0,89,1,215,ISP Visitor,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,3,3,3,0,0.21,0,0,0,89,0,38,ISP Visitor,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/upgrades/communicate-program-upgrades.html,2,4,4,1,3.25,0,0,0,89,1,781,ISP Visitor,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,64,71,157,8,1.87,0,0,0,70,19,7983,Not In List,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,8,8,16,0,0.32,0,0,0,70,0,152,Not In List,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,7,8,22,0,2.44,0,0,0,70,1,1170,Not In List,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,5,6,11,0,0.45,0,0,0,70,0,163,Not In List,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,5,5,12,0,0.45,0,0,0,70,0,134,Not In List,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,5,5,5,0,0.24,0,0,0,70,0,72,Not In List,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,4,5,5,0,0.61,0,0,0,70,0,183,Not In List,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,3,3,8,1,0.36,0,0,0,70,3,64,Not In List,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,3,3,6,1,0.43,0,0,0,70,2,78,Not In List,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/where-to-start-the-implementation-with-servicenow.html,3,3,5,0,7.25,0,0,0,70,0,1305,Not In List,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,12,13,23,4,2.14,0,0,0,14,9,1672,::unspecified::,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,2,2,2,2,0,0,0,0,14,2,0,::unspecified::,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,14,10,0,::unspecified::,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpdem/demonow-all.html,0,0,0,0,INF,0,0,INF,14,2,0,::unspecified::,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,14,2,0,::unspecified::,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,14,1,0,::unspecified::,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/succssess,0,0,0,0,INF,0,0,INF,14,1,0,::unspecified::,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/value-calculator-hr.html,0,0,0,0,INF,0,0,INF,14,1,0,::unspecified::,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,14,1,0,::unspecified::,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/company/media/press-room/servicenow-acquires-parlo.html,0,0,0,0,INF,0,0,INF,14,1,0,::unspecified::,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,4,4,5,3,0.12,0,0,0,4,3,28,ACCT0065581,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,2,0,0.47,0,0,0,4,0,28,ACCT0065581,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/6/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,138,160,355,24,1.7,0,0,0,166,57,16323,ISP Visitor,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,17,17,30,0,0.88,0,0,0,166,1,901,ISP Visitor,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,13,16,27,5,0.67,0,0,0,166,8,641,ISP Visitor,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,10,10,21,0,1.96,0,0,0,166,0,1178,ISP Visitor,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,9,11,28,2,2.15,0,0,0,166,7,1421,ISP Visitor,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,8,10,15,2,1.38,0,0,0,166,4,829,ISP Visitor,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,8,9,18,1,0.28,0,0,0,166,1,153,ISP Visitor,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,8,8,12,0,2.97,0,0,0,166,0,1426,ISP Visitor,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,6,6,7,0,0.5,0,0,0,166,0,181,ISP Visitor,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,5,5,13,0,0.39,0,0,0,166,0,116,ISP Visitor,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,245,264,564,36,2.25,0,0,0,265,97,35591,Not In List,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,22,23,44,1,1.63,0,0,0,265,2,2250,Not In List,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,21,21,39,1,4.37,0,0,0,265,2,5511,Not In List,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,18,19,55,0,3.5,0,0,0,265,1,3992,Not In List,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,12,12,21,1,0.66,0,0,0,265,2,474,Not In List,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,10,11,19,0,0.43,0,0,0,265,0,284,Not In List,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,10,10,15,2,2.02,0,0,0,265,3,1211,Not In List,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,10,10,11,0,2.86,0,0,0,265,0,1714,Not In List,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,9,10,19,0,2.77,0,0,0,265,0,1659,Not In List,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,7,8,26,1,2.59,0,3,37.5,265,1,1243,Not In List,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,24,24,35,9,1.23,0,0,0,27,20,1767,::unspecified::,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,1,3,3,3,0,0,0,0,27,3,0,::unspecified::,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,0,0.13,0,0,0,27,0,8,::unspecified::,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,1,1,1,1,0,0,0,0,27,1,0,::unspecified::,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,1,0,0,0,0,27,1,0,::unspecified::,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/upgrade-servicenow-quicker.html,1,1,1,0,0.12,0,0,0,27,0,7,::unspecified::,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,27,19,0,::unspecified::,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,27,2,0,::unspecified::,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpdem/demonow.html,0,0,0,0,INF,0,0,INF,27,1,0,::unspecified::,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/customers.html,0,0,0,0,INF,0,0,INF,27,1,0,::unspecified::,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0065581,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage4.html,1,1,1,0,0.1,0,0,0,1,1,6,ACCT0021317,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage3.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0021317,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0008833,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0008833,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0.55,0,0,0,1,0,33,ACCT0048703,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/partners/find-a-partner/deloitte.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0048703,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,2,2,2,2,0,0,0,0,2,2,0,ACCT0071663,5/7/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,574,611,934,356,0.84,0,0,0,635,477,30913,ISP Visitor,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,64,68,133,10,0.97,0,0,0,635,11,3970,ISP Visitor,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,40,40,80,8,0.92,0,0,0,635,8,2209,ISP Visitor,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,39,40,78,8,0.27,0,0,0,635,9,646,ISP Visitor,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,26,26,56,1,0.92,0,0,0,635,2,1434,ISP Visitor,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,18,19,26,0,1.51,0,0,0,635,1,1717,ISP Visitor,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,17,18,28,0,1.51,3,0,0,635,0,1636,ISP Visitor,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,17,17,20,0,1.7,0,0,0,635,0,1738,ISP Visitor,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,16,16,27,0,0.46,0,0,0,635,2,442,ISP Visitor,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,14,14,17,0,3.85,0,0,0,635,0,3234,ISP Visitor,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,513,589,1307,186,1.79,0,0,0,556,393,63352,Not In List,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,91,111,287,3,2.27,0,1,0.9,556,7,15136,Not In List,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,44,53,104,1,0.92,0,0,0,556,7,2919,Not In List,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,43,62,199,4,4.57,0,0,0,556,6,16982,Not In List,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,38,50,72,2,1.51,0,0,0,556,9,4545,Not In List,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,32,42,80,3,2.48,0,0,0,556,5,6258,Not In List,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,27,31,37,0,1.11,0,0,0,556,1,2056,Not In List,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,25,29,52,1,1.73,2,0,0,556,6,3007,Not In List,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,21,22,30,0,2.02,0,0,0,556,0,2667,Not In List,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,20,23,25,0,3.84,0,0,0,556,0,5301,Not In List,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,169,175,231,86,0.45,0,0,0,180,171,4712,::unspecified::,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,7,7,11,1,0.6,0,0,0,180,4,251,::unspecified::,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,3,3,3,2,0.39,0,0,0,180,3,70,::unspecified::,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,2,2,3,0,1.21,0,0,0,180,1,145,::unspecified::,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,2,2,3,0,0.3,0,0,0,180,1,36,::unspecified::,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,2,2,3,0,0.18,0,0,0,180,1,22,::unspecified::,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage2.html,1,2,2,1,7.66,0,0,0,180,2,919,::unspecified::,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,0,0.32,0,0,0,180,0,19,::unspecified::,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,1,0,0,0,0,180,1,0,::unspecified::,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,1,1,1,1,0,0,0,0,180,1,0,::unspecified::,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,134,134,134,134,0,0,0,0,139,134,0,ACCT0065581,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,3,3,3,3,0,0,0,0,139,3,0,ACCT0065581,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,2,2,2,2,0,0,0,0,139,2,0,ACCT0065581,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,2,2,5,0,3.58,0,0,0,2,2,429,ACCT0106566,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,5,0,1.35,0,0,0,2,0,81,ACCT0106566,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,1,1,2,0,9.1,0,0,0,2,0,546,ACCT0106566,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,1,2,0,0.28,0,0,0,2,0,17,ACCT0106566,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,1,1,1,0,1.63,0,0,0,2,0,98,ACCT0106566,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,3,3,5,1,1.32,0,0,0,3,3,237,ACCT0008833,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,1,0,0,0,0,0,3,0,0,ACCT0008833,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,5,6,14,1,2.08,0,0,0,5,5,749,ACCT0073335,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/pa/optimize-performance.html,1,2,2,0,0.02,0,0,0,5,1,2,ACCT0073335,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,3,0,0.38,0,0,0,5,0,23,ACCT0073335,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage1.html,1,1,1,0,0.85,0,0,0,5,0,51,ACCT0073335,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,0,0.82,0,0,0,5,0,49,ACCT0073335,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,4,4,5,2,0.69,0,0,0,4,4,166,ACCT0071663,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,1,0,0,0,0,0,4,0,0,ACCT0071663,5/8/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,256,272,469,99,0.85,0,1,0.37,292,166,13844,ISP Visitor,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,35,38,97,1,2,0,0,0,292,4,4553,ISP Visitor,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,25,26,29,1,2.06,0,0,0,292,5,3217,ISP Visitor,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,16,17,43,2,0.57,0,1,5.88,292,4,582,ISP Visitor,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,14,15,23,3,0.28,0,0,0,292,4,248,ISP Visitor,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,14,15,18,0,2.7,0,0,0,292,0,2433,ISP Visitor,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/where-to-start-the-implementation-with-servicenow.html,12,12,20,0,4.04,0,3,25,292,1,2910,ISP Visitor,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,10,10,18,2,2.24,1,0,0,292,4,1345,ISP Visitor,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,8,9,17,4,0.28,0,0,0,292,4,151,ISP Visitor,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,7,7,10,0,2.17,0,0,0,292,0,910,ISP Visitor,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,313,380,827,78,1.97,0,0,0,344,204,44973,Not In List,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,73,86,198,0,2.21,0,0,0,344,5,11399,Not In List,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,34,46,114,1,3.27,0,0,0,344,9,9037,Not In List,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,30,38,78,0,2.05,0,0,0,344,5,4673,Not In List,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,28,32,53,1,1.99,0,0,0,344,8,3826,Not In List,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,20,28,86,3,4.88,0,0,0,344,6,8190,Not In List,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,19,21,23,0,2.11,0,0,0,344,1,2657,Not In List,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,17,23,36,1,1.9,0,0,0,344,3,2617,Not In List,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,16,16,16,0,1.4,0,0,0,344,0,1348,Not In List,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,14,16,27,0,1.49,0,0,0,344,3,1430,Not In List,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,66,70,104,26,1.33,0,0,0,80,66,5603,::unspecified::,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,3,4,4,4,0,0,0,0,80,4,0,::unspecified::,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,2,2,7,0,0.68,0,0,0,80,1,81,::unspecified::,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,2,2,2,2,0,0,0,0,80,2,0,::unspecified::,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/incident-response.html,2,2,2,1,0.57,0,0,0,80,1,69,::unspecified::,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,1,0,0,0,0,80,1,0,::unspecified::,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,1,0,0,0,0,80,1,0,::unspecified::,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/where-to-start-the-implementation-with-servicenow.html,1,1,1,1,0,0,0,0,80,1,0,::unspecified::,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage4.html,1,1,1,1,0,0,0,0,80,1,0,::unspecified::,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,1,1,1,1,0,0,0,0,80,1,0,::unspecified::,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,18,18,18,17,0,0,0,0,20,17,5,ACCT0065581,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,1,1,1,0,0,0,0,20,1,0,ACCT0065581,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,1,0,0,0,0,20,1,0,ACCT0065581,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,20,1,0,ACCT0065581,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,2,2,2,0,0.26,0,0,0,2,0,31,ACCT0106566,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpdem/demonow-all.html,0,0,0,0,INF,0,0,INF,2,1,0,ACCT0106566,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/products-by-category.html,0,0,0,0,INF,0,0,INF,2,1,0,ACCT0106566,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0008833,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/company/trust/security-and-assurance.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0008833,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,2,2,2,1,0,0,0,0,2,1,0,ACCT0048703,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,2,1,0,ACCT0048703,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,0,0.05,0,0,0,1,1,3,ACCT0073335,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0073335,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,2,0,0.9,0,0,0,1,0,54,ACCT0071663,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,0.55,0,0,0,1,0,33,ACCT0071663,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0071663,5/9/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,149,161,284,42,0.97,0,0,0,176,75,9364,ISP Visitor,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,22,22,44,2,0.54,0,0,0,176,2,708,ISP Visitor,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,12,14,26,5,0.95,0,0,0,176,8,801,ISP Visitor,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,12,13,23,1,0.4,0,0,0,176,3,314,ISP Visitor,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,11,13,19,1,0.96,0,0,0,176,3,749,ISP Visitor,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,10,10,16,3,2.36,0,0,0,176,3,1414,ISP Visitor,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,6,7,7,0,0.71,0,0,0,176,0,300,ISP Visitor,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,6,6,7,0,1.54,0,0,0,176,0,554,ISP Visitor,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,5,6,7,0,0.22,0,0,0,176,1,79,ISP Visitor,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,5,5,5,1,0.54,0,0,0,176,1,162,ISP Visitor,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,196,253,660,43,1.68,0,0,0,222,123,25436,Not In List,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,48,61,163,3,3.53,0,0,0,222,12,12927,Not In List,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,27,37,72,0,1.93,0,0,0,222,8,4284,Not In List,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,20,23,30,2,0.48,0,0,0,222,2,657,Not In List,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,18,24,35,0,1.48,0,0,0,222,6,2137,Not In List,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,16,23,32,2,2.76,0,0,0,222,5,3810,Not In List,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,15,17,37,0,1.44,2,0,0,222,2,1469,Not In List,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,13,16,21,0,1.01,0,0,0,222,2,967,Not In List,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,12,16,30,0,0.67,0,0,0,222,2,645,Not In List,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,12,12,31,0,0.77,0,0,0,222,0,554,Not In List,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,42,43,58,18,0.39,0,0,0,53,39,997,::unspecified::,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,3,4,4,3,1.05,0,0,0,53,4,252,::unspecified::,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,2,3,2,1,0.58,0,0,0,53,3,104,::unspecified::,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,2,2,2,2,0,0,0,0,53,2,0,::unspecified::,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,1,0,0,0,0,53,1,0,::unspecified::,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage4.html,1,1,1,1,0,0,0,0,53,1,0,::unspecified::,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,1,1,1,1,0,0,0,0,53,1,0,::unspecified::,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage2.html,1,1,1,1,0,0,0,0,53,1,0,::unspecified::,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,1.72,0,0,0,53,1,103,::unspecified::,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,53,12,0,::unspecified::,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,13,13,13,13,0,0,0,0,15,13,0,ACCT0065581,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,1,1,1,1,0,0,0,0,15,1,0,ACCT0065581,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,1,0,0,0,0,15,1,0,ACCT0065581,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0.47,0,0,0,1,0,28,ACCT0073335,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0073335,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/10/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,123,131,332,43,1.03,0,0,0,143,77,8101,ISP Visitor,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,16,16,34,0,0.69,0,0,0,143,0,664,ISP Visitor,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,11,11,20,2,0.56,0,0,0,143,2,372,ISP Visitor,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,10,10,17,1,0.59,0,0,0,143,1,355,ISP Visitor,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,7,8,8,1,0.47,0,0,0,143,1,225,ISP Visitor,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,6,7,8,4,0.07,1,0,0,143,4,28,ISP Visitor,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,6,6,7,0,0.92,0,0,0,143,0,331,ISP Visitor,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/grc/unified-grc.html,4,4,18,0,4.42,0,0,0,143,1,1061,ISP Visitor,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,4,4,11,0,0.64,0,0,0,143,0,154,ISP Visitor,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,4,4,7,1,0.4,0,0,0,143,1,95,ISP Visitor,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,135,138,251,25,1.18,0,0,0,149,63,9731,Not In List,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,20,21,49,0,0.59,0,0,0,149,2,747,Not In List,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,10,10,17,0,0.17,0,0,0,149,1,105,Not In List,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,10,10,16,0,2.54,2,0,0,149,2,1527,Not In List,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,8,8,15,0,0.72,0,0,0,149,0,344,Not In List,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,7,7,9,0,0.2,0,0,0,149,1,83,Not In List,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,5,6,13,0,10.29,0,0,0,149,1,3705,Not In List,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,5,5,5,0,7.26,0,0,0,149,0,2179,Not In List,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,4,4,6,0,5.61,0,0,0,149,1,1346,Not In List,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage2.html,4,4,5,2,0.72,0,0,0,149,2,173,Not In List,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,24,24,34,10,1.13,0,0,0,28,21,1621,::unspecified::,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,1,2,2,2,0,0,0,0,28,2,0,::unspecified::,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,1,1,1,1,0,0,0,0,28,1,0,::unspecified::,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,1,1,1,1,0,0,0,0,28,1,0,::unspecified::,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,1,0,0,0,0,28,1,0,::unspecified::,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,28,6,0,::unspecified::,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/customers.html,0,0,0,0,INF,0,0,INF,28,1,0,::unspecified::,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/content/dam/servicenow/demos/www-demo/Module_1/Mod1.html,0,0,0,0,INF,0,0,INF,28,1,0,::unspecified::,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,28,1,0,::unspecified::,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,28,1,0,::unspecified::,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,13,13,13,13,0,0,0,0,14,13,0,ACCT0065581,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,1,1,1,1,0,0,0,0,14,1,0,ACCT0065581,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,3,0,2.03,0,0,0,1,1,122,ACCT0008833,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,1,2,0,0.15,0,0,0,1,0,9,ACCT0008833,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,2,0,0.85,0,0,0,1,1,51,ACCT0048703,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0048703,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,1,1,6,0,0.98,0,0,0,1,0,59,ACCT0073335,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,1,1,4,0,0.72,0,0,0,1,0,43,ACCT0073335,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,2,0,0.25,0,0,0,1,1,15,ACCT0073335,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/11/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,34,35,71,11,0.68,0,0,0,44,17,1434,ISP Visitor,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,5,5,12,1,7.33,2,0,0,44,5,2198,ISP Visitor,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,5,5,12,1,0.3,0,0,0,44,1,89,ISP Visitor,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,4,4,9,0,0.53,0,0,0,44,1,126,ISP Visitor,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,3,5,3,1,5.21,0,0,0,44,2,1564,ISP Visitor,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,3,3,7,0,3.34,0,0,0,44,0,602,ISP Visitor,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,3,3,3,0,0.23,0,0,0,44,0,41,ISP Visitor,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,2,2,7,0,0.98,0,5,250,44,0,118,ISP Visitor,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,2,2,7,0,0.28,0,0,0,44,0,34,ISP Visitor,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/where-to-start-the-implementation-with-servicenow.html,2,2,3,0,0.38,0,1,50,44,0,46,ISP Visitor,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,17,17,28,1,1.29,0,0,0,18,3,1315,Not In List,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,2,2,6,0,0.47,0,0,0,18,0,56,Not In List,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/hr/consumerize-employee-experience.html,1,1,4,0,7.82,0,0,0,18,0,469,Not In List,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,1,1,2,0,2.9,0,0,0,18,0,174,Not In List,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,1,1,2,0,1.77,0,1,100,18,0,106,Not In List,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,1,1,1,0,21.73,0,0,0,18,0,1304,Not In List,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,0,0.1,0,0,0,18,1,6,Not In List,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,18,9,0,Not In List,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpdem/demonow-all.html,0,0,0,0,INF,0,0,INF,18,2,0,Not In List,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/customersuccess,0,0,0,0,INF,0,0,INF,18,1,0,Not In List,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,10,10,12,3,0.34,0,0,0,13,7,206,::unspecified::,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,1,1,2,0,0.45,0,0,0,13,0,27,::unspecified::,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,1,1,1,1,0,0,0,0,13,1,0,::unspecified::,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,1,1,0,0,0,0,13,1,0,::unspecified::,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,1,0,0,0,0,13,1,0,::unspecified::,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,13,2,0,::unspecified::,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5759,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/services/training-and-certification.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/workflow/ai-strategy.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0065581,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/12/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,66,74,108,13,1.21,0,0,0,76,27,5388,ISP Visitor,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,11,11,23,0,1.59,0,0,0,76,0,1052,ISP Visitor,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,6,7,9,2,0.62,0,0,0,76,2,259,ISP Visitor,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,6,6,28,0,1.03,0,0,0,76,1,372,ISP Visitor,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,4,4,11,0,2.41,0,0,0,76,1,578,ISP Visitor,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,4,4,5,0,0.93,0,0,0,76,0,223,ISP Visitor,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,3,3,9,0,2.47,0,0,0,76,0,445,ISP Visitor,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,2,2,6,0,0.48,0,0,0,76,0,58,ISP Visitor,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itsm/modernize-itsm.html,2,2,6,0,0.42,0,0,0,76,0,51,ISP Visitor,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,2,2,4,1,0.11,0,0,0,76,1,13,ISP Visitor,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,49,56,122,9,1.72,0,1,1.79,59,26,5788,Not In List,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,5,6,12,0,3.54,0,0,0,59,0,1273,Not In List,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,5,6,10,0,3.34,1,0,0,59,3,1202,Not In List,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,5,5,15,0,1.05,0,0,0,59,1,316,Not In List,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,4,5,9,0,0.97,0,0,0,59,0,292,Not In List,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,4,4,5,0,1.48,0,0,0,59,0,354,Not In List,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,3,4,6,0,0.79,0,0,0,59,0,189,Not In List,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/hr/consumerize-employee-experience.html,3,4,4,1,0.08,0,0,0,59,3,20,Not In List,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage1.html,3,3,4,0,0.11,0,0,0,59,0,19,Not In List,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/launch-services/stage1.html,3,3,3,0,0.54,0,0,0,59,1,98,Not In List,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,6,6,9,1,0.31,0,0,0,9,4,112,::unspecified::,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,1,0,0,0,0,9,1,0,::unspecified::,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,1,1,1,1,0,0,0,0,9,1,0,::unspecified::,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,1,1,1,1,0,0,0,0,9,1,0,::unspecified::,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/services/training-and-certification/certified-system.html,0,0,0,0,INF,0,0,INF,9,2,0,::unspecified::,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/products/customer-service-management.html,0,0,0,0,INF,0,0,INF,9,1,0,::unspecified::,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,9,1,0,::unspecified::,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/events-collection/knowledge18.html,0,0,0,0,INF,0,0,INF,9,1,0,::unspecified::,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0065581,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/13/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,482,512,924,245,1.04,0,0,0,534,408,31952,ISP Visitor,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,60,61,142,3,0.72,0,0,0,534,6,2652,ISP Visitor,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,35,35,59,6,1.3,0,0,0,534,11,2721,ISP Visitor,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,26,26,47,2,0.39,0,0,0,534,2,614,ISP Visitor,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,20,21,38,0,1.89,0,0,0,534,2,2376,ISP Visitor,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,18,21,24,4,1.15,0,0,0,534,5,1453,ISP Visitor,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,18,19,22,0,2.88,0,0,0,534,2,3288,ISP Visitor,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,18,18,33,2,0.7,0,0,0,534,6,755,ISP Visitor,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,16,16,27,2,4.21,4,1,6.25,534,5,4037,ISP Visitor,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,14,14,16,1,3.49,0,0,0,534,1,2931,ISP Visitor,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,475,512,1003,163,1.23,0,1,0.2,522,374,37662,Not In List,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,81,85,267,0,0.99,0,0,0,522,6,5067,Not In List,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,50,51,100,2,0.48,0,0,0,522,3,1464,Not In List,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,39,42,98,1,0.68,0,0,0,522,2,1706,Not In List,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,27,27,65,1,1.07,0,0,0,522,4,1728,Not In List,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,26,28,41,0,1.16,0,0,0,522,1,1955,Not In List,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,25,26,47,1,1.24,3,0,0,522,3,1937,Not In List,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,24,27,43,5,1.21,0,0,0,522,9,1968,Not In List,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,20,22,33,2,1.34,0,0,0,522,13,1765,Not In List,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,20,22,23,1,1.78,0,1,4.55,522,2,2352,Not In List,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,95,99,139,48,0.87,0,0,0,115,96,5165,::unspecified::,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,7,7,7,5,0.04,0,0,0,115,6,17,::unspecified::,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,3,3,5,1,1.96,0,0,0,115,1,352,::unspecified::,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,3,3,3,0,0.38,0,0,0,115,0,69,::unspecified::,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,2,2,4,1,0.32,0,0,0,115,1,38,::unspecified::,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,2,2,4,0,0.38,0,0,0,115,0,45,::unspecified::,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,2,2,3,0,0.94,1,0,0,115,1,113,::unspecified::,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,2,2,2,2,0,0,0,0,115,2,0,::unspecified::,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage4.html,2,2,2,1,0.48,0,0,0,115,1,58,::unspecified::,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,2,2,2,1,0.2,0,0,0,115,2,24,::unspecified::,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,80,80,81,79,0.02,0,0,0,83,80,119,ACCT0065581,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,1,1,1,0,0,0,0,83,1,0,ACCT0065581,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,1,1,1,1,0,0,0,0,83,1,0,ACCT0065581,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,1,0,0,0,0,83,1,0,ACCT0065581,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,4,4,10,3,1.9,0,0,0,4,4,455,ACCT0021317,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,2,0,1.12,0,0,0,1,0,67,ACCT0008833,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0008833,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,4,7,11,3,4.49,0,0,0,4,7,1887,ACCT0071663,5/14/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,262,283,543,107,1.57,0,0,0,304,174,26601,ISP Visitor,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,41,42,113,4,1.22,0,0,0,304,4,3073,ISP Visitor,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,15,16,27,1,0.55,0,0,0,304,1,532,ISP Visitor,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,15,15,36,1,1.24,0,0,0,304,1,1115,ISP Visitor,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,13,13,27,2,0.48,0,1,7.69,304,2,378,ISP Visitor,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,12,12,19,2,2.85,0,0,0,304,3,2053,ISP Visitor,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,11,11,15,0,1.43,0,0,0,304,0,942,ISP Visitor,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,11,11,13,1,2.28,0,0,0,304,2,1502,ISP Visitor,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,10,10,20,1,0.73,0,0,0,304,2,439,ISP Visitor,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,9,11,13,1,0.73,0,0,0,304,6,481,ISP Visitor,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,289,318,658,81,1.36,0,12,3.77,338,182,25903,Not In List,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,58,62,163,1,1.21,0,0,0,338,6,4508,Not In List,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,33,35,84,1,0.47,0,0,0,338,2,980,Not In List,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,27,30,46,8,2.45,4,0,0,338,13,4405,Not In List,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,26,27,57,0,0.53,0,0,0,338,1,855,Not In List,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,19,19,18,1,0.48,0,0,0,338,1,547,Not In List,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,15,19,28,0,1.87,0,0,0,338,9,2127,Not In List,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,15,16,28,2,0.66,0,1,6.25,338,3,633,Not In List,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,15,15,34,0,0.65,0,0,0,338,0,582,Not In List,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,15,15,29,0,5.76,0,0,0,338,0,5186,Not In List,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,48,49,77,19,1.2,0,0,0,59,43,3531,::unspecified::,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,3,4,4,2,0.12,0,0,0,59,4,29,::unspecified::,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,3,3,4,0,0.19,0,0,0,59,1,34,::unspecified::,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,2,2,3,0,0.53,0,0,0,59,0,64,::unspecified::,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,2,2,2,1,0.67,0,0,0,59,2,80,::unspecified::,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,1,2,2,2,0,0,0,0,59,2,0,::unspecified::,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,2,2,1,0.34,0,0,0,59,2,41,::unspecified::,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/takeaway.html,1,1,3,0,0.18,0,0,0,59,0,11,::unspecified::,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/security-center/stage2.html,1,1,1,0,2.68,0,0,0,59,0,161,::unspecified::,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/it-value-calculator.html,1,1,1,0,0.37,0,0,0,59,1,22,::unspecified::,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,33,33,33,33,0,0,0,0,33,33,0,ACCT0065581,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,10,10,12,7,0.13,0,0,0,10,10,78,ACCT0021317,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,1,1,1,0,0,0,0,0,10,0,0,ACCT0021317,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars/enterprise-intro.html,1,1,1,0,6.38,0,0,0,1,0,383,ACCT0106566,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,3,3,4,1,0.31,0,0,0,3,2,56,ACCT0008833,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,3,1,0,ACCT0008833,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0.78,0,0,0,1,0,47,ACCT0071663,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0071663,5/15/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,172,193,375,51,1.11,0,1,0.52,201,103,12890,ISP Visitor,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,25,30,85,0,1,0,1,3.33,201,2,1800,ISP Visitor,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,14,16,32,3,2.15,1,0,0,201,6,2067,ISP Visitor,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,13,13,27,2,0.42,0,0,0,201,3,331,ISP Visitor,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,13,13,15,1,0.9,0,0,0,201,1,704,ISP Visitor,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,12,12,30,0,1.8,0,0,0,201,0,1296,ISP Visitor,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,6,7,9,0,1.09,0,0,0,201,0,457,ISP Visitor,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,6,6,8,3,1.62,0,0,0,201,3,585,ISP Visitor,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,6,6,6,2,1.91,0,0,0,201,2,686,ISP Visitor,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,5,5,10,0,4.07,0,0,0,201,1,1220,ISP Visitor,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,182,209,459,48,1.37,0,0,0,220,106,17119,Not In List,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,29,33,120,2,1.96,0,0,0,220,4,3872,Not In List,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,20,23,55,0,1.21,0,0,0,220,2,1666,Not In List,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,18,18,33,0,1.07,0,0,0,220,1,1153,Not In List,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,17,19,25,2,0.43,0,0,0,220,3,494,Not In List,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,15,18,22,0,1.68,0,0,0,220,1,1810,Not In List,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,12,14,24,0,0.89,0,0,0,220,0,748,Not In List,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,12,12,25,1,1.53,0,0,0,220,2,1103,Not In List,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,33,0,3.53,0,0,0,220,3,2962,Not In List,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,10,13,16,1,2.24,0,0,0,220,2,1746,Not In List,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,25,27,39,11,0.22,0,0,0,33,21,356,::unspecified::,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,3,0,2.75,0,0,0,33,2,330,::unspecified::,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/hr/consumerize-employee-experience.html,1,1,1,1,0,0,0,0,33,1,0,::unspecified::,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,1,1,1,0,0,0,0,33,1,0,::unspecified::,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,1,0,0,0,0,33,1,0,::unspecified::,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,1,0,0,0,0,33,1,0,::unspecified::,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,1,1,1,0,1.87,0,0,0,33,1,112,::unspecified::,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itsm/modernize-itsm.html,1,1,1,0,0.57,0,0,0,33,1,34,::unspecified::,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now.html,1,1,1,0,0.25,0,0,0,33,1,15,::unspecified::,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,33,16,0,::unspecified::,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,13,13,13,13,0,0,0,0,15,13,0,ACCT0065581,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,1,0,0,0,0,15,1,0,ACCT0065581,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,1,1,1,1,0,0,0,0,15,1,0,ACCT0065581,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,4,5,13,2,0.61,0,0,0,5,5,182,ACCT0021317,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,2,2,4,0,0.49,0,0,0,5,0,59,ACCT0021317,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,0,7.78,1,0,0,5,1,467,ACCT0021317,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,0.2,0,0,0,5,0,12,ACCT0021317,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0106566,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,2,2,2,1,0,0,0,0,2,1,0,ACCT0008833,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/services/training-and-certification.html,0,0,0,0,INF,0,0,INF,2,1,0,ACCT0008833,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0.23,0,0,0,1,1,14,ACCT0048703,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,2,5,0,0.38,0,0,0,1,0,45,ACCT0071663,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,1,2,2,0,2.99,0,0,0,1,0,359,ACCT0071663,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0071663,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/partners.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0071663,5/16/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,146,151,297,32,1.48,0,0,0,174,67,13378,ISP Visitor,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,19,19,32,0,0.51,0,0,0,174,1,578,ISP Visitor,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,15,17,23,3,2.99,3,0,0,174,7,3052,ISP Visitor,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,12,12,19,0,0.4,0,0,0,174,2,286,ISP Visitor,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,7,7,8,2,0.14,0,0,0,174,2,57,ISP Visitor,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,4,4,7,0,0.59,0,0,0,174,0,142,ISP Visitor,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/where-to-start-the-implementation-with-servicenow.html,4,4,5,0,1.41,0,1,25,174,2,339,ISP Visitor,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery/stage1.html,3,3,11,1,14.74,0,0,0,174,2,2654,ISP Visitor,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/hr/consumerize-employee-experience.html,3,3,7,1,0.62,0,0,0,174,1,111,ISP Visitor,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,3,3,6,0,1.48,0,0,0,174,0,266,ISP Visitor,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,165,183,356,43,1.36,0,0,0,199,92,14945,Not In List,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,25,26,55,0,1.48,0,0,0,199,2,2313,Not In List,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,13,14,34,0,0.97,0,0,0,199,0,816,Not In List,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,11,13,18,2,2.43,0,0,0,199,5,1892,Not In List,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,10,11,11,1,0.45,0,0,0,199,7,297,Not In List,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,7,9,10,2,1.23,0,0,0,199,4,666,Not In List,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,9,0,0.43,0,0,0,199,2,180,Not In List,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,6,9,20,0,4.57,0,0,0,199,4,2470,Not In List,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,6,6,9,0,1.11,0,0,0,199,2,401,Not In List,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,6,6,8,0,0.3,0,0,0,199,0,109,Not In List,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,25,26,46,7,1.38,0,0,0,35,21,2154,::unspecified::,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,2,3,4,0,0.22,0,0,0,35,3,39,::unspecified::,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,2,3,2,0,0.64,0,0,0,35,3,115,::unspecified::,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itom/prevent-outages-itom.html,2,2,3,1,0.23,0,0,0,35,1,27,::unspecified::,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,2,2,2,0,4.83,0,0,0,35,1,580,::unspecified::,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,1,1,5,0,0.5,0,0,0,35,0,30,::unspecified::,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/launch-services/stage3.html,1,1,1,1,0,0,0,0,35,1,0,::unspecified::,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage3.html,1,1,1,1,0,0,0,0,35,1,0,::unspecified::,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management/stage5.html,1,1,1,1,0,0,0,0,35,1,0,::unspecified::,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itsm/modernize-itsm.html,1,1,1,0,2.7,0,0,0,35,0,162,::unspecified::,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,4,4,4,4,0,0,0,0,5,4,0,ACCT0065581,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,1,1,1,1,0,0,0,0,5,1,0,ACCT0065581,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,3.63,0,0,0,1,0,218,ACCT0008833,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0008833,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0048703,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,2,4,1,1.27,0,0,0,1,2,152,ACCT0073335,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/17/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,157,170,404,67,1.54,0,1,0.59,174,97,15741,ISP Visitor,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,11,11,31,0,0.82,0,0,0,174,0,540,ISP Visitor,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,17,3,3.79,2,0,0,174,4,2273,ISP Visitor,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,7,7,12,0,0.5,0,0,0,174,0,208,ISP Visitor,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/incident-response.html,6,6,7,1,0.14,0,0,0,174,1,51,ISP Visitor,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,6,6,7,0,0.56,0,0,0,174,0,202,ISP Visitor,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,4,4,9,0,0.35,0,0,0,174,0,84,ISP Visitor,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/where-to-start-the-implementation-with-servicenow.html,4,4,8,0,1.07,0,3,75,174,0,256,ISP Visitor,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,4,4,8,0,0.59,0,0,0,174,0,141,ISP Visitor,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,4,4,4,3,0.4,0,0,0,174,3,96,ISP Visitor,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,152,160,404,26,1.5,0,0,0,176,82,14440,Not In List,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,17,18,65,0,0.95,0,0,0,176,1,1026,Not In List,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,13,13,52,1,1.57,0,0,0,176,1,1223,Not In List,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,13,13,22,1,2.68,0,0,0,176,1,2094,Not In List,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/incident-response.html,8,9,10,1,4.4,0,0,0,176,2,2376,Not In List,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,6,7,11,0,8.22,0,2,28.57,176,1,3451,Not In List,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,6,6,13,0,0.61,0,0,0,176,1,218,Not In List,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,6,6,13,0,0.38,0,0,0,176,0,137,Not In List,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,6,6,12,0,0.27,0,0,0,176,0,96,Not In List,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,6,6,8,1,3.11,0,0,0,176,2,1121,Not In List,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,15,15,20,9,0.37,0,0,0,21,15,333,::unspecified::,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itsm/modernize-itsm.html,1,1,6,0,6,0,0,0,21,0,360,::unspecified::,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,2,0,20.48,0,0,0,21,1,1229,::unspecified::,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,1,1,2,0,5.4,0,0,0,21,0,324,::unspecified::,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage2.html,1,1,1,1,0,0,0,0,21,1,0,::unspecified::,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/incident-response.html,1,1,1,1,0,0,0,0,21,1,0,::unspecified::,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/intelligent-apps/business-apps.html,1,1,1,1,0,0,0,0,21,1,0,::unspecified::,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,1.53,0,0,0,21,1,92,::unspecified::,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,1,1,1,0,0.28,0,0,0,21,1,17,::unspecified::,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,21,6,0,::unspecified::,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,11,11,11,11,0,0,0,0,13,11,0,ACCT0065581,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,2,2,2,2,0,0,0,0,13,2,0,ACCT0065581,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,2,0,0.62,0,0,0,1,0,37,ACCT0073335,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0073335,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/18/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,42,45,82,12,1.91,0,0,0,50,22,5166,ISP Visitor,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,5,6,14,0,0.98,0,0,0,50,1,353,ISP Visitor,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,5,5,9,2,0.31,0,0,0,50,2,92,ISP Visitor,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,5,5,5,2,0.1,0,0,0,50,2,30,ISP Visitor,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,2,2,3,0,0.17,0,0,0,50,0,21,ISP Visitor,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,1,0.28,0,0,0,50,1,33,ISP Visitor,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,2,2,2,0,1.41,1,0,0,50,0,169,ISP Visitor,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,2,2,2,0,1.08,0,0,0,50,0,130,ISP Visitor,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage3.html,1,1,3,0,4.82,0,0,0,50,0,289,ISP Visitor,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage3.html,1,1,2,0,0.32,0,0,0,50,0,19,ISP Visitor,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,13,13,18,5,0.72,0,0,0,18,8,559,Not In List,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,4,4,6,1,3,1,0,0,18,3,719,Not In List,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,2,2,8,0,0.41,0,0,0,18,0,49,Not In List,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,2,2,3,0,2.02,0,1,50,18,0,243,Not In List,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,2,2,3,0,0.99,0,0,0,18,0,119,Not In List,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,1,4,4,4,0,0,0,0,18,4,0,Not In List,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,2,0,2.72,0,0,0,18,0,163,Not In List,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,2,0,0.6,0,1,100,18,0,36,Not In List,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,1,1,2,0,0.12,0,0,0,18,0,7,Not In List,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,1,1,1,0,5.95,0,0,0,18,0,357,Not In List,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,8,8,12,3,0.42,0,0,0,11,6,201,::unspecified::,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,1,0,0,0,0,11,1,0,::unspecified::,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage2.html,1,1,1,1,0,0,0,0,11,1,0,::unspecified::,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,0,26.18,0,0,0,11,1,1571,::unspecified::,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,11,3,0,::unspecified::,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/c-suite/cio.html,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/value-calculator-it.html,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,3,3,3,3,0,0,0,0,3,3,0,ACCT0065581,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/19/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,52,57,131,18,1.64,0,0,0,60,28,5599,ISP Visitor,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,11,11,20,0,0.45,0,0,0,60,1,295,ISP Visitor,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,4,5,5,0,0.68,0,0,0,60,0,203,ISP Visitor,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,4,4,7,0,0.3,0,0,0,60,0,72,ISP Visitor,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,4,4,5,0,0.31,0,0,0,60,0,74,ISP Visitor,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/where-to-start-the-implementation-with-servicenow.html,3,3,5,0,4.22,0,1,33.33,60,0,760,ISP Visitor,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,3,3,4,0,0.57,0,0,0,60,1,103,ISP Visitor,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,2,3,4,1,0.03,0,0,0,60,2,6,ISP Visitor,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itsm/modernize-itsm.html,2,2,7,0,0.78,0,0,0,60,0,93,ISP Visitor,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,2,2,5,0,0.51,0,0,0,60,1,61,ISP Visitor,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,40,43,91,7,0.77,0,0,0,49,20,1991,Not In List,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,6,6,9,2,0.26,1,0,0,49,2,94,Not In List,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,4,4,9,0,0.42,0,0,0,49,0,100,Not In List,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,4,4,4,0,5.85,0,0,0,49,1,1405,Not In List,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,3,3,6,0,0.14,0,0,0,49,0,25,Not In List,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,2,2,3,0,6.07,0,0,0,49,0,728,Not In List,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,2,2,3,0,5.65,0,0,0,49,0,678,Not In List,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/upgrades/communicate-program-upgrades.html,2,2,2,1,0,0,0,0,49,1,0,Not In List,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,2,2,2,1,0,0,0,0,49,1,0,Not In List,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,2,2,2,0,0.05,0,0,0,49,0,6,Not In List,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,5,5,8,2,0.34,0,0,0,8,5,101,::unspecified::,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/hr/consumerize-employee-experience.html,1,1,1,1,0,0,0,0,8,1,0,::unspecified::,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,1,0,0,0,0,8,1,0,::unspecified::,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,0,0,0,0,0,8,1,0,::unspecified::,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,1,1,1,0,0,0,0,0,8,0,0,::unspecified::,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,8,3,0,::unspecified::,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/c-suite/cio.html,0,0,0,0,INF,0,0,INF,8,1,0,::unspecified::,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,8,1,0,::unspecified::,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,8,1,0,::unspecified::,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/schedules.html,0,0,0,0,INF,0,0,INF,8,1,0,::unspecified::,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0065581,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0073335,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/20/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,144,155,250,46,1.61,0,1,0.65,173,73,14959,ISP Visitor,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,18,19,42,1,1.85,0,0,0,173,2,2107,ISP Visitor,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,12,12,19,0,0.37,0,0,0,173,1,264,ISP Visitor,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,8,8,9,0,5.8,0,0,0,173,0,2783,ISP Visitor,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,15,0,3.62,1,0,0,173,3,1521,ISP Visitor,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,7,7,12,1,1.17,0,0,0,173,1,493,ISP Visitor,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,6,6,11,1,0.2,0,0,0,173,1,71,ISP Visitor,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,6,6,10,0,0.47,0,2,33.33,173,0,171,ISP Visitor,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,5,5,8,0,0.48,0,0,0,173,1,144,ISP Visitor,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,5,5,5,1,0.09,0,0,0,173,1,27,ISP Visitor,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,156,168,362,23,1.8,0,3,1.79,174,81,18098,Not In List,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,32,35,108,1,1.47,0,0,0,174,2,3077,Not In List,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,16,17,45,0,0.35,0,0,0,174,1,352,Not In List,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,10,10,14,0,0.55,0,0,0,174,0,331,Not In List,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,9,12,14,0,2.05,0,0,0,174,2,1476,Not In List,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,9,11,13,0,4.15,0,0,0,174,2,2737,Not In List,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,9,9,21,0,2.5,1,0,0,174,0,1351,Not In List,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,8,11,17,1,1.61,0,0,0,174,4,1062,Not In List,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,6,6,13,0,0.64,0,0,0,174,0,231,Not In List,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,5,6,7,0,2.02,0,0,0,174,0,728,Not In List,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,33,35,47,12,0.43,0,0,0,40,30,907,::unspecified::,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,2,2,3,1,0.81,0,0,0,40,2,97,::unspecified::,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage2.html,2,2,2,1,4.85,0,0,0,40,1,582,::unspecified::,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/takeaway.html,1,1,2,0,0.98,0,0,0,40,0,59,::unspecified::,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,1,2,0,0.87,0,0,0,40,1,52,::unspecified::,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,1,1,1,1,0,0,0,0,40,1,0,::unspecified::,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage2.html,1,1,1,1,0,0,0,0,40,1,0,::unspecified::,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,1,1,1,1,0,0,0,0,40,1,0,::unspecified::,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage3.html,1,1,1,0,3.97,0,0,0,40,0,238,::unspecified::,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage4.html,1,1,1,0,2.95,0,0,0,40,0,177,::unspecified::,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,4,4,4,4,0,0,0,0,4,4,0,ACCT0065581,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0021317,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,3,0,0.38,0,0,0,1,0,23,ACCT0106566,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0106566,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0106566,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0008833,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/hr-knowledge-management.html,1,1,4,0,6.35,0,1,100,1,0,381,ACCT0071663,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,3,0,1.37,0,0,0,1,0,82,ACCT0071663,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,3,0,0.57,0,0,0,1,1,34,ACCT0071663,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,1,1,1,0,0.35,0,0,0,1,0,21,ACCT0071663,5/21/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,127,136,268,26,1.43,0,0,0,146,62,11701,ISP Visitor,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,20,22,51,0,0.59,0,0,0,146,1,783,ISP Visitor,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,8,8,13,1,0.27,0,0,0,146,1,130,ISP Visitor,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,15,0,0.85,0,0,0,146,2,355,ISP Visitor,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,6,7,12,0,0.71,0,0,0,146,1,300,ISP Visitor,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,6,6,9,0,0.26,0,0,0,146,0,92,ISP Visitor,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,5,6,8,2,2.54,0,1,16.67,146,2,913,ISP Visitor,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,5,6,6,0,0.22,0,0,0,146,0,78,ISP Visitor,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,4,4,5,1,0.51,0,0,0,146,3,122,ISP Visitor,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,4,4,5,0,0.83,0,0,0,146,0,199,ISP Visitor,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,179,191,352,38,1.92,0,1,0.52,220,91,21960,Not In List,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,30,30,56,0,0.27,0,0,0,220,2,490,Not In List,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,18,22,44,4,2.27,0,0,0,220,19,2996,Not In List,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,13,13,29,0,0.37,0,0,0,220,0,291,Not In List,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,11,12,27,1,0.91,0,0,0,220,1,655,Not In List,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,10,10,31,0,4.31,1,0,0,220,3,2585,Not In List,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,8,8,13,0,0.17,0,0,0,220,0,80,Not In List,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,7,7,12,0,4.15,0,5,71.43,220,1,1742,Not In List,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/upgrade-servicenow-quicker.html,7,7,11,0,2.88,0,3,42.86,220,0,1211,Not In List,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,6,7,7,2,0.14,0,0,0,220,2,59,Not In List,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,17,21,26,13,0.22,0,0,0,25,19,281,::unspecified::,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,3,3,5,1,0.58,0,0,0,25,3,104,::unspecified::,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/hr/consumerize-employee-experience.html,1,1,1,1,0,0,0,0,25,1,0,::unspecified::,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,1,0,0,0,0,25,1,0,::unspecified::,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0.58,0,0,0,25,1,35,::unspecified::,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,0,0.22,1,0,0,25,1,13,::unspecified::,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,0,0,0,0,0,25,0,0,::unspecified::,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/upgrade-servicenow-quicker.html,1,1,1,0,0,0,0,0,25,0,0,::unspecified::,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,25,8,0,::unspecified::,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,25,2,0,::unspecified::,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0065581,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,4,0,1.5,0,0,0,1,1,90,ACCT0021317,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,2,2,13,0,0.93,0,0,0,2,0,112,ACCT0106566,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,2,5,0,1.15,0,0,0,2,1,138,ACCT0106566,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage2.html,1,1,1,0,2.85,0,0,0,2,0,171,ACCT0106566,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/upgrade-servicenow-quicker.html,1,1,1,0,0,0,0,0,2,0,0,ACCT0106566,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,2,1,0,ACCT0106566,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/services/training-and-certification/system-administration.html,0,0,0,0,INF,0,0,INF,2,1,0,ACCT0106566,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage5.html,1,1,1,1,0,0,0,0,2,1,0,ACCT0048703,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0.7,0,0,0,2,0,42,ACCT0048703,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/partners/find-a-partner/hcl-technologies-ltd-.html,0,0,0,0,INF,0,0,INF,2,1,0,ACCT0048703,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/22/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,133,146,334,29,1.76,0,0,0,155,68,15429,ISP Visitor,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,15,17,41,0,0.56,0,0,0,155,1,570,ISP Visitor,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,13,16,18,2,1.94,0,0,0,155,3,1861,ISP Visitor,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,10,10,37,0,0.96,0,0,0,155,0,579,ISP Visitor,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,8,17,0,4.44,2,0,0,155,2,2133,ISP Visitor,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,7,7,12,0,2.3,0,0,0,155,2,964,ISP Visitor,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/success-essentials.html,6,6,8,0,0.59,0,0,0,155,0,212,ISP Visitor,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,5,6,7,0,0.25,0,0,0,155,0,90,ISP Visitor,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,5,5,9,1,0.92,0,0,0,155,1,276,ISP Visitor,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/where-to-start-the-implementation-with-servicenow.html,4,5,10,0,2.64,0,2,40,155,0,791,ISP Visitor,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,181,199,403,40,1.78,0,0,0,207,98,21271,Not In List,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,26,28,78,0,0.73,0,0,0,207,2,1225,Not In List,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,15,15,36,1,3.3,3,0,0,207,3,2967,Not In List,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,13,13,25,0,0.35,0,0,0,207,0,271,Not In List,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,12,12,41,0,0.72,0,0,0,207,0,518,Not In List,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,9,9,31,0,1.31,0,1,11.11,207,0,709,Not In List,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,9,9,10,2,0.36,0,1,11.11,207,3,194,Not In List,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,7,8,13,2,3.29,0,0,0,207,3,1580,Not In List,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,7,8,9,1,1.89,0,0,0,207,1,908,Not In List,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,7,7,13,0,6.85,0,0,0,207,0,2877,Not In List,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,21,23,38,6,1.23,0,0,0,25,22,1701,::unspecified::,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/software-asset-mgmt/stage1.html,1,2,2,2,0,0,0,0,25,2,0,::unspecified::,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,1,0,0,0,0,25,1,0,::unspecified::,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,1,1,1,1,0,0,0,0,25,1,0,::unspecified::,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,1,1,0,0.48,0,0,0,25,1,29,::unspecified::,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,25,8,0,::unspecified::,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/partners/partner-portal-login.html,0,0,0,0,INF,0,0,INF,25,2,0,::unspecified::,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/customers.html,0,0,0,0,INF,0,0,INF,25,1,0,::unspecified::,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/customersuccess,0,0,0,0,INF,0,0,INF,25,1,0,::unspecified::,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/services/training-and-certification.html,0,0,0,0,INF,0,0,INF,25,1,0,::unspecified::,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0065581,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,2,2,4,1,0.51,0,0,0,2,1,61,ACCT0106566,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,5,0,20.63,0,0,0,2,1,1238,ACCT0106566,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/upgrade-servicenow-quicker.html,1,1,1,0,1.08,0,0,0,2,0,65,ACCT0106566,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage1.html,1,1,1,0,0,0,0,0,2,0,0,ACCT0106566,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0.05,0,0,0,1,0,3,ACCT0008833,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/solutions/role/hr.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0008833,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0.08,0,0,0,1,0,5,ACCT0048703,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0048703,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/23/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,115,124,189,28,0.82,0,0,0,140,48,6129,ISP Visitor,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,18,18,47,1,0.61,0,0,0,140,1,660,ISP Visitor,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,10,11,21,3,2.41,0,6,54.55,140,4,1592,ISP Visitor,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,7,8,19,1,2.72,3,0,0,140,3,1305,ISP Visitor,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,6,6,8,1,1.9,0,0,0,140,1,684,ISP Visitor,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,5,5,12,0,4.36,0,0,0,140,0,1307,ISP Visitor,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,5,5,10,0,0.48,0,0,0,140,0,144,ISP Visitor,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,4,4,5,2,0.07,0,0,0,140,3,18,ISP Visitor,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,4,4,5,0,1.48,0,0,0,140,0,354,ISP Visitor,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,3,3,7,0,1.46,0,0,0,140,0,262,ISP Visitor,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,137,144,250,30,1.15,0,1,0.69,174,65,9926,Not In List,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,10,11,19,0,0.15,0,0,0,174,0,100,Not In List,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,7,9,9,5,0.04,0,0,0,174,6,19,Not In List,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,7,7,18,0,0.74,0,0,0,174,0,310,Not In List,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,7,7,12,0,1.36,0,0,0,174,0,570,Not In List,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,6,6,11,2,0.19,0,0,0,174,3,70,Not In List,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,4,5,7,1,0.1,0,0,0,174,3,31,Not In List,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,4,4,6,0,1.63,0,0,0,174,2,391,Not In List,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,4,4,6,0,0.55,0,0,0,174,0,132,Not In List,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,4,4,4,0,5.84,0,0,0,174,0,1402,Not In List,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,17,20,24,13,1.08,0,0,0,25,20,1293,::unspecified::,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,2,2,2,2,0,0,0,0,25,2,0,::unspecified::,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/software-asset-mgmt/stage1.html,1,1,2,0,15.4,0,0,0,25,1,924,::unspecified::,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,0,0.9,0,0,0,25,1,54,::unspecified::,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,1,0,0,0,0,25,1,0,::unspecified::,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/incident-response.html,1,1,1,1,0,0,0,0,25,1,0,::unspecified::,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,1,1,1,0,17.85,0,0,0,25,1,1071,::unspecified::,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,0,0,0,0,25,0,0,::unspecified::,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,25,11,0,::unspecified::,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/value-calculator-it.html,0,0,0,0,INF,0,0,INF,25,2,0,::unspecified::,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,7,7,7,7,0,0,0,0,9,7,0,ACCT0065581,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,2,2,2,2,0,0,0,0,9,2,0,ACCT0065581,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,2,0,1.32,0,0,0,1,1,79,ACCT0021317,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0021317,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0106566,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0106566,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0.23,0,0,0,1,0,14,ACCT0048703,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0048703,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,3,3,3,0,0.18,0,0,0,3,1,33,ACCT0073335,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,3,2,0,ACCT0073335,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0.28,0,0,0,1,0,17,ACCT0071663,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0071663,5/24/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,77,81,171,20,1.61,0,0,0,98,39,7839,ISP Visitor,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,11,11,25,0,3,0,0,0,98,0,1982,ISP Visitor,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,9,10,25,0,0.42,0,0,0,98,0,254,ISP Visitor,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,7,7,7,1,0.22,0,0,0,98,1,92,ISP Visitor,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,5,6,14,3,6.56,0,0,0,98,5,2363,ISP Visitor,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage2.html,4,5,7,0,1.62,0,0,0,98,1,485,ISP Visitor,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,4,4,6,0,0.95,0,0,0,98,1,227,ISP Visitor,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,4,4,3,0,8.19,0,0,0,98,0,1966,ISP Visitor,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,3,3,6,1,7.67,0,0,0,98,1,1380,ISP Visitor,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,3,3,5,0,0.62,0,0,0,98,0,111,ISP Visitor,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,72,78,167,9,1.52,0,0,0,91,28,7119,Not In List,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,12,12,38,0,1.97,0,0,0,91,0,1416,Not In List,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,9,10,21,0,3.56,0,0,0,91,0,2134,Not In List,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,9,9,17,0,0.26,0,0,0,91,0,142,Not In List,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,7,7,9,0,0.86,0,0,0,91,2,363,Not In List,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,6,6,16,0,0.42,0,0,0,91,0,150,Not In List,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,6,6,5,1,2.59,0,0,0,91,2,932,Not In List,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,4,4,5,2,0.08,0,0,0,91,2,20,Not In List,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,3,3,4,0,4.72,1,0,0,91,0,850,Not In List,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,3,3,4,0,1.69,0,0,0,91,0,304,Not In List,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,7,7,13,2,0.63,0,0,0,11,6,266,::unspecified::,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,1,0,0,0,0,11,1,0,::unspecified::,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,1,0,0,0,0,11,1,0,::unspecified::,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale/stage1.html,1,1,1,0,11.65,0,0,0,11,1,699,::unspecified::,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/,1,1,1,0,1.25,0,0,0,11,1,75,::unspecified::,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage3.html,1,1,1,0,0,0,0,0,11,0,0,::unspecified::,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,11,4,0,::unspecified::,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5759/,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/value-calculator-it.html,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,2,1,0,ACCT0065581,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/sam/transform-sam.html,1,1,1,1,0,0,0,0,2,1,0,ACCT0065581,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0.13,0,0,0,1,0,8,ACCT0106566,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0106566,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0048703,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,2,0,0.28,0,0,0,1,0,17,ACCT0073335,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/events.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0073335,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0071663,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0071663,5/25/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,22,22,30,4,1.06,0,1,4.55,24,10,1401,ISP Visitor,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,4,4,5,0,0.13,0,0,0,24,0,32,ISP Visitor,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itsm/modernize-itsm.html,1,2,3,0,0.57,0,0,0,24,1,69,ISP Visitor,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/takeaway.html,1,2,2,1,0,0,0,0,24,1,0,ISP Visitor,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,1,1,9,0,2.72,0,0,0,24,0,163,ISP Visitor,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/intelligent-apps/business-apps.html,1,1,3,0,0.82,0,0,0,24,0,49,ISP Visitor,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,3,0,0.4,0,0,0,24,0,24,ISP Visitor,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/grc/unified-grc.html,1,1,2,0,13.33,0,0,0,24,0,800,ISP Visitor,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage4.html,1,1,2,0,0.93,0,0,0,24,0,56,ISP Visitor,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,2,0,0.55,0,0,0,24,0,33,ISP Visitor,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,10,11,15,0,0.7,0,0,0,11,3,463,Not In List,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,2,2,6,0,0.54,0,0,0,11,0,65,Not In List,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,2,2,0,0.03,0,0,0,11,1,3,Not In List,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,1,0,0,0,0,11,1,0,Not In List,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,0,1.3,0,0,0,11,0,78,Not In List,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/software-asset-mgmt/stage1.html,1,1,1,0,0,0,0,0,11,0,0,Not In List,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/solutions/prevent-service-outages.html,0,0,0,0,INF,0,0,INF,11,3,0,Not In List,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,11,3,0,Not In List,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/services/consulting-services.html,0,0,0,0,INF,0,0,INF,11,2,0,Not In List,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,2,2,2,2,0,0,0,0,2,2,0,::unspecified::,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,2,1,0,::unspecified::,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0065581,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/26/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,40,40,74,7,1.18,0,0,0,55,11,2839,ISP Visitor,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,4,4,9,0,0.42,0,0,0,55,0,101,ISP Visitor,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,4,4,5,2,0.21,0,0,0,55,3,51,ISP Visitor,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/itsm/modernize-itsm.html,3,3,6,2,0.16,0,0,0,55,3,29,ISP Visitor,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,2,2,5,1,6.62,0,0,0,55,1,794,ISP Visitor,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,2,2,5,0,0.21,0,0,0,55,0,25,ISP Visitor,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,2,2,4,0,0.26,0,0,0,55,0,31,ISP Visitor,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/where-to-start-the-implementation-with-servicenow.html,2,2,3,0,1.58,0,1,50,55,0,190,ISP Visitor,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage4.html,2,2,2,2,0,0,0,0,55,2,0,ISP Visitor,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,2,2,2,1,0,0,0,0,55,1,0,ISP Visitor,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,22,23,39,8,1.11,0,0,0,29,16,1527,Not In List,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,5,6,12,0,0.96,0,0,0,29,0,346,Not In List,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,4,4,5,0,0.4,0,0,0,29,0,96,Not In List,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,3,3,5,0,0.23,0,0,0,29,2,42,Not In List,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,3,3,4,0,3,0,0,0,29,0,540,Not In List,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,2,3,4,1,0.08,1,0,0,29,1,15,Not In List,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,2,2,5,0,0.27,0,0,0,29,1,32,Not In List,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars/program-governance.html,2,2,2,0,1.13,0,0,0,29,0,136,Not In List,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,1,2,4,0,7.15,1,0,0,29,1,858,Not In List,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage2.html,1,1,12,0,14.32,0,0,0,29,0,859,Not In List,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,5,5,7,2,3.14,0,0,0,6,5,942,::unspecified::,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,0,2.98,0,0,0,6,1,179,::unspecified::,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage1.html,1,1,0,0,0.55,1,0,0,6,1,33,::unspecified::,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/customers.html,0,0,0,0,INF,0,0,INF,6,1,0,::unspecified::,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,3,0,0.28,0,0,0,1,0,17,ACCT0065581,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,1,1,3,0,0.22,0,0,0,1,0,13,ACCT0065581,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,2,0,0.85,0,0,0,1,0,51,ACCT0065581,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,2,0,0.1,0,0,0,1,0,6,ACCT0065581,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,1,1,0,0.23,0,0,0,1,1,14,ACCT0065581,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage1.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0065581,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/27/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,63,64,106,16,1.06,0,1,1.56,81,27,4057,ISP Visitor,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,6,6,12,0,0.33,0,0,0,81,0,118,ISP Visitor,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,5,5,7,1,0.31,0,0,0,81,2,93,ISP Visitor,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,4,4,8,0,0.84,0,0,0,81,0,202,ISP Visitor,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,4,4,5,2,1.45,0,0,0,81,2,348,ISP Visitor,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,4,4,5,1,5.89,0,0,0,81,1,1413,ISP Visitor,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,4,4,5,1,0.57,0,0,0,81,1,137,ISP Visitor,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,3,4,7,0,0.33,0,0,0,81,1,80,ISP Visitor,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,3,3,3,0,0.36,0,0,0,81,0,65,ISP Visitor,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/innovate-at-scale.html,2,2,3,1,0.58,0,0,0,81,1,70,ISP Visitor,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,50,57,103,16,2.34,0,0,0,60,35,8005,Not In List,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,11,12,33,0,3.77,0,0,0,60,0,2711,Not In List,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,5,5,7,0,0.4,0,0,0,60,0,119,Not In List,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,5,5,6,0,0.75,0,0,0,60,0,226,Not In List,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,3,7,7,1,6.32,0,0,0,60,2,2655,Not In List,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/upgrade-servicenow-quicker.html,3,3,7,0,0.72,0,2,66.67,60,0,129,Not In List,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/where-to-start-the-implementation-with-servicenow.html,3,3,4,0,1.84,0,0,0,60,0,331,Not In List,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend/upgrades/communicate-program-upgrades.html,3,3,3,1,0.16,0,0,0,60,1,29,Not In List,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,3,3,3,0,0.78,0,0,0,60,0,140,Not In List,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,2,3,3,0,0.23,0,0,0,60,1,41,Not In List,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,8,8,9,3,2.88,0,0,0,12,4,1381,::unspecified::,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,3,3,4,2,0.04,0,0,0,12,3,7,::unspecified::,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,1,0,0,0,0,12,1,0,::unspecified::,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,12,3,0,::unspecified::,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,12,2,0,::unspecified::,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/customers.html,0,0,0,0,INF,0,0,INF,12,1,0,::unspecified::,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/products/api-integrations.html,0,0,0,0,INF,0,0,INF,12,1,0,::unspecified::,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/company/trust.html,0,0,0,0,INF,0,0,INF,12,1,0,::unspecified::,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/solutions/security-incidents.html,0,0,0,0,INF,0,0,INF,12,1,0,::unspecified::,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+info.servicenow.com/LimitlessIT-NL,0,0,0,0,INF,0,0,INF,12,1,0,::unspecified::,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,4,4,4,4,0,0,0,0,4,4,0,ACCT0065581,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,2,2,6,0,10.09,0,0,0,2,2,1211,ACCT0021317,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,2,2,4,0,0.44,0,0,0,2,0,53,ACCT0021317,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,2,0,5.65,0,0,0,2,0,339,ACCT0021317,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,2,0,2.15,0,0,0,2,0,129,ACCT0021317,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,1,1,1,0,0,0,0,0,2,0,0,ACCT0021317,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,0,0,0,0,2,0,0,ACCT0021317,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/28/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,112,125,290,35,1.37,0,0,0,139,64,10246,ISP Visitor,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,15,15,47,0,3.55,0,0,0,139,0,3191,ISP Visitor,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,8,9,17,0,0.51,0,0,0,139,0,276,ISP Visitor,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,7,7,9,1,2.64,0,0,0,139,1,1108,ISP Visitor,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,6,8,13,1,2.14,0,0,0,139,3,1025,ISP Visitor,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,6,7,8,0,0.9,0,0,0,139,0,376,ISP Visitor,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,6,6,8,3,0.24,0,0,0,139,3,87,ISP Visitor,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,6,6,8,1,6.84,2,0,0,139,3,2461,ISP Visitor,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,5,7,13,3,3.85,0,5,71.43,139,4,1616,ISP Visitor,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,5,5,5,0,0.31,0,0,0,139,0,94,ISP Visitor,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,135,152,339,27,1.59,0,0,0,165,83,14457,Not In List,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,27,29,73,2,2.14,0,0,0,165,2,3729,Not In List,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,11,14,16,0,2.54,0,0,0,165,1,2135,Not In List,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,10,10,22,1,1.53,1,0,0,165,2,916,Not In List,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,8,10,12,4,0.6,0,0,0,165,6,359,Not In List,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,7,8,16,1,3.08,0,0,0,165,2,1478,Not In List,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,7,8,7,0,0.27,0,0,0,165,1,128,Not In List,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,6,7,11,1,0.37,0,0,0,165,1,157,Not In List,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,5,6,6,0,0.43,0,0,0,165,1,154,Not In List,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation/stage1.html,5,5,6,0,1.46,0,0,0,165,1,439,Not In List,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,15,16,36,7,0.3,0,0,0,22,15,285,::unspecified::,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,2,2,4,0,0.12,0,0,0,22,2,14,::unspecified::,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management/stage4.html,1,1,1,1,0,0,0,0,22,1,0,::unspecified::,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management/stage2.html,1,1,1,1,0,0,0,0,22,1,0,::unspecified::,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage4.html,1,1,1,1,0,0,0,0,22,1,0,::unspecified::,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,0,1.32,0,0,0,22,1,79,::unspecified::,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,1,0,0.42,0,0,0,22,0,25,::unspecified::,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,1,1,1,0,0.08,0,0,0,22,1,5,::unspecified::,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,22,6,0,::unspecified::,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpdem/demonow-all.html,0,0,0,0,INF,0,0,INF,22,1,0,::unspecified::,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,3,3,3,3,0,0,0,0,4,3,0,ACCT0065581,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage3.html,1,1,1,1,0,0,0,0,4,1,0,ACCT0065581,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,2,0,0.5,0,0,0,1,1,30,ACCT0021317,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize/now/improve-self-service/stage2.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0021317,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0106566,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/29/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,100,105,230,15,1.3,0,0,0,190,34,8189,ISP Visitor,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,67,75,101,6,1,0,0,0,190,59,4486,ISP Visitor,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/populate-and-maintain-your-cmdb-with-servicenow-discovery.html,36,36,63,0,1.74,0,18,50,190,3,3751,ISP Visitor,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,16,17,51,0,1.66,0,0,0,190,2,1695,ISP Visitor,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,12,12,38,0,1.53,4,0,0,190,3,1100,ISP Visitor,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,7,7,18,0,0.55,0,0,0,190,0,229,ISP Visitor,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,7,7,7,0,0.79,0,0,0,190,1,332,ISP Visitor,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,6,6,10,0,0.73,0,4,66.67,190,0,264,ISP Visitor,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery/stage1.html,5,5,5,1,0.3,0,0,0,190,1,89,ISP Visitor,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,4,4,13,0,1.55,0,0,0,190,0,373,ISP Visitor,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,154,164,312,31,1.49,0,1,0.61,308,78,14638,Not In List,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,111,120,151,17,0.72,0,0,0,308,108,5180,Not In List,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/populate-and-maintain-your-cmdb-with-servicenow-discovery.html,63,63,118,2,1.61,0,42,66.67,308,3,6094,Not In List,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,28,29,90,0,0.82,0,0,0,308,2,1432,Not In List,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,15,15,48,0,0.81,0,0,0,308,0,728,Not In List,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,14,15,26,1,3.59,2,0,0,308,4,3231,Not In List,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,12,12,17,1,3,0,0,0,308,4,2163,Not In List,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,9,10,15,1,0.56,0,0,0,308,2,338,Not In List,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery/stage1.html,8,9,8,0,0.15,0,0,0,308,1,79,Not In List,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/plan-for-successful-cmdb.html,8,8,14,0,2.45,0,4,50,308,1,1174,Not In List,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,23,23,40,7,2.9,0,0,0,48,22,4008,::unspecified::,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,20,20,19,7,0.47,0,0,0,48,19,565,::unspecified::,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,2,2,2,0,0.24,0,0,0,48,2,29,::unspecified::,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,3,0,0.45,0,0,0,48,0,27,::unspecified::,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/hr-knowledge-management.html,1,1,1,0,0.95,0,0,0,48,1,57,::unspecified::,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,1,1,1,0,0.28,0,0,0,48,0,17,::unspecified::,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/populate-and-maintain-your-cmdb-with-servicenow-discovery.html,1,1,1,0,0.17,0,0,0,48,1,10,::unspecified::,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,0,1,0,0,0,0,48,1,0,::unspecified::,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,48,13,0,::unspecified::,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpebk/take-your-service-availiability-to-new-heights.html,0,0,0,0,INF,0,0,INF,48,2,0,::unspecified::,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,4,0,0.17,0,0,0,4,3,31,ACCT0065581,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/populate-and-maintain-your-cmdb-with-servicenow-discovery.html,1,1,2,0,0.73,0,1,100,4,0,44,ACCT0065581,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,4,1,0,ACCT0065581,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,2,1.85,0,0,0,3,3,333,ACCT0106566,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/populate-and-maintain-your-cmdb-with-servicenow-discovery.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0008833,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0008833,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0048703,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/30/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,90,97,182,20,0.69,0,0,0,116,48,4040,ISP Visitor,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,15,16,38,0,0.62,0,0,0,116,0,598,ISP Visitor,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,11,11,13,1,3.95,0,0,0,116,2,2605,ISP Visitor,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,8,9,14,0,1.38,1,0,0,116,3,747,ISP Visitor,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,6,6,11,1,0.78,0,0,0,116,1,282,ISP Visitor,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,5,5,12,0,3.14,0,0,0,116,0,943,ISP Visitor,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,5,5,5,1,0.6,0,0,0,116,2,181,ISP Visitor,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,4,4,16,1,1.19,0,0,0,116,1,285,ISP Visitor,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment/stage2.html,4,4,10,2,1,0,0,0,116,2,240,ISP Visitor,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage4.html,4,4,4,4,0,0,0,0,116,4,0,ISP Visitor,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,99,113,293,25,1.8,0,0,0,139,53,12228,Not In List,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,20,22,52,1,1.27,0,0,0,139,5,1683,Not In List,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,20,22,45,2,2.43,5,0,0,139,11,3209,Not In List,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/optimize.html,15,15,40,0,0.41,0,0,0,139,1,371,Not In List,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy.html,13,13,64,0,1.31,0,0,0,139,0,1022,Not In List,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,12,12,31,1,1.18,0,0,0,139,5,848,Not In List,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/pillars.html,8,9,14,0,0.77,0,0,0,139,1,416,Not In List,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/extend.html,6,6,34,0,1.16,0,0,0,139,0,419,Not In List,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,6,6,9,0,1.64,0,0,0,139,1,589,Not In List,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker/stage5.html,5,5,15,1,1.05,0,0,0,139,2,315,Not In List,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,12,13,17,7,2.17,0,0,0,18,11,1694,::unspecified::,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/it/cmdb-deployment.html,1,2,0,1,13.04,2,0,0,18,2,1565,::unspecified::,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/now/lifecycle.html,1,1,2,0,0.08,0,0,0,18,0,5,::unspecified::,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan/start-implementation.html,1,1,1,1,0,0,0,0,18,1,0,::unspecified::,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,1,0,0,0,0,18,1,0,::unspecified::,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/lpbp/improve-self-service.html,1,1,1,1,0,0,0,0,18,1,0,::unspecified::,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/deploy/now/cmdb-discovery.html,1,1,1,1,0,0,0,0,18,1,0,::unspecified::,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success/plan.html,1,1,1,0,0,0,0,0,18,0,0,::unspecified::,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,18,8,0,::unspecified::,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/products/service-mapping.html,0,0,0,0,INF,0,0,INF,18,1,0,::unspecified::,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0065581,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0021317,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,2,0,0.2,0,0,0,1,0,12,ACCT0106566,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0106566,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0008833,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/success.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0048703,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+www.servicenow.com/company/media/press-room/servicenow-survey-shows-2018-as-the-year-of-automation-for-routine-enterprise.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0048703,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0073335,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50
+,,,,,,,,,,,,ACCT0071663,5/31/2018,day,SUCCESS_PAGE,CUSTOMER_SUCCESS,1/7/2019 12:50

@@ -1,0 +1,760 @@
+,Page URL,uniquevisitors,visits,pageviews,bouncerate,SurfID
+0,www.servicenow.com/success.html,131,138,252,74.72527473,ISP Visitor
+1,www.servicenow.com/success/value-calculator-it.html,25,27,49,20,ISP Visitor
+2,www.servicenow.com/success/value-calculator-hr.html,17,18,57,12.5,ISP Visitor
+3,www.servicenow.com/success/plan/start-implementation.html,17,18,19,100,ISP Visitor
+4,www.servicenow.com/success/plan.html,15,15,50,0,ISP Visitor
+5,www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,ISP Visitor
+6,www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,ISP Visitor
+7,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,ISP Visitor
+8,www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,ISP Visitor
+9,www.servicenow.com/success/optimize.html,7,8,12,0,ISP Visitor
+10,www.servicenow.com/success/value-calculator-it.html,25,27,49,20,Not In List
+11,www.servicenow.com/success/value-calculator-hr.html,17,18,57,12.5,Not In List
+12,www.servicenow.com/success/plan/start-implementation.html,17,18,19,100,Not In List
+13,www.servicenow.com/success/plan.html,15,15,50,0,Not In List
+14,www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,Not In List
+15,www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,Not In List
+16,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,Not In List
+17,www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,Not In List
+18,www.servicenow.com/success/optimize.html,7,8,12,0,Not In List
+19,www.servicenow.com/success.html,100,112,201,40,Not In List
+20,www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,Not In List
+21,www.servicenow.com/success/plan.html,14,15,42,50,Not In List
+22,www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,Not In List
+23,www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,Not In List
+24,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,Not In List
+25,www.servicenow.com/success/optimize.html,11,11,35,25,Not In List
+26,www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,Not In List
+27,www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,Not In List
+28,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,Not In List
+29,www.servicenow.com/success/value-calculator-hr.html,17,18,57,12.5,::unspecified::
+30,www.servicenow.com/success/plan/start-implementation.html,17,18,19,100,::unspecified::
+31,www.servicenow.com/success/plan.html,15,15,50,0,::unspecified::
+32,www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,::unspecified::
+33,www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,::unspecified::
+34,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,::unspecified::
+35,www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,::unspecified::
+36,www.servicenow.com/success/optimize.html,7,8,12,0,::unspecified::
+37,www.servicenow.com/success.html,100,112,201,40,::unspecified::
+38,www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,::unspecified::
+39,www.servicenow.com/success/plan.html,14,15,42,50,::unspecified::
+40,www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,::unspecified::
+41,www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,::unspecified::
+42,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,::unspecified::
+43,www.servicenow.com/success/optimize.html,11,11,35,25,::unspecified::
+44,www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,::unspecified::
+45,www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,::unspecified::
+46,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,::unspecified::
+47,www.servicenow.com/success.html,13,13,18,20,::unspecified::
+48,www.servicenow.com/success/value-calculator-it.html,8,8,19,20,::unspecified::
+49,www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,::unspecified::
+50,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,::unspecified::
+51,www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,::unspecified::
+52,www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,::unspecified::
+53,www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,::unspecified::
+54,www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,::unspecified::
+55,www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,::unspecified::
+56,www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,::unspecified::
+57,www.servicenow.com/success/plan/start-implementation.html,17,18,19,100,ACCT0065581
+58,www.servicenow.com/success/plan.html,15,15,50,0,ACCT0065581
+59,www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,ACCT0065581
+60,www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,ACCT0065581
+61,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,ACCT0065581
+62,www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,ACCT0065581
+63,www.servicenow.com/success/optimize.html,7,8,12,0,ACCT0065581
+64,www.servicenow.com/success.html,100,112,201,40,ACCT0065581
+65,www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,ACCT0065581
+66,www.servicenow.com/success/plan.html,14,15,42,50,ACCT0065581
+67,www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,ACCT0065581
+68,www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,ACCT0065581
+69,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,ACCT0065581
+70,www.servicenow.com/success/optimize.html,11,11,35,25,ACCT0065581
+71,www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,ACCT0065581
+72,www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,ACCT0065581
+73,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,ACCT0065581
+74,www.servicenow.com/success.html,13,13,18,20,ACCT0065581
+75,www.servicenow.com/success/value-calculator-it.html,8,8,19,20,ACCT0065581
+76,www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,ACCT0065581
+77,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,ACCT0065581
+78,www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,ACCT0065581
+79,www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,ACCT0065581
+80,www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,ACCT0065581
+81,www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,ACCT0065581
+82,www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,ACCT0065581
+83,www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,ACCT0065581
+84,www.servicenow.com/success.html,2,2,2,100,ACCT0065581
+85,www.servicenow.com/success/plan.html,15,15,50,0,ACCT0019679
+86,www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,ACCT0019679
+87,www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,ACCT0019679
+88,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,ACCT0019679
+89,www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,ACCT0019679
+90,www.servicenow.com/success/optimize.html,7,8,12,0,ACCT0019679
+91,www.servicenow.com/success.html,100,112,201,40,ACCT0019679
+92,www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,ACCT0019679
+93,www.servicenow.com/success/plan.html,14,15,42,50,ACCT0019679
+94,www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,ACCT0019679
+95,www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,ACCT0019679
+96,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,ACCT0019679
+97,www.servicenow.com/success/optimize.html,11,11,35,25,ACCT0019679
+98,www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,ACCT0019679
+99,www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,ACCT0019679
+100,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,ACCT0019679
+101,www.servicenow.com/success.html,13,13,18,20,ACCT0019679
+102,www.servicenow.com/success/value-calculator-it.html,8,8,19,20,ACCT0019679
+103,www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,ACCT0019679
+104,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,ACCT0019679
+105,www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,ACCT0019679
+106,www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,ACCT0019679
+107,www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,ACCT0019679
+108,www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,ACCT0019679
+109,www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,ACCT0019679
+110,www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,ACCT0019679
+111,www.servicenow.com/success.html,2,2,2,100,ACCT0019679
+112,www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,ACCT0019679
+113,www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,ACCT0019679
+114,www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,ACCT0019679
+115,www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,ACCT0019679
+116,www.servicenow.com/success/deploy/now/performance-analytics.html,13,13,15,71.42857143,ACCT0001406
+117,www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,ACCT0001406
+118,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,ACCT0001406
+119,www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,ACCT0001406
+120,www.servicenow.com/success/optimize.html,7,8,12,0,ACCT0001406
+121,www.servicenow.com/success.html,100,112,201,40,ACCT0001406
+122,www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,ACCT0001406
+123,www.servicenow.com/success/plan.html,14,15,42,50,ACCT0001406
+124,www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,ACCT0001406
+125,www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,ACCT0001406
+126,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,ACCT0001406
+127,www.servicenow.com/success/optimize.html,11,11,35,25,ACCT0001406
+128,www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,ACCT0001406
+129,www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,ACCT0001406
+130,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,ACCT0001406
+131,www.servicenow.com/success.html,13,13,18,20,ACCT0001406
+132,www.servicenow.com/success/value-calculator-it.html,8,8,19,20,ACCT0001406
+133,www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,ACCT0001406
+134,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,ACCT0001406
+135,www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,ACCT0001406
+136,www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,ACCT0001406
+137,www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,ACCT0001406
+138,www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,ACCT0001406
+139,www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,ACCT0001406
+140,www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,ACCT0001406
+141,www.servicenow.com/success.html,2,2,2,100,ACCT0001406
+142,www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,ACCT0001406
+143,www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,ACCT0001406
+144,www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,ACCT0001406
+145,www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,ACCT0001406
+146,www.servicenow.com/success.html,2,2,9,50,ACCT0001406
+147,www.servicenow.com/success/value-calculator-it.html,2,2,4,0,ACCT0001406
+148,www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,ACCT0001406
+149,www.servicenow.com/success/plan.html,1,1,1,INF,ACCT0001406
+150,www.servicenow.com/success/value-calculator-csm.html,11,11,23,100,ACCT0023867
+151,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,ACCT0023867
+152,www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,ACCT0023867
+153,www.servicenow.com/success/optimize.html,7,8,12,0,ACCT0023867
+154,www.servicenow.com/success.html,100,112,201,40,ACCT0023867
+155,www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,ACCT0023867
+156,www.servicenow.com/success/plan.html,14,15,42,50,ACCT0023867
+157,www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,ACCT0023867
+158,www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,ACCT0023867
+159,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,ACCT0023867
+160,www.servicenow.com/success/optimize.html,11,11,35,25,ACCT0023867
+161,www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,ACCT0023867
+162,www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,ACCT0023867
+163,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,ACCT0023867
+164,www.servicenow.com/success.html,13,13,18,20,ACCT0023867
+165,www.servicenow.com/success/value-calculator-it.html,8,8,19,20,ACCT0023867
+166,www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,ACCT0023867
+167,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,ACCT0023867
+168,www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,ACCT0023867
+169,www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,ACCT0023867
+170,www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,ACCT0023867
+171,www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,ACCT0023867
+172,www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,ACCT0023867
+173,www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,ACCT0023867
+174,www.servicenow.com/success.html,2,2,2,100,ACCT0023867
+175,www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,ACCT0023867
+176,www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,ACCT0023867
+177,www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,ACCT0023867
+178,www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,ACCT0023867
+179,www.servicenow.com/success.html,2,2,9,50,ACCT0023867
+180,www.servicenow.com/success/value-calculator-it.html,2,2,4,0,ACCT0023867
+181,www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,ACCT0023867
+182,www.servicenow.com/success/plan.html,1,1,1,INF,ACCT0023867
+183,www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,ACCT0023867
+184,www.servicenow.com/success.html,1,1,1,INF,ACCT0023867
+185,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,10,13,16,100,ACCT0106566
+186,www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,ACCT0106566
+187,www.servicenow.com/success/optimize.html,7,8,12,0,ACCT0106566
+188,www.servicenow.com/success.html,100,112,201,40,ACCT0106566
+189,www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,ACCT0106566
+190,www.servicenow.com/success/plan.html,14,15,42,50,ACCT0106566
+191,www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,ACCT0106566
+192,www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,ACCT0106566
+193,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,ACCT0106566
+194,www.servicenow.com/success/optimize.html,11,11,35,25,ACCT0106566
+195,www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,ACCT0106566
+196,www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,ACCT0106566
+197,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,ACCT0106566
+198,www.servicenow.com/success.html,13,13,18,20,ACCT0106566
+199,www.servicenow.com/success/value-calculator-it.html,8,8,19,20,ACCT0106566
+200,www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,ACCT0106566
+201,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,ACCT0106566
+202,www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,ACCT0106566
+203,www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,ACCT0106566
+204,www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,ACCT0106566
+205,www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,ACCT0106566
+206,www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,ACCT0106566
+207,www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,ACCT0106566
+208,www.servicenow.com/success.html,2,2,2,100,ACCT0106566
+209,www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,ACCT0106566
+210,www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,ACCT0106566
+211,www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,ACCT0106566
+212,www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,ACCT0106566
+213,www.servicenow.com/success.html,2,2,9,50,ACCT0106566
+214,www.servicenow.com/success/value-calculator-it.html,2,2,4,0,ACCT0106566
+215,www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,ACCT0106566
+216,www.servicenow.com/success/plan.html,1,1,1,INF,ACCT0106566
+217,www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,ACCT0106566
+218,www.servicenow.com/success.html,1,1,1,INF,ACCT0106566
+219,www.servicenow.com/success.html,1,1,8,INF,ACCT0106566
+220,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,ACCT0106566
+221,www.servicenow.com/success/upgrade,1,1,1,INF,ACCT0106566
+222,www.servicenow.com/success/deploy.html,1,1,1,INF,ACCT0106566
+223,www.servicenow.com/,0,0,0,0,ACCT0106566
+224,www.servicenow.com/success/plan/it/cmdb-deployment.html,7,7,16,0,ACCT0071663
+225,www.servicenow.com/success/optimize.html,7,8,12,0,ACCT0071663
+226,www.servicenow.com/success.html,100,112,201,40,ACCT0071663
+227,www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,ACCT0071663
+228,www.servicenow.com/success/plan.html,14,15,42,50,ACCT0071663
+229,www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,ACCT0071663
+230,www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,ACCT0071663
+231,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,ACCT0071663
+232,www.servicenow.com/success/optimize.html,11,11,35,25,ACCT0071663
+233,www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,ACCT0071663
+234,www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,ACCT0071663
+235,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,ACCT0071663
+236,www.servicenow.com/success.html,13,13,18,20,ACCT0071663
+237,www.servicenow.com/success/value-calculator-it.html,8,8,19,20,ACCT0071663
+238,www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,ACCT0071663
+239,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,ACCT0071663
+240,www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,ACCT0071663
+241,www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,ACCT0071663
+242,www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,ACCT0071663
+243,www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,ACCT0071663
+244,www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,ACCT0071663
+245,www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,ACCT0071663
+246,www.servicenow.com/success.html,2,2,2,100,ACCT0071663
+247,www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,ACCT0071663
+248,www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,ACCT0071663
+249,www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,ACCT0071663
+250,www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,ACCT0071663
+251,www.servicenow.com/success.html,2,2,9,50,ACCT0071663
+252,www.servicenow.com/success/value-calculator-it.html,2,2,4,0,ACCT0071663
+253,www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,ACCT0071663
+254,www.servicenow.com/success/plan.html,1,1,1,INF,ACCT0071663
+255,www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,ACCT0071663
+256,www.servicenow.com/success.html,1,1,1,INF,ACCT0071663
+257,www.servicenow.com/success.html,1,1,8,INF,ACCT0071663
+258,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,ACCT0071663
+259,www.servicenow.com/success/upgrade,1,1,1,INF,ACCT0071663
+260,www.servicenow.com/success/deploy.html,1,1,1,INF,ACCT0071663
+261,www.servicenow.com/,0,0,0,0,ACCT0071663
+262,www.servicenow.com/success.html,1,1,2,INF,ACCT0071663
+263,www.servicenow.com/success/optimize.html,7,8,12,0,ACCT0000069
+264,www.servicenow.com/success.html,100,112,201,40,ACCT0000069
+265,www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,ACCT0000069
+266,www.servicenow.com/success/plan.html,14,15,42,50,ACCT0000069
+267,www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,ACCT0000069
+268,www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,ACCT0000069
+269,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,ACCT0000069
+270,www.servicenow.com/success/optimize.html,11,11,35,25,ACCT0000069
+271,www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,ACCT0000069
+272,www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,ACCT0000069
+273,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,ACCT0000069
+274,www.servicenow.com/success.html,13,13,18,20,ACCT0000069
+275,www.servicenow.com/success/value-calculator-it.html,8,8,19,20,ACCT0000069
+276,www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,ACCT0000069
+277,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,ACCT0000069
+278,www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,ACCT0000069
+279,www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,ACCT0000069
+280,www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,ACCT0000069
+281,www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,ACCT0000069
+282,www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,ACCT0000069
+283,www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,ACCT0000069
+284,www.servicenow.com/success.html,2,2,2,100,ACCT0000069
+285,www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,ACCT0000069
+286,www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,ACCT0000069
+287,www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,ACCT0000069
+288,www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,ACCT0000069
+289,www.servicenow.com/success.html,2,2,9,50,ACCT0000069
+290,www.servicenow.com/success/value-calculator-it.html,2,2,4,0,ACCT0000069
+291,www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,ACCT0000069
+292,www.servicenow.com/success/plan.html,1,1,1,INF,ACCT0000069
+293,www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,ACCT0000069
+294,www.servicenow.com/success.html,1,1,1,INF,ACCT0000069
+295,www.servicenow.com/success.html,1,1,8,INF,ACCT0000069
+296,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,ACCT0000069
+297,www.servicenow.com/success/upgrade,1,1,1,INF,ACCT0000069
+298,www.servicenow.com/success/deploy.html,1,1,1,INF,ACCT0000069
+299,www.servicenow.com/,0,0,0,0,ACCT0000069
+300,www.servicenow.com/success.html,1,1,2,INF,ACCT0000069
+301,www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,ACCT0000069
+302,www.servicenow.com/success.html,100,112,201,40,ISP Visitor
+303,www.servicenow.com/success/value-calculator-it.html,39,44,79,68.75,ISP Visitor
+304,www.servicenow.com/success/plan.html,14,15,42,50,ISP Visitor
+305,www.servicenow.com/success/value-calculator-hr.html,14,14,32,0,ISP Visitor
+306,www.servicenow.com/success/deploy/now/performance-analytics.html,11,12,17,50,ISP Visitor
+307,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,11,14,22,44.44444444,ISP Visitor
+308,www.servicenow.com/success/optimize.html,11,11,35,25,ISP Visitor
+309,www.servicenow.com/success/value-calculator-csm.html,10,11,21,0,ISP Visitor
+310,www.servicenow.com/success/plan/it/cmdb-deployment.html,9,10,11,50,ISP Visitor
+311,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,9,9,16,33.33333333,ISP Visitor
+312,www.servicenow.com/success.html,13,13,18,20,ISP Visitor
+313,www.servicenow.com/success/value-calculator-it.html,8,8,19,20,ISP Visitor
+314,www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,ISP Visitor
+315,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,ISP Visitor
+316,www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,ISP Visitor
+317,www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,ISP Visitor
+318,www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,ISP Visitor
+319,www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,ISP Visitor
+320,www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,ISP Visitor
+321,www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,ISP Visitor
+322,www.servicenow.com/success.html,2,2,2,100,ISP Visitor
+323,www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,ISP Visitor
+324,www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,ISP Visitor
+325,www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,ISP Visitor
+326,www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,ISP Visitor
+327,www.servicenow.com/success.html,2,2,9,50,ISP Visitor
+328,www.servicenow.com/success/value-calculator-it.html,2,2,4,0,ISP Visitor
+329,www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,ISP Visitor
+330,www.servicenow.com/success/plan.html,1,1,1,INF,ISP Visitor
+331,www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,ISP Visitor
+332,www.servicenow.com/success.html,1,1,1,INF,ISP Visitor
+333,www.servicenow.com/success.html,1,1,8,INF,ISP Visitor
+334,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,ISP Visitor
+335,www.servicenow.com/success/upgrade,1,1,1,INF,ISP Visitor
+336,www.servicenow.com/success/deploy.html,1,1,1,INF,ISP Visitor
+337,www.servicenow.com/,0,0,0,0,ISP Visitor
+338,www.servicenow.com/success.html,1,1,2,INF,ISP Visitor
+339,www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,ISP Visitor
+340,www.servicenow.com/success.html,136,140,249,79.78723404,ISP Visitor
+341,www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,ISP Visitor
+342,www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,ISP Visitor
+343,www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,ISP Visitor
+344,www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,ISP Visitor
+345,www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,ISP Visitor
+346,www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,ISP Visitor
+347,www.servicenow.com/success/deploy.html,10,11,34,INF,ISP Visitor
+348,www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,ISP Visitor
+349,www.servicenow.com/success/plan.html,8,9,30,100,ISP Visitor
+350,www.servicenow.com/success.html,13,13,18,20,Not In List
+351,www.servicenow.com/success/value-calculator-it.html,8,8,19,20,Not In List
+352,www.servicenow.com/success/value-calculator-csm.html,7,7,9,100,Not In List
+353,www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html,3,3,3,100,Not In List
+354,www.servicenow.com/success/deploy/now/cmdb-discovery.html,3,3,3,66.66666667,Not In List
+355,www.servicenow.com/success/plan/start-implementation.html,2,2,2,100,Not In List
+356,www.servicenow.com/success/value-calculator-it-form.html,1,1,1,100,Not In List
+357,www.servicenow.com/success/deploy/now/drive-adoption.html,1,1,1,100,Not In List
+358,www.servicenow.com/success/deploy/now/performance-analytics.html,1,1,1,0,Not In List
+359,www.servicenow.com/success/plan/start-implementation/stage1.html,1,1,1,0,Not In List
+360,www.servicenow.com/success.html,2,2,2,100,Not In List
+361,www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,Not In List
+362,www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,Not In List
+363,www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,Not In List
+364,www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,Not In List
+365,www.servicenow.com/success.html,2,2,9,50,Not In List
+366,www.servicenow.com/success/value-calculator-it.html,2,2,4,0,Not In List
+367,www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,Not In List
+368,www.servicenow.com/success/plan.html,1,1,1,INF,Not In List
+369,www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,Not In List
+370,www.servicenow.com/success.html,1,1,1,INF,Not In List
+371,www.servicenow.com/success.html,1,1,8,INF,Not In List
+372,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,Not In List
+373,www.servicenow.com/success/upgrade,1,1,1,INF,Not In List
+374,www.servicenow.com/success/deploy.html,1,1,1,INF,Not In List
+375,www.servicenow.com/,0,0,0,0,Not In List
+376,www.servicenow.com/success.html,1,1,2,INF,Not In List
+377,www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,Not In List
+378,www.servicenow.com/success.html,136,140,249,79.78723404,Not In List
+379,www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,Not In List
+380,www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,Not In List
+381,www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,Not In List
+382,www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,Not In List
+383,www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,Not In List
+384,www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,Not In List
+385,www.servicenow.com/success/deploy.html,10,11,34,INF,Not In List
+386,www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,Not In List
+387,www.servicenow.com/success/plan.html,8,9,30,100,Not In List
+388,www.servicenow.com/success.html,117,127,271,33.33333333,Not In List
+389,www.servicenow.com/success/value-calculator-it.html,108,117,258,40,Not In List
+390,www.servicenow.com/success/plan.html,28,29,100,INF,Not In List
+391,www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,Not In List
+392,www.servicenow.com/success/optimize.html,21,21,54,0,Not In List
+393,www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,Not In List
+394,www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,Not In List
+395,www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,Not In List
+396,www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,Not In List
+397,www.servicenow.com/success/deploy.html,13,14,34,50,Not In List
+398,www.servicenow.com/success.html,2,2,2,100,::unspecified::
+399,www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,::unspecified::
+400,www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,::unspecified::
+401,www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,::unspecified::
+402,www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,::unspecified::
+403,www.servicenow.com/success.html,2,2,9,50,::unspecified::
+404,www.servicenow.com/success/value-calculator-it.html,2,2,4,0,::unspecified::
+405,www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,::unspecified::
+406,www.servicenow.com/success/plan.html,1,1,1,INF,::unspecified::
+407,www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,::unspecified::
+408,www.servicenow.com/success.html,1,1,1,INF,::unspecified::
+409,www.servicenow.com/success.html,1,1,8,INF,::unspecified::
+410,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,::unspecified::
+411,www.servicenow.com/success/upgrade,1,1,1,INF,::unspecified::
+412,www.servicenow.com/success/deploy.html,1,1,1,INF,::unspecified::
+413,www.servicenow.com/,0,0,0,0,::unspecified::
+414,www.servicenow.com/success.html,1,1,2,INF,::unspecified::
+415,www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,::unspecified::
+416,www.servicenow.com/success.html,136,140,249,79.78723404,::unspecified::
+417,www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,::unspecified::
+418,www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,::unspecified::
+419,www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,::unspecified::
+420,www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,::unspecified::
+421,www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,::unspecified::
+422,www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,::unspecified::
+423,www.servicenow.com/success/deploy.html,10,11,34,INF,::unspecified::
+424,www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,::unspecified::
+425,www.servicenow.com/success/plan.html,8,9,30,100,::unspecified::
+426,www.servicenow.com/success.html,117,127,271,33.33333333,::unspecified::
+427,www.servicenow.com/success/value-calculator-it.html,108,117,258,40,::unspecified::
+428,www.servicenow.com/success/plan.html,28,29,100,INF,::unspecified::
+429,www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,::unspecified::
+430,www.servicenow.com/success/optimize.html,21,21,54,0,::unspecified::
+431,www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,::unspecified::
+432,www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,::unspecified::
+433,www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,::unspecified::
+434,www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,::unspecified::
+435,www.servicenow.com/success/deploy.html,13,14,34,50,::unspecified::
+436,www.servicenow.com/success/value-calculator-it.html,16,16,27,50,::unspecified::
+437,www.servicenow.com/success.html,8,8,10,33.33333333,::unspecified::
+438,www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,::unspecified::
+439,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,::unspecified::
+440,www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,::unspecified::
+441,www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,::unspecified::
+442,www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,::unspecified::
+443,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,::unspecified::
+444,www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,::unspecified::
+445,www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html,3,3,10,33.33333333,ACCT0065581
+446,www.servicenow.com/success/deploy/now/performance-analytics.html,1,2,2,50,ACCT0065581
+447,www.servicenow.com/success/deploy/now/security-center/stage1.html,1,1,1,INF,ACCT0065581
+448,www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,ACCT0065581
+449,www.servicenow.com/success.html,2,2,9,50,ACCT0065581
+450,www.servicenow.com/success/value-calculator-it.html,2,2,4,0,ACCT0065581
+451,www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,ACCT0065581
+452,www.servicenow.com/success/plan.html,1,1,1,INF,ACCT0065581
+453,www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,ACCT0065581
+454,www.servicenow.com/success.html,1,1,1,INF,ACCT0065581
+455,www.servicenow.com/success.html,1,1,8,INF,ACCT0065581
+456,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,ACCT0065581
+457,www.servicenow.com/success/upgrade,1,1,1,INF,ACCT0065581
+458,www.servicenow.com/success/deploy.html,1,1,1,INF,ACCT0065581
+459,www.servicenow.com/,0,0,0,0,ACCT0065581
+460,www.servicenow.com/success.html,1,1,2,INF,ACCT0065581
+461,www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,ACCT0065581
+462,www.servicenow.com/success.html,136,140,249,79.78723404,ACCT0065581
+463,www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,ACCT0065581
+464,www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,ACCT0065581
+465,www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,ACCT0065581
+466,www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,ACCT0065581
+467,www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,ACCT0065581
+468,www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,ACCT0065581
+469,www.servicenow.com/success/deploy.html,10,11,34,INF,ACCT0065581
+470,www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,ACCT0065581
+471,www.servicenow.com/success/plan.html,8,9,30,100,ACCT0065581
+472,www.servicenow.com/success.html,117,127,271,33.33333333,ACCT0065581
+473,www.servicenow.com/success/value-calculator-it.html,108,117,258,40,ACCT0065581
+474,www.servicenow.com/success/plan.html,28,29,100,INF,ACCT0065581
+475,www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,ACCT0065581
+476,www.servicenow.com/success/optimize.html,21,21,54,0,ACCT0065581
+477,www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,ACCT0065581
+478,www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,ACCT0065581
+479,www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,ACCT0065581
+480,www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,ACCT0065581
+481,www.servicenow.com/success/deploy.html,13,14,34,50,ACCT0065581
+482,www.servicenow.com/success/value-calculator-it.html,16,16,27,50,ACCT0065581
+483,www.servicenow.com/success.html,8,8,10,33.33333333,ACCT0065581
+484,www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,ACCT0065581
+485,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,ACCT0065581
+486,www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,ACCT0065581
+487,www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,ACCT0065581
+488,www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,ACCT0065581
+489,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,ACCT0065581
+490,www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,ACCT0065581
+491,www.servicenow.com/success/value-calculator-it.html,2,2,2,100,ACCT0065581
+492,www.servicenow.com/success.html,1,1,1,100,ACCT0065581
+493,www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,ACCT0065581
+494,www.servicenow.com/success.html,2,2,9,50,ACCT0019679
+495,www.servicenow.com/success/value-calculator-it.html,2,2,4,0,ACCT0019679
+496,www.servicenow.com/success/plan/start-implementation.html,1,1,1,INF,ACCT0019679
+497,www.servicenow.com/success/plan.html,1,1,1,INF,ACCT0019679
+498,www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,ACCT0019679
+499,www.servicenow.com/success.html,1,1,1,INF,ACCT0019679
+500,www.servicenow.com/success.html,1,1,8,INF,ACCT0019679
+501,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,ACCT0019679
+502,www.servicenow.com/success/upgrade,1,1,1,INF,ACCT0019679
+503,www.servicenow.com/success/deploy.html,1,1,1,INF,ACCT0019679
+504,www.servicenow.com/,0,0,0,0,ACCT0019679
+505,www.servicenow.com/success.html,1,1,2,INF,ACCT0019679
+506,www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,ACCT0019679
+507,www.servicenow.com/success.html,136,140,249,79.78723404,ACCT0019679
+508,www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,ACCT0019679
+509,www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,ACCT0019679
+510,www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,ACCT0019679
+511,www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,ACCT0019679
+512,www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,ACCT0019679
+513,www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,ACCT0019679
+514,www.servicenow.com/success/deploy.html,10,11,34,INF,ACCT0019679
+515,www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,ACCT0019679
+516,www.servicenow.com/success/plan.html,8,9,30,100,ACCT0019679
+517,www.servicenow.com/success.html,117,127,271,33.33333333,ACCT0019679
+518,www.servicenow.com/success/value-calculator-it.html,108,117,258,40,ACCT0019679
+519,www.servicenow.com/success/plan.html,28,29,100,INF,ACCT0019679
+520,www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,ACCT0019679
+521,www.servicenow.com/success/optimize.html,21,21,54,0,ACCT0019679
+522,www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,ACCT0019679
+523,www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,ACCT0019679
+524,www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,ACCT0019679
+525,www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,ACCT0019679
+526,www.servicenow.com/success/deploy.html,13,14,34,50,ACCT0019679
+527,www.servicenow.com/success/value-calculator-it.html,16,16,27,50,ACCT0019679
+528,www.servicenow.com/success.html,8,8,10,33.33333333,ACCT0019679
+529,www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,ACCT0019679
+530,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,ACCT0019679
+531,www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,ACCT0019679
+532,www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,ACCT0019679
+533,www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,ACCT0019679
+534,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,ACCT0019679
+535,www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,ACCT0019679
+536,www.servicenow.com/success/value-calculator-it.html,2,2,2,100,ACCT0019679
+537,www.servicenow.com/success.html,1,1,1,100,ACCT0019679
+538,www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,ACCT0019679
+539,www.servicenow.com/success/extend/automate-management/stage4.html,1,1,1,100,ACCT0001406
+540,www.servicenow.com/success.html,1,1,1,INF,ACCT0001406
+541,www.servicenow.com/success.html,1,1,8,INF,ACCT0001406
+542,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,ACCT0001406
+543,www.servicenow.com/success/upgrade,1,1,1,INF,ACCT0001406
+544,www.servicenow.com/success/deploy.html,1,1,1,INF,ACCT0001406
+545,www.servicenow.com/,0,0,0,0,ACCT0001406
+546,www.servicenow.com/success.html,1,1,2,INF,ACCT0001406
+547,www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,ACCT0001406
+548,www.servicenow.com/success.html,136,140,249,79.78723404,ACCT0001406
+549,www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,ACCT0001406
+550,www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,ACCT0001406
+551,www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,ACCT0001406
+552,www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,ACCT0001406
+553,www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,ACCT0001406
+554,www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,ACCT0001406
+555,www.servicenow.com/success/deploy.html,10,11,34,INF,ACCT0001406
+556,www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,ACCT0001406
+557,www.servicenow.com/success/plan.html,8,9,30,100,ACCT0001406
+558,www.servicenow.com/success.html,117,127,271,33.33333333,ACCT0001406
+559,www.servicenow.com/success/value-calculator-it.html,108,117,258,40,ACCT0001406
+560,www.servicenow.com/success/plan.html,28,29,100,INF,ACCT0001406
+561,www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,ACCT0001406
+562,www.servicenow.com/success/optimize.html,21,21,54,0,ACCT0001406
+563,www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,ACCT0001406
+564,www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,ACCT0001406
+565,www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,ACCT0001406
+566,www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,ACCT0001406
+567,www.servicenow.com/success/deploy.html,13,14,34,50,ACCT0001406
+568,www.servicenow.com/success/value-calculator-it.html,16,16,27,50,ACCT0001406
+569,www.servicenow.com/success.html,8,8,10,33.33333333,ACCT0001406
+570,www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,ACCT0001406
+571,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,ACCT0001406
+572,www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,ACCT0001406
+573,www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,ACCT0001406
+574,www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,ACCT0001406
+575,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,ACCT0001406
+576,www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,ACCT0001406
+577,www.servicenow.com/success/value-calculator-it.html,2,2,2,100,ACCT0001406
+578,www.servicenow.com/success.html,1,1,1,100,ACCT0001406
+579,www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,ACCT0001406
+580,www.servicenow.com/success/plan/start-implementation.html,1,1,1,100,ACCT0001406
+581,www.servicenow.com/success.html,1,1,8,INF,ACCT0023867
+582,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,2,INF,ACCT0023867
+583,www.servicenow.com/success/upgrade,1,1,1,INF,ACCT0023867
+584,www.servicenow.com/success/deploy.html,1,1,1,INF,ACCT0023867
+585,www.servicenow.com/,0,0,0,0,ACCT0023867
+586,www.servicenow.com/success.html,1,1,2,INF,ACCT0023867
+587,www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,ACCT0023867
+588,www.servicenow.com/success.html,136,140,249,79.78723404,ACCT0023867
+589,www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,ACCT0023867
+590,www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,ACCT0023867
+591,www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,ACCT0023867
+592,www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,ACCT0023867
+593,www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,ACCT0023867
+594,www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,ACCT0023867
+595,www.servicenow.com/success/deploy.html,10,11,34,INF,ACCT0023867
+596,www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,ACCT0023867
+597,www.servicenow.com/success/plan.html,8,9,30,100,ACCT0023867
+598,www.servicenow.com/success.html,117,127,271,33.33333333,ACCT0023867
+599,www.servicenow.com/success/value-calculator-it.html,108,117,258,40,ACCT0023867
+600,www.servicenow.com/success/plan.html,28,29,100,INF,ACCT0023867
+601,www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,ACCT0023867
+602,www.servicenow.com/success/optimize.html,21,21,54,0,ACCT0023867
+603,www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,ACCT0023867
+604,www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,ACCT0023867
+605,www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,ACCT0023867
+606,www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,ACCT0023867
+607,www.servicenow.com/success/deploy.html,13,14,34,50,ACCT0023867
+608,www.servicenow.com/success/value-calculator-it.html,16,16,27,50,ACCT0023867
+609,www.servicenow.com/success.html,8,8,10,33.33333333,ACCT0023867
+610,www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,ACCT0023867
+611,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,ACCT0023867
+612,www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,ACCT0023867
+613,www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,ACCT0023867
+614,www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,ACCT0023867
+615,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,ACCT0023867
+616,www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,ACCT0023867
+617,www.servicenow.com/success/value-calculator-it.html,2,2,2,100,ACCT0023867
+618,www.servicenow.com/success.html,1,1,1,100,ACCT0023867
+619,www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,ACCT0023867
+620,www.servicenow.com/success/plan/start-implementation.html,1,1,1,100,ACCT0023867
+621,www.servicenow.com/success.html,2,2,4,50,ACCT0023867
+622,www.servicenow.com/success/pillars.html,1,1,1,INF,ACCT0023867
+623,www.servicenow.com/success/pillars/go-live.html,1,1,1,INF,ACCT0023867
+624,www.servicenow.com/success.html,1,1,2,INF,ACCT0106566
+625,www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,ACCT0106566
+626,www.servicenow.com/success.html,136,140,249,79.78723404,ACCT0106566
+627,www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,ACCT0106566
+628,www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,ACCT0106566
+629,www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,ACCT0106566
+630,www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,ACCT0106566
+631,www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,ACCT0106566
+632,www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,ACCT0106566
+633,www.servicenow.com/success/deploy.html,10,11,34,INF,ACCT0106566
+634,www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,ACCT0106566
+635,www.servicenow.com/success/plan.html,8,9,30,100,ACCT0106566
+636,www.servicenow.com/success.html,117,127,271,33.33333333,ACCT0106566
+637,www.servicenow.com/success/value-calculator-it.html,108,117,258,40,ACCT0106566
+638,www.servicenow.com/success/plan.html,28,29,100,INF,ACCT0106566
+639,www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,ACCT0106566
+640,www.servicenow.com/success/optimize.html,21,21,54,0,ACCT0106566
+641,www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,ACCT0106566
+642,www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,ACCT0106566
+643,www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,ACCT0106566
+644,www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,ACCT0106566
+645,www.servicenow.com/success/deploy.html,13,14,34,50,ACCT0106566
+646,www.servicenow.com/success/value-calculator-it.html,16,16,27,50,ACCT0106566
+647,www.servicenow.com/success.html,8,8,10,33.33333333,ACCT0106566
+648,www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,ACCT0106566
+649,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,ACCT0106566
+650,www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,ACCT0106566
+651,www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,ACCT0106566
+652,www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,ACCT0106566
+653,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,ACCT0106566
+654,www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,ACCT0106566
+655,www.servicenow.com/success/value-calculator-it.html,2,2,2,100,ACCT0106566
+656,www.servicenow.com/success.html,1,1,1,100,ACCT0106566
+657,www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,ACCT0106566
+658,www.servicenow.com/success/plan/start-implementation.html,1,1,1,100,ACCT0106566
+659,www.servicenow.com/success.html,2,2,4,50,ACCT0106566
+660,www.servicenow.com/success/pillars.html,1,1,1,INF,ACCT0106566
+661,www.servicenow.com/success/pillars/go-live.html,1,1,1,INF,ACCT0106566
+662,www.servicenow.com/success.html,2,2,2,50,ACCT0106566
+663,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,4,0,ACCT0106566
+664,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,0,ACCT0106566
+665,www.servicenow.com/success/deploy.html,1,1,2,INF,ACCT0106566
+666,www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,1,1,INF,ACCT0106566
+667,www.servicenow.com/lpbp/software-asset-mgmt.html,1,1,1,INF,ACCT0106566
+668,www.servicenow.com/success/optimize/now/improve-self-service/stage3.html,1,1,1,100,ACCT0071663
+669,www.servicenow.com/success.html,136,140,249,79.78723404,ACCT0071663
+670,www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,ACCT0071663
+671,www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,ACCT0071663
+672,www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,ACCT0071663
+673,www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,ACCT0071663
+674,www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,ACCT0071663
+675,www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,ACCT0071663
+676,www.servicenow.com/success/deploy.html,10,11,34,INF,ACCT0071663
+677,www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,ACCT0071663
+678,www.servicenow.com/success/plan.html,8,9,30,100,ACCT0071663
+679,www.servicenow.com/success.html,117,127,271,33.33333333,ACCT0071663
+680,www.servicenow.com/success/value-calculator-it.html,108,117,258,40,ACCT0071663
+681,www.servicenow.com/success/plan.html,28,29,100,INF,ACCT0071663
+682,www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,ACCT0071663
+683,www.servicenow.com/success/optimize.html,21,21,54,0,ACCT0071663
+684,www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,ACCT0071663
+685,www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,ACCT0071663
+686,www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,ACCT0071663
+687,www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,ACCT0071663
+688,www.servicenow.com/success/deploy.html,13,14,34,50,ACCT0071663
+689,www.servicenow.com/success/value-calculator-it.html,16,16,27,50,ACCT0071663
+690,www.servicenow.com/success.html,8,8,10,33.33333333,ACCT0071663
+691,www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,ACCT0071663
+692,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,ACCT0071663
+693,www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,ACCT0071663
+694,www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,ACCT0071663
+695,www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,ACCT0071663
+696,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,ACCT0071663
+697,www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,ACCT0071663
+698,www.servicenow.com/success/value-calculator-it.html,2,2,2,100,ACCT0071663
+699,www.servicenow.com/success.html,1,1,1,100,ACCT0071663
+700,www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,ACCT0071663
+701,www.servicenow.com/success/plan/start-implementation.html,1,1,1,100,ACCT0071663
+702,www.servicenow.com/success.html,2,2,4,50,ACCT0071663
+703,www.servicenow.com/success/pillars.html,1,1,1,INF,ACCT0071663
+704,www.servicenow.com/success/pillars/go-live.html,1,1,1,INF,ACCT0071663
+705,www.servicenow.com/success.html,2,2,2,50,ACCT0071663
+706,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,4,0,ACCT0071663
+707,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,0,ACCT0071663
+708,www.servicenow.com/success/deploy.html,1,1,2,INF,ACCT0071663
+709,www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,1,1,INF,ACCT0071663
+710,www.servicenow.com/lpbp/software-asset-mgmt.html,1,1,1,INF,ACCT0071663
+711,www.servicenow.com/success.html,1,1,2,0,ACCT0071663
+712,www.servicenow.com/company/trust/gdpr.html,0,0,0,0,ACCT0071663
+762,www.servicenow.com/success.html,136,140,249,79.78723404,ACCT0000069
+763,www.servicenow.com/success/value-calculator-it.html,95,100,238,40.98360656,ACCT0000069
+764,www.servicenow.com/success/value-calculator-hr.html,20,25,93,25,ACCT0000069
+765,www.servicenow.com/success/plan/start-implementation.html,18,19,21,66.66666667,ACCT0000069
+766,www.servicenow.com/success/value-calculator-it-form-1.html,16,17,30,100,ACCT0000069
+767,www.servicenow.com/success/deploy/now/performance-analytics.html,14,14,17,58.33333333,ACCT0000069
+768,www.servicenow.com/success/plan/it/software-asset-mgmt.html,13,13,13,33.33333333,ACCT0000069
+769,www.servicenow.com/success/deploy.html,10,11,34,INF,ACCT0000069
+770,www.servicenow.com/success/value-calculator-csm.html,9,12,22,66.66666667,ACCT0000069
+771,www.servicenow.com/success/plan.html,8,9,30,100,ACCT0000069
+772,www.servicenow.com/success.html,117,127,271,33.33333333,ACCT0000069
+773,www.servicenow.com/success/value-calculator-it.html,108,117,258,40,ACCT0000069
+774,www.servicenow.com/success/plan.html,28,29,100,INF,ACCT0000069
+775,www.servicenow.com/success/plan/it/software-asset-mgmt.html,22,23,24,31.25,ACCT0000069
+776,www.servicenow.com/success/optimize.html,21,21,54,0,ACCT0000069
+777,www.servicenow.com/success/value-calculator-hr.html,20,20,59,0,ACCT0000069
+778,www.servicenow.com/success/plan/start-implementation.html,19,19,21,33.33333333,ACCT0000069
+779,www.servicenow.com/success/value-calculator-csm.html,19,21,59,0,ACCT0000069
+780,www.servicenow.com/success/value-calculator-security-ops.html,15,15,29,33.33333333,ACCT0000069
+781,www.servicenow.com/success/deploy.html,13,14,34,50,ACCT0000069
+782,www.servicenow.com/success/value-calculator-it.html,16,16,27,50,ACCT0000069
+783,www.servicenow.com/success.html,8,8,10,33.33333333,ACCT0000069
+784,www.servicenow.com/success/deploy/now/performance-analytics.html,3,3,5,66.66666667,ACCT0000069
+785,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,100,ACCT0000069
+786,www.servicenow.com/success/extend/automate-management/stage2.html,1,1,1,0,ACCT0000069
+787,www.servicenow.com/success/optimize/now/improve-self-service.html,1,1,1,0,ACCT0000069
+788,www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,ACCT0000069
+789,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,1,0,ACCT0000069
+790,www.servicenow.com/lpbp/get-started-with-performance-analytics.html,1,1,4,INF,ACCT0000069
+792,www.servicenow.com/success/value-calculator-it.html,2,2,2,100,ACCT0000069
+793,www.servicenow.com/success.html,1,1,1,100,ACCT0000069
+794,www.servicenow.com/success/plan/it/cmdb-deployment.html,1,1,1,100,ACCT0000069
+795,www.servicenow.com/success/plan/start-implementation.html,1,1,1,100,ACCT0000069
+796,www.servicenow.com/success.html,2,2,4,50,ACCT0000069
+797,www.servicenow.com/success/pillars.html,1,1,1,INF,ACCT0000069
+798,www.servicenow.com/success/pillars/go-live.html,1,1,1,INF,ACCT0000069
+799,www.servicenow.com/success.html,2,2,2,50,ACCT0000069
+800,www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html,1,1,4,0,ACCT0000069
+801,www.servicenow.com/success/plan/it/software-asset-mgmt.html,1,1,1,0,ACCT0000069
+802,www.servicenow.com/success/deploy.html,1,1,2,INF,ACCT0000069
+803,www.servicenow.com/success/deploy/now/innovate-at-scale.html,1,1,1,INF,ACCT0000069
+804,www.servicenow.com/lpbp/software-asset-mgmt.html,1,1,1,INF,ACCT0000069
+805,www.servicenow.com/success.html,1,1,2,0,ACCT0000069
+809,www.servicenow.com/company/trust/gdpr.html,0,0,0,0,ACCT0000069
+810,www.servicenow.com/success/value-calculator-it.html,2,2,6,0,ACCT0000069
+811,www.servicenow.com/success/value-calculator-csm.html,1,1,1,INF,ACCT0000069

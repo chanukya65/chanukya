@@ -1,0 +1,1137 @@
+ITEM,UNIQUE_VISITORS,VISITS,PAGE_VIEWS,BOUNCES,TIME_SPENT_ON_PAGE_(MIN),E89_VIDEO_VIEWS,E17_FORM_SUCCESS,FORM_SUBMISSIONS,TOTAL_WEEKLY_UNIQUE_VISITORS,ENTRIES,TOTAL_TIME_SPENT,ACCOUNT_NUMBER,START_DATE_OF_WEEK,GRANULARITY,SEGMENT_ID,GROUP,ETL_EXTRACT_DATE
+www.servicenow.com/success/value-calculator-it.html,41,50,126,9,2.51,0,0,0,58,25,7531,Not In List,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,15,18,41,2,1.27,0,0,0,58,3,1367,Not In List,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,14,17,32,1,1.52,0,0,0,58,3,1554,Not In List,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,12,14,39,1,4.1,0,0,0,58,5,3446,Not In List,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,11,12,20,0,3.75,0,8,66.67,58,1,2700,Not In List,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form.html,6,6,7,0,0.41,0,1,16.67,58,0,149,Not In List,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,2,3,5,0,5.26,0,1,33.33,58,0,946,Not In List,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,2,4,0,0.68,0,0,0,58,0,81,Not In List,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form.html,1,2,3,0,0.09,0,1,50,58,1,11,Not In List,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form.html,1,1,1,0,0,0,0,0,58,0,0,Not In List,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,23,26,44,10,1.45,0,0,0,34,15,2262,ISP Visitor,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,6,6,18,0,1.12,0,0,0,34,1,402,ISP Visitor,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,3,3,11,0,0.69,0,0,0,34,0,125,ISP Visitor,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,4,1,0.1,0,0,0,34,1,18,ISP Visitor,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,2,2,2,0,0.07,0,0,0,34,0,8,ISP Visitor,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form.html,1,1,3,0,0.82,0,1,100,34,0,49,ISP Visitor,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,1,0,0,0,0,34,1,0,ISP Visitor,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,34,7,0,ISP Visitor,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,34,1,0,ISP Visitor,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,34,1,0,ISP Visitor,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,38,39,46,29,0.17,0,0,0,49,39,389,::unspecified::,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,4,4,0,0,0,0,49,4,0,::unspecified::,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,13,0,5.92,0,0,0,49,3,1065,::unspecified::,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,3,3,8,0,0.47,0,0,0,49,3,85,::unspecified::,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,1,0,0,0,0,49,1,0,::unspecified::,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,49,6,0,::unspecified::,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value,0,0,0,0,INF,0,0,INF,49,1,0,::unspecified::,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/enterprise/it.html,0,0,0,0,INF,0,0,INF,49,1,0,::unspecified::,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,49,1,0,::unspecified::,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/trust/gdpr.html,0,0,0,0,INF,0,0,INF,49,1,0,::unspecified::,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/1/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,55,61,141,9,2.71,0,0,0,89,29,9910,Not In List,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,20,23,71,0,2.33,0,0,0,89,2,3217,Not In List,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,15,17,32,5,1.28,0,0,0,89,7,1307,Not In List,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,11,12,26,1,1.27,0,0,0,89,2,914,Not In List,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,9,11,15,3,0.23,0,0,0,89,4,155,Not In List,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,7,8,10,1,0.1,0,2,25,89,1,47,Not In List,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form.html,6,7,10,0,5.22,0,3,42.86,89,0,2194,Not In List,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,4,4,6,0,0.79,0,0,0,89,1,189,Not In List,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,2,0,0.2,0,1,100,89,0,12,Not In List,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,1,0,0.5,0,0,0,89,1,30,Not In List,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,35,36,112,17,1.46,0,0,0,57,22,3158,ISP Visitor,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,10,11,24,2,1.22,0,0,0,57,6,807,ISP Visitor,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,9,9,18,3,0.38,0,0,0,57,3,207,ISP Visitor,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,6,6,10,2,2.27,0,0,0,57,2,818,ISP Visitor,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,5,6,21,3,2.32,0,0,0,57,3,836,ISP Visitor,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,5,5,8,0,1.95,0,3,60,57,0,585,ISP Visitor,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form.html,2,3,6,0,13.49,0,2,66.67,57,0,2428,ISP Visitor,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,1,1,2,0,5.85,0,1,100,57,0,351,ISP Visitor,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form.html,1,1,2,0,1.23,0,1,100,57,0,74,ISP Visitor,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form.html,1,1,1,0,0,0,0,0,57,0,0,ISP Visitor,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,40,40,70,26,0.44,0,0,0,54,39,1064,::unspecified::,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,7,7,7,4,0.18,0,0,0,54,6,76,::unspecified::,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,6,6,10,3,0.37,0,0,0,54,6,132,::unspecified::,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,5,7,2,0.29,0,0,0,54,4,86,::unspecified::,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,2,2,0,0,0,0,54,2,0,::unspecified::,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,54,5,0,::unspecified::,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,54,2,0,::unspecified::,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/solutions/service-management.html,0,0,0,0,INF,0,0,INF,54,1,0,::unspecified::,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+go.servicenow.com/LP=10113,0,0,0,0,INF,0,0,INF,54,1,0,::unspecified::,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,54,1,0,::unspecified::,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,1,0,0,0,0,3,1,0,ACCT0065581,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,3,1,0,ACCT0065581,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,1,0,0,0,0,3,1,0,ACCT0065581,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,5,0,2.42,0,0,0,1,0,145,ACCT0106566,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,2,0,0.37,0,0,0,1,1,22,ACCT0106566,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/2/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,43,44,108,10,2.8,0,0,0,66,26,7404,Not In List,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,11,14,33,1,2.48,0,0,0,66,4,2086,Not In List,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,11,12,30,1,2.73,0,0,0,66,2,1967,Not In List,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,11,11,25,0,2.39,0,0,0,66,1,1578,Not In List,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,9,9,16,2,3.15,0,0,0,66,3,1703,Not In List,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,8,8,16,1,0.58,0,7,87.5,66,1,277,Not In List,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,3,3,8,0,0.64,0,3,100,66,0,116,Not In List,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form.html,2,2,3,0,1.92,0,1,50,66,0,230,Not In List,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form.html,2,2,3,0,0.15,0,1,50,66,0,18,Not In List,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form.html,1,1,2,0,1.12,0,1,100,66,0,67,Not In List,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,65,67,112,27,2.07,0,0,0,82,52,8337,ISP Visitor,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,13,13,42,1,4.21,0,0,0,82,2,3280,ISP Visitor,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,9,9,17,2,1.13,0,0,0,82,4,608,ISP Visitor,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,6,6,14,0,1.13,0,0,0,82,1,408,ISP Visitor,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,6,6,9,0,2.02,0,3,50,82,0,726,ISP Visitor,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,3,3,4,0,0.53,0,0,0,82,0,95,ISP Visitor,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form.html,2,2,3,0,0.45,0,1,50,82,0,54,ISP Visitor,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form.html,1,1,2,0,0.87,0,1,100,82,0,52,ISP Visitor,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,1,1,1,0,0,0,0,0,82,0,0,ISP Visitor,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,82,5,0,ISP Visitor,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,45,46,60,31,0.76,0,0,0,61,45,2096,::unspecified::,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,5,6,6,4,0,0,0,0,61,4,0,::unspecified::,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,4,4,7,1,11.96,0,0,0,61,4,2871,::unspecified::,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,5,2,0.27,0,0,0,61,4,64,::unspecified::,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,3,3,0,0,0,0,61,3,0,::unspecified::,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,1,1,2,0,0.23,0,1,100,61,1,14,::unspecified::,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,0,0.47,0,0,0,61,1,28,::unspecified::,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,61,8,0,::unspecified::,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,61,2,0,::unspecified::,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,61,1,0,::unspecified::,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,3,3,3,3,0,0,0,0,3,3,0,ACCT0065581,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,0,6.12,0,0,0,1,1,367,ACCT0006886,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,0.64,0,0,0,2,1,77,ACCT0026431,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,2,0,2.37,0,1,100,2,0,142,ACCT0026431,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,2,0,1.7,0,0,0,2,0,102,ACCT0026431,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,1,1,2,0,1.38,0,1,100,2,0,83,ACCT0026431,5/3/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,62,76,209,4,2.16,0,0,0,79,30,9853,Not In List,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,18,21,29,3,0.5,0,0,0,79,6,629,Not In List,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,15,15,38,1,1.7,0,0,0,79,3,1528,Not In List,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,10,10,14,0,1.58,0,0,0,79,0,947,Not In List,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,9,13,24,0,2.15,0,6,46.15,79,1,1677,Not In List,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,9,11,18,0,2.6,0,4,36.36,79,0,1716,Not In List,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,8,8,8,0,0.88,0,0,0,79,1,423,Not In List,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form.html,5,5,6,1,5.57,0,1,20,79,1,1671,Not In List,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,4,0,24.18,0,1,100,79,0,1451,Not In List,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator.html,1,1,1,0,0.12,0,0,0,79,0,7,Not In List,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,52,56,105,18,1.07,0,0,0,66,31,3586,ISP Visitor,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,8,9,31,0,2.16,0,0,0,66,1,1166,ISP Visitor,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form.html,4,4,7,0,2.24,0,2,50,66,0,538,ISP Visitor,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,6,1,0.16,0,0,0,66,1,38,ISP Visitor,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,4,4,3,1,0.47,0,0,0,66,1,113,ISP Visitor,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,2,2,4,0,0.45,0,2,100,66,0,54,ISP Visitor,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form.html,2,2,2,1,0,0,0,0,66,1,0,ISP Visitor,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,1,1,2,0,1.05,0,0,0,66,0,63,ISP Visitor,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,0,0,0,0,0,66,0,0,ISP Visitor,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,66,11,0,ISP Visitor,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,25,26,40,16,0.43,0,0,0,39,24,673,::unspecified::,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,6,6,7,3,3.89,0,0,0,39,6,1402,::unspecified::,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,3,3,5,2,1.78,0,0,0,39,3,321,::unspecified::,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,2,2,0,0,0,0,39,2,0,::unspecified::,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,2,2,2,0,0,0,0,39,2,0,::unspecified::,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form.html,2,2,2,1,0.25,0,0,0,39,2,30,::unspecified::,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,39,11,0,::unspecified::,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpdem/demonow-all.html,0,0,0,0,INF,0,0,INF,39,2,0,::unspecified::,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,39,1,0,::unspecified::,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,39,1,0,::unspecified::,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,2,2,0,0,0,0,2,2,0,ACCT0065581,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,2,2,0,0,0,0,2,2,0,ACCT0006886,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,2,0,0.1,0,1,100,1,0,6,ACCT0026431,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,0,0,0.05,0,0,0,1,1,3,ACCT0026431,5/4/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,12,13,22,1,2.38,0,0,0,16,6,1853,Not In List,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,5,0,2.53,0,0,0,16,0,455,Not In List,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,3,3,3,0,0.82,0,0,0,16,0,148,Not In List,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,2,2,3,0,0.15,0,0,0,16,0,18,Not In List,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,0,23.2,0,0,0,16,0,1392,Not In List,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,1,1,0,0.28,0,0,0,16,0,17,Not In List,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,0,1,0,0,0,0,16,1,0,Not In List,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,16,5,0,Not In List,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/solutions/industry/healthcare.html,0,0,0,0,INF,0,0,INF,16,1,0,Not In List,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/solutions/industry/higher-education/streamlined-campus.html,0,0,0,0,INF,0,0,INF,16,1,0,Not In List,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,24,26,46,5,1.01,0,0,0,35,11,1583,ISP Visitor,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,6,7,8,2,0.32,0,0,0,35,3,136,ISP Visitor,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,6,6,8,0,1.87,0,1,16.67,35,0,674,ISP Visitor,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,5,7,3,0.12,0,0,0,35,3,36,ISP Visitor,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,3,1,0.24,0,0,0,35,1,44,ISP Visitor,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,2,1,0,0,0,0,35,1,0,ISP Visitor,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,35,12,0,ISP Visitor,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/workflow.html,0,0,0,0,INF,0,0,INF,35,2,0,ISP Visitor,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,35,1,0,ISP Visitor,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/services/training-and-certification.html,0,0,0,0,INF,0,0,INF,35,1,0,ISP Visitor,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,12,12,12,8,0.06,0,0,0,18,11,43,::unspecified::,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,4,4,4,4,0,0,0,0,18,4,0,::unspecified::,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,2,0,1.92,0,0,0,18,1,115,::unspecified::,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,1,0,0,0,0,18,1,0,::unspecified::,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,18,2,0,::unspecified::,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,18,1,0,::unspecified::,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/solutions/csm.html,0,0,0,0,INF,0,0,INF,18,1,0,::unspecified::,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/5/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,28,29,52,4,2.2,0,0,0,43,13,3821,Not In List,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,6,6,11,1,3.27,0,0,0,43,1,1176,Not In List,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,6,7,0,0.37,0,0,0,43,2,133,Not In List,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,5,5,9,2,0.26,0,0,0,43,3,79,Not In List,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,4,4,3,2,0.62,0,0,0,43,2,149,Not In List,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,3,3,3,0,1.56,0,0,0,43,1,281,Not In List,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,1,0,0,0,0,0,43,0,0,Not In List,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,1,0,0,0,0,0,43,0,0,Not In List,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,43,12,0,Not In List,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,43,2,0,Not In List,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,38,39,79,11,1.74,0,0,0,46,16,4068,ISP Visitor,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,6,7,12,0,1.1,0,0,0,46,0,463,ISP Visitor,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,4,4,7,0,0.42,0,0,0,46,0,100,ISP Visitor,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,3,3,8,1,0.55,0,0,0,46,2,99,ISP Visitor,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,3,3,6,0,0.31,0,1,33.33,46,0,55,ISP Visitor,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,5,1,0.29,0,0,0,46,1,53,ISP Visitor,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,2,3,4,0,0.05,0,1,33.33,46,0,9,ISP Visitor,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,4,0,1.55,0,2,200,46,0,93,ISP Visitor,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,46,14,0,ISP Visitor,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/customers.html,0,0,0,0,INF,0,0,INF,46,1,0,ISP Visitor,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,18,18,21,13,0.43,0,0,0,28,17,465,::unspecified::,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,3,4,2,2,0.06,0,0,0,28,4,14,::unspecified::,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,3,3,0,0,0,0,28,3,0,::unspecified::,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,3,2,0.18,0,0,0,28,3,32,::unspecified::,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,2,5,1,0.61,0,0,0,28,1,73,::unspecified::,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,28,6,0,::unspecified::,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,28,1,0,::unspecified::,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpdem/demonow-all.html,0,0,0,0,INF,0,0,INF,28,1,0,::unspecified::,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,28,1,0,::unspecified::,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/media/press-room/servicenow-acquires-parlo.html,0,0,0,0,INF,0,0,INF,28,1,0,::unspecified::,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,2,1,0,ACCT0065581,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,1,1,0,2.77,0,0,0,2,0,166,ACCT0065581,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,0,0.63,0,0,0,2,0,38,ACCT0065581,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,1,0,7.77,0,0,0,1,0,466,ACCT0106566,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/6/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,85,92,203,21,1.76,0,0,0,123,32,9710,Not In List,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,26,30,39,13,1.7,0,0,0,123,18,3065,Not In List,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,19,20,46,3,1.82,0,0,0,123,3,2189,Not In List,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,12,14,18,4,1.89,0,0,0,123,8,1584,Not In List,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,11,11,17,2,1.42,0,0,0,123,3,934,Not In List,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,4,4,5,0,4.06,0,0,0,123,0,974,Not In List,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,3,3,3,0,1.97,0,0,0,123,0,355,Not In List,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator,1,1,1,0,0.58,0,0,0,123,1,35,Not In List,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator.html,1,1,1,0,0.35,0,0,0,123,0,21,Not In List,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,1,0,0,0,0,0,123,0,0,Not In List,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,78,83,199,10,1.17,0,0,0,98,22,5802,ISP Visitor,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,13,13,16,3,1.45,0,0,0,98,4,1130,ISP Visitor,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,12,12,21,3,0.39,0,0,0,98,5,278,ISP Visitor,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,11,11,24,2,2.3,0,0,0,98,2,1521,ISP Visitor,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,10,11,21,0,3.85,0,1,9.09,98,0,2539,ISP Visitor,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,10,10,19,1,1.81,0,0,0,98,3,1087,ISP Visitor,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,1,0,9.65,0,0,0,98,0,579,ISP Visitor,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,1,0,4.87,0,0,0,98,0,292,ISP Visitor,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,1,0,0,0,0,0,98,0,0,ISP Visitor,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,1,0,0,0,0,0,98,0,0,ISP Visitor,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,26,27,53,16,1.14,0,0,0,41,24,1839,::unspecified::,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,7,7,8,4,0.3,0,0,0,41,7,127,::unspecified::,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,5,5,5,5,0,0,0,0,41,5,0,::unspecified::,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,2,4,0,0.78,0,0,0,41,2,93,::unspecified::,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,2,0,5.58,0,0,0,41,1,335,::unspecified::,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,41,6,0,::unspecified::,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,41,1,0,::unspecified::,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,41,1,0,::unspecified::,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345,0,0,0,0,INF,0,0,INF,41,1,0,::unspecified::,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpdem/demonow-all.html,0,0,0,0,INF,0,0,INF,41,1,0,::unspecified::,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0065581,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,0,0.42,0,0,0,1,0,25,ACCT0015888,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0015888,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/7/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,108,121,356,15,3.08,0,11,9.09,170,52,22338,Not In List,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,36,49,84,3,1.33,0,0,0,170,22,3920,Not In List,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,29,36,136,1,4.74,0,0,0,170,8,10245,Not In List,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,20,25,79,1,4.13,0,0,0,170,4,6188,Not In List,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,20,22,67,4,2.93,0,0,0,170,8,3863,Not In List,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,17,19,47,0,7.61,0,12,63.16,170,0,8671,Not In List,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,8,12,38,0,13.62,0,8,66.67,170,0,9804,Not In List,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,6,8,12,0,2.43,0,1,12.5,170,1,1168,Not In List,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,5,7,12,0,4.3,0,0,0,170,0,1805,Not In List,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,4,5,19,0,11.01,0,3,60,170,1,3304,Not In List,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,83,83,164,18,0.89,0,0,0,101,29,4419,ISP Visitor,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,11,11,16,0,2.01,0,0,0,101,0,1324,ISP Visitor,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,8,10,21,2,3.27,0,0,0,101,4,1959,ISP Visitor,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,7,8,11,1,2.43,0,0,0,101,1,1166,ISP Visitor,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,5,8,1,0.72,0,0,0,101,1,217,ISP Visitor,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,4,4,7,0,2.08,0,0,0,101,0,499,ISP Visitor,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,3,3,9,0,0.93,0,0,0,101,0,167,ISP Visitor,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,5,0,0.87,0,2,200,101,1,52,ISP Visitor,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator.html,1,1,1,0,0.2,0,0,0,101,0,12,ISP Visitor,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,1,0,0,0,0,0,101,0,0,ISP Visitor,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,37,38,42,17,0.61,0,1,2.63,62,34,1397,::unspecified::,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,9,10,25,4,2.87,0,0,0,62,9,1721,::unspecified::,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,6,6,6,3,0.31,0,0,0,62,5,111,::unspecified::,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,5,6,12,3,1.14,0,0,0,62,6,409,::unspecified::,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,3,1,0.99,0,0,0,62,3,179,::unspecified::,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,2,3,23,0,7.33,0,17,566.67,62,1,1319,::unspecified::,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,6,0,2.5,0,5,500,62,0,150,::unspecified::,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,1,1,0,0,0,0,62,1,0,::unspecified::,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,0,1.22,0,0,0,62,1,73,::unspecified::,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,62,9,0,::unspecified::,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,4,4,4,4,0,0,0,0,4,4,0,ACCT0065581,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,6,1,1.93,0,0,0,2,2,232,ACCT0026431,5/8/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,102,112,341,16,2.67,0,1,0.89,147,32,17941,Not In List,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,36,43,94,3,2.12,0,0,0,147,12,5473,Not In List,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,30,35,97,0,3.08,0,0,0,147,4,6469,Not In List,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,29,35,71,4,6.32,0,10,28.57,147,5,13279,Not In List,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,20,23,54,1,8.07,0,12,52.17,147,1,11131,Not In List,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,18,20,42,1,1.46,0,0,0,147,2,1747,Not In List,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,17,20,87,1,3.87,0,0,0,147,3,4647,Not In List,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,9,10,21,0,3.87,0,5,50,147,0,2324,Not In List,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,8,9,22,0,10.9,0,5,55.56,147,0,5885,Not In List,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,3,3,6,0,8.78,0,2,66.67,147,0,1581,Not In List,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,59,62,137,9,0.74,0,0,0,86,21,2755,ISP Visitor,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,17,17,44,4,2.52,0,0,0,86,8,2566,ISP Visitor,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,13,13,31,2,0.84,0,0,0,86,4,653,ISP Visitor,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,9,9,14,0,0.39,0,0,0,86,2,212,ISP Visitor,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,5,10,0,0.37,0,0,0,86,0,110,ISP Visitor,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,3,3,3,0,1.93,0,0,0,86,0,348,ISP Visitor,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,2,2,3,0,0.64,0,0,0,86,0,77,ISP Visitor,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,2,2,2,1,0.07,0,1,50,86,1,8,ISP Visitor,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,2,2,2,0,0,0,0,0,86,0,0,ISP Visitor,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,2,0,2.35,0,1,100,86,0,141,ISP Visitor,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,30,30,37,19,1.14,0,0,0,52,29,2058,::unspecified::,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,7,8,9,2,0.35,0,0,0,52,7,168,::unspecified::,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,7,7,8,1,0.14,0,0,0,52,7,57,::unspecified::,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,6,6,8,3,0.94,0,0,0,52,6,339,::unspecified::,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,3,3,3,1,0.28,0,0,0,52,2,51,::unspecified::,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it,1,1,1,0,0.35,0,0,0,52,1,21,::unspecified::,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,52,9,0,::unspecified::,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,52,3,0,::unspecified::,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,52,1,0,::unspecified::,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,52,1,0,::unspecified::,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,1,0,0,0,0,2,1,0,ACCT0065581,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,2,1,0,ACCT0065581,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,0,0.12,0,0,0,1,0,7,ACCT0106566,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0106566,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/9/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,64,77,210,8,3.26,0,0,0,87,22,15049,Not In List,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,19,26,78,4,2.15,0,0,0,87,10,3357,Not In List,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,13,17,55,2,4.1,0,0,0,87,5,4179,Not In List,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,8,14,19,3,2.08,0,0,0,87,6,1745,Not In List,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,8,12,36,0,5.31,0,17,141.67,87,1,3824,Not In List,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,8,11,21,0,3.07,0,6,54.55,87,0,2023,Not In List,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,7,8,14,0,5.75,0,0,0,87,1,2758,Not In List,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,3,4,14,0,3.09,0,9,225,87,0,741,Not In List,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,2,3,3,0,1.46,0,0,0,87,0,262,Not In List,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,2,2,4,0,1.88,0,1,50,87,0,225,Not In List,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,55,55,113,8,1.07,0,0,0,67,12,3544,ISP Visitor,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,9,10,23,1,1.1,0,0,0,67,1,659,ISP Visitor,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,5,12,1,3.37,0,0,0,67,2,1011,ISP Visitor,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,5,5,8,0,1.21,0,2,40,67,0,364,ISP Visitor,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,5,5,7,2,1.3,0,0,0,67,4,389,ISP Visitor,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,5,0,0.18,0,0,0,67,0,33,ISP Visitor,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,3,0,3.3,0,1,100,67,0,198,ISP Visitor,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,1,0,0.33,0,0,0,67,0,20,ISP Visitor,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,67,31,0,ISP Visitor,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,67,3,0,ISP Visitor,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,13,15,35,6,3.1,0,0,0,22,15,2787,::unspecified::,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,4,4,4,3,4.25,0,0,0,22,4,1021,::unspecified::,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,3,3,3,0,0.24,0,0,0,22,3,44,::unspecified::,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,2,0,0.65,0,0,0,22,1,39,::unspecified::,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,1,1,1,0,0,0,0,22,1,0,::unspecified::,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,22,5,0,::unspecified::,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,22,3,0,::unspecified::,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/customer-service-management.html,0,0,0,0,INF,0,0,INF,22,1,0,::unspecified::,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=8547/,0,0,0,0,INF,0,0,INF,22,1,0,::unspecified::,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,22,1,0,::unspecified::,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,0,9.65,0,0,0,1,0,579,ACCT0067422,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/terms-of-use.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0067422,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,4,4,4,0,0.64,0,0,0,4,0,154,ACCT0015888,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0,0,0,0,4,0,0,ACCT0015888,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,4,1,0,ACCT0015888,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,4,1,0,ACCT0015888,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/support/contact-support.html,0,0,0,0,INF,0,0,INF,4,1,0,ACCT0015888,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/10/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,50,50,91,2,1.02,0,0,0,62,7,3049,Not In List,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,10,12,27,1,3.5,0,0,0,62,2,2519,Not In List,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,7,9,19,1,0.66,0,0,0,62,6,358,Not In List,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,4,5,2,5.68,0,0,0,62,3,1363,Not In List,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,3,3,4,0,0.31,0,0,0,62,0,56,Not In List,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,3,3,3,0,0.36,0,0,0,62,0,65,Not In List,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,1,1,1,0,0,0,0,62,1,0,Not In List,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,62,23,0,Not In List,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,62,3,0,Not In List,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/why-servicenow.html,0,0,0,0,INF,0,0,INF,62,2,0,Not In List,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,38,40,66,7,2.83,0,0,0,57,10,6787,ISP Visitor,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,12,14,35,4,1.09,0,0,0,57,5,913,ISP Visitor,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,7,7,20,1,3.7,0,0,0,57,4,1552,ISP Visitor,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,3,3,6,1,0.56,0,0,0,57,2,101,ISP Visitor,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,2,2,3,0,1.38,0,0,0,57,0,166,ISP Visitor,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,4,0,3.93,0,2,200,57,0,236,ISP Visitor,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,1,0,8.83,0,0,0,57,0,530,ISP Visitor,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,0,0,0.82,0,0,0,57,0,49,ISP Visitor,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,57,15,0,ISP Visitor,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/careers/join-servicenow.html,0,0,0,0,INF,0,0,INF,57,2,0,ISP Visitor,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,11,11,26,5,1.36,0,0,0,13,10,898,::unspecified::,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,2,0,0.17,0,0,0,13,0,10,::unspecified::,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,1,0,0,0,0,13,1,0,::unspecified::,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,22.52,0,0,0,13,1,1351,::unspecified::,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,1,0,4.1,0,0,0,13,0,246,::unspecified::,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,13,3,0,::unspecified::,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/content/dam/servicenow/demos/www-demo/Module_1/Mod1.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/mobile.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/services/training-and-certification/certified-system.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,2,2,0,0,0,0,3,2,0,ACCT0065581,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,1,0,0,0,0,3,1,0,ACCT0065581,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/11/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,10,10,14,1,0.37,0,0,0,11,3,224,Not In List,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,2,2,3,0,4.01,0,0,0,11,1,481,Not In List,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,1,2,0,1.92,0,0,0,11,0,115,Not In List,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,1,0,0.58,0,0,0,11,0,35,Not In List,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,11,2,0,Not In List,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/integration-hub.html,0,0,0,0,INF,0,0,INF,11,1,0,Not In List,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,11,1,0,Not In List,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/investor-relations/events/servicenow-2017-financial-analyst-day.html,0,0,0,0,INF,0,0,INF,11,1,0,Not In List,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/service-portal-designer.html,0,0,0,0,INF,0,0,INF,11,1,0,Not In List,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,11,11,22,1,0.86,0,0,0,16,2,566,ISP Visitor,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,4,4,5,1,0.12,0,0,0,16,1,29,ISP Visitor,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,6,0,1.82,0,0,0,16,0,327,ISP Visitor,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,1,0,1.28,0,0,0,16,0,77,ISP Visitor,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,0,0.5,0,0,0,16,0,30,ISP Visitor,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,16,6,0,ISP Visitor,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/customer-service-management.html,0,0,0,0,INF,0,0,INF,16,1,0,ISP Visitor,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,16,1,0,ISP Visitor,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/media/press-room/servicenow-acquires-parlo.html,0,0,0,0,INF,0,0,INF,16,1,0,ISP Visitor,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/partners/partner-portal-login.html,0,0,0,0,INF,0,0,INF,16,1,0,ISP Visitor,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,5,5,5,4,0,0,0,0,6,4,0,::unspecified::,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,1,0,0,0,0,6,1,0,::unspecified::,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,6,1,0,::unspecified::,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,6,1,0,::unspecified::,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/workflow/ai-stop-cybercrime.html,0,0,0,0,INF,0,0,INF,6,1,0,::unspecified::,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/12/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,10,10,20,2,4.15,0,0,0,13,2,2490,Not In List,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,3,3,8,0,5.5,0,0,0,13,1,990,Not In List,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,3,0,4.82,0,0,0,13,0,289,Not In List,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,2,0,1.4,0,1,100,13,0,84,Not In List,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.02,0,0,0,13,0,1,Not In List,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,13,4,0,Not In List,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,13,2,0,Not In List,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,13,1,0,Not In List,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/media/press-room/servicenow-acquires-parlo.html,0,0,0,0,INF,0,0,INF,13,1,0,Not In List,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/events-collection/build_your_own_servi.html,0,0,0,0,INF,0,0,INF,13,1,0,Not In List,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,32,32,58,3,3.1,0,0,0,39,6,5958,ISP Visitor,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,4,5,6,2,0.1,0,0,0,39,3,29,ISP Visitor,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,3,3,5,0,9.58,0,2,66.67,39,0,1725,ISP Visitor,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,3,2,0,0,0,0,39,2,0,ISP Visitor,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,2,2,3,0,1.52,0,0,0,39,0,183,ISP Visitor,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,1,1,0,0,0,0,0,39,0,0,ISP Visitor,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,39,13,0,ISP Visitor,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/workflow/ai-stop-cybercrime.html,0,0,0,0,INF,0,0,INF,39,2,0,ISP Visitor,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/careers/join-servicenow.html,0,0,0,0,INF,0,0,INF,39,1,0,ISP Visitor,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-automation-applications/service-catalog.html,0,0,0,0,INF,0,0,INF,39,1,0,ISP Visitor,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,4,4,7,3,2.16,0,0,0,8,4,519,::unspecified::,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,2,2,0,0,0,0,8,2,0,::unspecified::,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,1,0,0,0,0,8,1,0,::unspecified::,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,1,0,0,0,0,8,1,0,::unspecified::,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,8,1,0,::unspecified::,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/13/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,84,84,207,11,2.06,0,0,0,110,27,10375,Not In List,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,15,16,29,1,0.78,0,0,0,110,4,746,Not In List,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,14,14,53,0,3.36,0,0,0,110,5,2824,Not In List,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,12,12,23,2,0.94,0,0,0,110,2,678,Not In List,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,11,11,18,0,3.37,0,5,45.45,110,0,2226,Not In List,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,6,6,11,0,3.91,0,4,66.67,110,0,1409,Not In List,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,4,1,0.53,0,0,0,110,1,127,Not In List,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,2,2,4,0,1.39,0,2,100,110,0,167,Not In List,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,2,0,10.18,0,1,100,110,0,611,Not In List,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,2,0,0.22,0,1,100,110,0,13,Not In List,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,103,108,229,22,1.12,0,0,0,122,41,7284,ISP Visitor,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,19,22,61,2,2,0,0,0,122,6,2646,ISP Visitor,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,15,16,25,0,3.03,0,6,37.5,122,0,2906,ISP Visitor,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,13,14,26,2,0.47,0,0,0,122,2,395,ISP Visitor,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,9,10,11,1,2.54,0,0,0,122,2,1524,ISP Visitor,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,6,6,8,0,4.42,0,2,33.33,122,0,1590,ISP Visitor,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,5,12,0,0.53,0,0,0,122,0,159,ISP Visitor,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,3,3,7,0,1.54,0,3,100,122,0,277,ISP Visitor,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,2,0,0.77,0,1,100,122,0,46,ISP Visitor,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,2,0,0.42,0,0,0,122,1,25,ISP Visitor,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,22,23,50,13,0.64,0,0,0,30,19,889,::unspecified::,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,4,4,9,1,0.5,0,0,0,30,4,121,::unspecified::,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,2,2,5,0,5.72,0,0,0,30,2,686,::unspecified::,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,3,1,1.38,0,0,0,30,1,165,::unspecified::,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,30,9,0,::unspecified::,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,30,4,0,::unspecified::,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,30,1,0,::unspecified::,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/services/training-and-certification.html,0,0,0,0,INF,0,0,INF,30,1,0,::unspecified::,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpayr/gartner-magic-quadrant-apaas.html,0,0,0,0,INF,0,0,INF,30,1,0,::unspecified::,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,30,1,0,::unspecified::,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,2,2,0,0,0,0,2,2,0,ACCT0065581,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0067422,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,4,0,19.3,0,0,0,1,1,1158,ACCT0106566,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,0,0.22,0,0,0,1,0,13,ACCT0015888,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,5,0,1.3,0,0,0,1,0,78,ACCT0006886,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0006886,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/14/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,70,76,162,10,1.05,0,0,0,96,28,4778,Not In List,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,19,21,45,5,2.33,0,0,0,96,8,2932,Not In List,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,18,20,46,1,2.21,0,0,0,96,8,2655,Not In List,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,7,7,11,1,0.56,0,0,0,96,2,237,Not In List,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,7,7,11,0,3.45,0,3,42.86,96,0,1449,Not In List,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,5,6,1,0.62,0,0,0,96,2,186,Not In List,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,3,3,5,0,0.26,0,2,66.67,96,0,47,Not In List,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,1,1,12,0,3.08,0,4,400,96,0,185,Not In List,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,1,0,0.43,0,0,0,96,0,26,Not In List,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,0,0.1,0,0,0,96,0,6,Not In List,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,68,70,154,4,2.13,0,0,0,93,16,8959,ISP Visitor,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,20,22,59,3,2.83,0,0,0,93,7,3731,ISP Visitor,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,14,14,22,6,1.45,0,0,0,93,8,1216,ISP Visitor,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,6,6,13,0,1.96,0,0,0,93,0,704,ISP Visitor,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,6,6,10,0,4.12,0,4,66.67,93,0,1484,ISP Visitor,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,8,0,5.49,0,0,0,93,1,1318,ISP Visitor,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,3,3,12,0,1.64,0,8,266.67,93,0,295,ISP Visitor,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,2,0,0.6,0,1,100,93,0,36,ISP Visitor,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,93,36,0,ISP Visitor,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,93,6,0,ISP Visitor,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,7,7,21,1,4.94,0,0,0,12,6,2073,::unspecified::,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,8,0,4.38,0,0,0,12,2,788,::unspecified::,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,2,2,5,0,1.15,0,0,0,12,0,138,::unspecified::,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,2,0,0.88,0,1,100,12,0,53,::unspecified::,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,0,2.22,0,0,0,12,1,133,::unspecified::,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,12,8,0,::unspecified::,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,12,2,0,::unspecified::,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,12,2,0,::unspecified::,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpdem/demonow.html,0,0,0,0,INF,0,0,INF,12,1,0,::unspecified::,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/c-suite/chro.html,0,0,0,0,INF,0,0,INF,12,1,0,::unspecified::,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,3,11,1,8.64,0,0,0,2,2,1556,ACCT0000538,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,1,0,15.98,0,0,0,2,0,959,ACCT0000538,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpdem/demonow-it-operations-management.html,0,0,0,0,INF,0,0,INF,2,1,0,ACCT0000538,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/15/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,80,89,181,15,2.64,0,0,0,112,27,14097,Not In List,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,19,21,56,3,4.3,0,0,0,112,9,5418,Not In List,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,13,13,30,2,0.95,0,0,0,112,5,743,Not In List,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,12,13,25,1,1.12,0,9,69.23,112,1,876,Not In List,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,8,8,24,0,4.71,0,0,0,112,1,2262,Not In List,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,4,4,14,0,5.55,0,1,25,112,1,1332,Not In List,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,6,0,0.25,0,0,0,112,0,59,Not In List,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,2,2,3,0,2.33,0,0,0,112,0,279,Not In List,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,2,2,3,0,0.68,0,1,50,112,0,82,Not In List,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form.html,1,1,4,0,4.83,0,0,0,112,1,290,Not In List,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,48,51,86,7,1.4,0,0,0,65,18,4283,ISP Visitor,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,13,15,29,3,2.54,0,0,0,65,4,2290,ISP Visitor,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,6,7,8,1,3.05,0,0,0,65,4,1281,ISP Visitor,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,3,3,7,0,0.49,0,0,0,65,0,89,ISP Visitor,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,3,3,5,0,1.35,0,2,66.67,65,0,243,ISP Visitor,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,3,3,4,0,1.37,0,1,33.33,65,0,247,ISP Visitor,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,3,2,0.34,0,0,0,65,2,62,ISP Visitor,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,2,2,2,2,0,0,0,0,65,2,0,ISP Visitor,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,65,18,0,ISP Visitor,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/customers.html,0,0,0,0,INF,0,0,INF,65,2,0,ISP Visitor,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,10,10,28,1,5.03,0,0,0,13,9,3020,::unspecified::,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,2,2,2,1,0.04,0,0,0,13,2,5,::unspecified::,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,2,0,0.32,0,0,0,13,1,19,::unspecified::,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it,1,1,1,0,0.3,0,0,0,13,1,18,::unspecified::,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,13,4,0,::unspecified::,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpebk/customer-service-checklist.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,2,2,0,0,0,0,3,2,0,ACCT0065581,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,1,0,0,0,0,3,1,0,ACCT0065581,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,6,8,15,4,4.15,0,0,0,6,8,1991,ACCT0000538,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0067422,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0067422,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,0,0.28,0,0,0,1,0,17,ACCT0106566,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0106566,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/16/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,77,82,194,4,3.33,0,0,0,93,30,16371,Not In List,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,15,16,47,1,0.84,0,0,0,93,3,803,Not In List,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,14,15,20,1,1.31,0,5,33.33,93,1,1176,Not In List,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,13,13,37,2,2.06,0,0,0,93,2,1608,Not In List,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,6,6,9,0,0.33,0,0,0,93,0,120,Not In List,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,5,8,1,0.96,0,0,0,93,1,288,Not In List,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,2,2,3,0,2.43,0,1,50,93,0,292,Not In List,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,2,0,1.43,0,1,100,93,0,86,Not In List,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,2,0,1.08,0,0,0,93,1,65,Not In List,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator.html,1,1,1,0,24.85,0,0,0,93,1,1491,Not In List,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,66,69,126,10,2.81,0,0,0,86,23,11621,ISP Visitor,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,12,12,29,0,3.64,0,0,0,86,2,2620,ISP Visitor,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,11,11,37,0,2.04,0,0,0,86,0,1344,ISP Visitor,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,9,9,23,1,4.92,0,0,0,86,2,2656,ISP Visitor,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,7,7,8,1,0.42,0,2,28.57,86,1,177,ISP Visitor,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,3,3,8,0,1.83,0,0,0,86,0,330,ISP Visitor,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,2,2,2,2,0,0,0,0,86,2,0,ISP Visitor,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,18,0,3.23,0,16,1600,86,0,194,ISP Visitor,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,4,0,2.58,0,2,200,86,0,155,ISP Visitor,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,2,0,1.77,0,1,100,86,0,106,ISP Visitor,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,5,6,8,3,0.44,0,0,0,9,6,157,::unspecified::,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,3,0,17.1,0,0,0,9,1,2052,::unspecified::,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,2,0,21.95,0,0,0,9,1,1317,::unspecified::,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,0,15.48,0,0,0,9,1,929,::unspecified::,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,9,7,0,::unspecified::,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/deploy.html,0,0,0,0,INF,0,0,INF,9,1,0,::unspecified::,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,9,1,0,::unspecified::,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/security-operations.html,0,0,0,0,INF,0,0,INF,9,1,0,::unspecified::,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/events.html,0,0,0,0,INF,0,0,INF,9,1,0,::unspecified::,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/c-suite/inspire.html,0,0,0,0,INF,0,0,INF,9,1,0,::unspecified::,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,3,3,3,3,0,0,0,0,3,3,0,ACCT0065581,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,6,0,6.95,0,0,0,1,1,417,ACCT0000538,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0000538,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/17/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,49,50,105,5,1.98,0,0,0,61,11,5935,Not In List,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,12,14,31,0,1.34,0,0,0,61,3,1128,Not In List,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,6,7,9,0,2.21,0,2,28.57,61,0,927,Not In List,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,6,6,9,0,1.8,0,0,0,61,2,648,Not In List,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,4,6,21,0,1.15,0,0,0,61,1,413,Not In List,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,3,3,5,0,3.63,0,1,33.33,61,0,653,Not In List,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,3,4,0,0.18,0,0,0,61,1,32,Not In List,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,2,2,2,0,2.42,0,0,0,61,0,290,Not In List,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,1,0,0,0,0,0,61,0,0,Not In List,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,1,0,0,0,0,0,61,0,0,Not In List,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,32,33,47,5,1.17,0,0,0,40,8,2323,ISP Visitor,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,7,7,30,1,1.65,0,0,0,40,2,692,ISP Visitor,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,4,4,11,0,1.87,0,4,100,40,0,448,ISP Visitor,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,3,3,6,2,1.16,0,0,0,40,2,209,ISP Visitor,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,5,0,0.99,0,0,0,40,0,179,ISP Visitor,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,3,3,4,0,2.35,0,1,33.33,40,0,423,ISP Visitor,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.13,0,0,0,40,1,8,ISP Visitor,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,40,14,0,ISP Visitor,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpdem/demonow.html,0,0,0,0,INF,0,0,INF,40,2,0,ISP Visitor,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,40,2,0,ISP Visitor,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,8,9,15,2,0.5,0,0,0,12,7,269,::unspecified::,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,2,2,5,0,1.58,0,0,0,12,2,190,::unspecified::,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,2,2,2,1,0.03,0,0,0,12,2,4,::unspecified::,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,12,3,0,::unspecified::,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,12,1,0,::unspecified::,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/media/press-room/servicenow-acquires-parlo.html,0,0,0,0,INF,0,0,INF,12,1,0,::unspecified::,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0000538,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,0,0,0,0,0,1,0,0,ACCT0026431,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0026431,5/18/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,7,7,10,1,2.21,0,0,0,9,3,930,Not In List,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,2,2,8,0,12.17,0,0,0,9,1,1460,Not In List,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,1,0,0.58,0,0,0,9,0,35,Not In List,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,9,5,0,Not In List,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,10,12,37,2,3.72,0,0,0,11,3,2681,ISP Visitor,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,5,0,4,0,3,300,11,0,240,ISP Visitor,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,5,0,1.05,0,0,0,11,0,63,ISP Visitor,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,5,0,0.5,0,0,0,11,1,30,ISP Visitor,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,1,2,0,0.83,0,0,0,11,0,50,ISP Visitor,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.52,0,0,0,11,0,31,ISP Visitor,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,11,4,0,ISP Visitor,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products-by-category.html,0,0,0,0,INF,0,0,INF,11,1,0,ISP Visitor,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/partners/find-a-partner.html,0,0,0,0,INF,0,0,INF,11,1,0,ISP Visitor,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/employee-onboarding.html,0,0,0,0,INF,0,0,INF,11,1,0,ISP Visitor,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,3,3,3,1,0.06,0,0,0,5,2,11,::unspecified::,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,2,2,2,2,0,0,0,0,5,2,0,::unspecified::,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/services/training-and-certification/certified-application-developer.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products-by-category.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/19/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,11,11,19,1,0.53,0,0,0,18,3,347,Not In List,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,4,4,9,0,0.61,0,0,0,18,0,147,Not In List,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,4,4,6,0,1.12,0,0,0,18,1,270,Not In List,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,2,3,0,3.15,0,0,0,18,0,378,Not In List,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,5,0,0.93,0,0,0,18,0,56,Not In List,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,2,0,0.9,0,1,100,18,0,54,Not In List,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,2,0,0.72,0,1,100,18,0,43,Not In List,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,2,0,0.35,0,1,100,18,0,21,Not In List,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,2,0,0.07,0,1,100,18,0,4,Not In List,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,18,5,0,Not In List,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,20,20,43,1,0.99,0,0,0,25,1,1191,ISP Visitor,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,6,6,10,1,1.53,0,0,0,25,1,552,ISP Visitor,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,4,4,7,0,0.75,0,0,0,25,0,180,ISP Visitor,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,3,3,6,0,0.73,0,0,0,25,0,131,ISP Visitor,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,2,0,1.27,0,1,100,25,0,76,ISP Visitor,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,2,0,0.65,0,1,100,25,0,39,ISP Visitor,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,2,0,0.48,0,1,100,25,0,29,ISP Visitor,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,0,0,0,0,0,25,0,0,ISP Visitor,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,25,9,0,ISP Visitor,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,25,2,0,ISP Visitor,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,6,0,1.67,0,0,0,3,1,100,::unspecified::,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,3,1,0,::unspecified::,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,0,0.88,0,0,0,3,1,53,::unspecified::,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,3,1,0,::unspecified::,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/,0,0,0,0,INF,0,0,INF,3,1,0,::unspecified::,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,7,0,3.73,0,1,100,1,0,224,ACCT0067422,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0067422,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/20/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,48,54,125,11,3.7,0,0,0,62,24,11983,Not In List,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,17,17,56,0,2.93,0,0,0,62,1,2993,Not In List,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,4,4,9,2,2.5,0,0,0,62,2,600,Not In List,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,4,4,5,0,1.14,0,1,25,62,0,274,Not In List,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,9,0,5.02,0,0,0,62,1,904,Not In List,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,3,3,3,0,4.62,0,0,0,62,0,832,Not In List,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,2,2,0,0,0,0,0,62,0,0,Not In List,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,1,0,2.22,0,0,0,62,0,133,Not In List,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,62,16,0,Not In List,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,62,4,0,Not In List,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,57,59,111,11,0.78,0,0,0,66,18,2745,ISP Visitor,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,6,6,9,1,0.66,0,0,0,66,1,238,ISP Visitor,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,5,5,23,0,2.43,0,17,340,66,0,730,ISP Visitor,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,5,0,0.88,0,0,0,66,0,159,ISP Visitor,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,4,0,0.19,0,0,0,66,0,34,ISP Visitor,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,1,1,1,0,0,0,0,66,1,0,ISP Visitor,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,66,26,0,ISP Visitor,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,66,2,0,ISP Visitor,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,66,2,0,ISP Visitor,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,66,2,0,ISP Visitor,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,10,10,13,4,0.46,0,0,0,10,7,278,::unspecified::,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,0,0.6,0,0,0,10,0,36,::unspecified::,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,10,4,0,::unspecified::,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,10,2,0,::unspecified::,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,10,1,0,::unspecified::,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/performance-analytics.html,0,0,0,0,INF,0,0,INF,10,1,0,::unspecified::,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpwhp/servicenow-platform-technical-overview.html,0,0,0,0,INF,0,0,INF,10,1,0,::unspecified::,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,10,1,0,::unspecified::,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/trust.html,0,0,0,0,INF,0,0,INF,10,1,0,::unspecified::,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/subscription-management.html,0,0,0,0,INF,0,0,INF,10,1,0,::unspecified::,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,4,5,5,3,0.08,0,0,0,4,3,25,ACCT0065581,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products-by-category.html,0,0,0,0,INF,0,0,INF,4,1,0,ACCT0065581,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,0,0.13,0,0,0,1,0,8,ACCT0000538,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/servicenow-platform/configuration-management-database.html,0,0,0,0,INF,0,0,INF,1,1,0,ACCT0000538,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,6,0,2.8,0,0,0,3,1,336,ACCT0067422,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,2,0,0.55,0,0,0,3,0,33,ACCT0067422,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,2,0,0.18,0,0,0,3,0,11,ACCT0067422,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,1,0,1.8,0,0,0,3,0,108,ACCT0067422,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/partners.html,0,0,0,0,INF,0,0,INF,3,1,0,ACCT0067422,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/contact-us-locations.html,0,0,0,0,INF,0,0,INF,3,1,0,ACCT0067422,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0006886,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/21/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,72,77,185,13,1.53,0,0,0,95,25,7057,Not In List,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,14,15,42,1,1.7,0,0,0,95,4,1528,Not In List,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,11,11,30,1,1.15,0,0,0,95,4,757,Not In List,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,9,9,14,1,1.63,0,4,44.44,95,1,879,Not In List,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,7,11,0,1.49,0,0,0,95,1,625,Not In List,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,4,4,9,0,0.33,0,0,0,95,1,78,Not In List,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,3,3,7,0,0.66,0,4,133.33,95,0,119,Not In List,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,3,0,0.32,0,2,200,95,0,19,Not In List,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form.html,1,1,1,1,0,0,0,0,95,1,0,Not In List,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,1,1,1,0,0.18,0,0,0,95,0,11,Not In List,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,56,59,132,1,2.54,0,0,0,73,11,8994,ISP Visitor,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,17,18,24,3,0.56,0,0,0,73,4,603,ISP Visitor,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,8,9,14,1,0.38,0,0,0,73,3,206,ISP Visitor,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,6,8,11,1,2.26,0,2,25,73,1,1086,ISP Visitor,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,4,0,0.53,0,0,0,73,0,127,ISP Visitor,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,3,0,0.26,0,0,0,73,0,31,ISP Visitor,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,1,0,0.37,0,0,0,73,0,22,ISP Visitor,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,73,37,0,ISP Visitor,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,73,4,0,ISP Visitor,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,73,2,0,ISP Visitor,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,4,4,10,2,0.94,0,0,0,10,4,226,::unspecified::,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,3,3,8,1,2.68,0,0,0,10,3,482,::unspecified::,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,5,0,1.57,0,0,0,10,1,94,::unspecified::,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,1,0,8.73,0,0,0,10,1,524,::unspecified::,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,1,0,0,0,0,0,0,10,0,0,::unspecified::,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,10,9,0,::unspecified::,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/services/training-and-certification.html,0,0,0,0,INF,0,0,INF,10,2,0,::unspecified::,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/customers.html,0,0,0,0,INF,0,0,INF,10,1,0,::unspecified::,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,10,1,0,::unspecified::,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpayr/forrester-study-tei-of-servicenow-security-ops.html,0,0,0,0,INF,0,0,INF,10,1,0,::unspecified::,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,4,0,6.42,0,0,0,2,0,771,ACCT0067422,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,1,0,0.17,0,0,0,2,0,10,ACCT0067422,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,2,2,0,ACCT0067422,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/22/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,69,75,146,11,1.02,0,0,0,88,25,4612,Not In List,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,16,16,52,3,4.53,0,0,0,88,6,4348,Not In List,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,8,8,15,1,0.49,0,0,0,88,2,235,Not In List,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,7,8,16,0,1.19,0,0,0,88,0,569,Not In List,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,7,7,12,0,2.14,0,3,42.86,88,0,897,Not In List,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,6,6,0,0.75,0,0,0,88,0,271,Not In List,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,2,2,5,0,5.17,0,2,100,88,0,620,Not In List,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,2,2,2,0,0,0,0,0,88,0,0,Not In List,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,88,23,0,Not In List,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,88,3,0,Not In List,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,59,62,182,7,3.95,0,0,0,70,13,14688,ISP Visitor,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,9,10,26,2,0.94,0,0,0,70,4,567,ISP Visitor,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,9,9,17,0,1.73,0,0,0,70,0,932,ISP Visitor,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,5,5,10,0,1.33,0,0,0,70,0,398,ISP Visitor,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,5,5,9,0,3.16,0,3,60,70,0,948,ISP Visitor,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,6,0,2.4,0,0,0,70,1,576,ISP Visitor,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,2,2,4,0,7.22,0,2,100,70,0,867,ISP Visitor,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,2,2,4,0,3.07,0,2,100,70,0,368,ISP Visitor,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,3,0,0.77,0,1,100,70,0,46,ISP Visitor,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,70,22,0,ISP Visitor,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,6,6,7,3,4.79,0,0,0,11,6,1724,::unspecified::,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,3,3,6,1,0.48,0,0,0,11,2,87,::unspecified::,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,1,0,0,0,0,11,1,0,::unspecified::,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,1,1,0,1.1,0,0,0,11,1,66,::unspecified::,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,11,8,0,::unspecified::,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,11,4,0,::unspecified::,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/hr-infographic.html,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/demonow,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products-by-category.html,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0065581,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,8,0,1.08,0,0,0,1,0,65,ACCT0067422,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,5,1,0.4,0,0,0,2,2,48,ACCT0026431,5/23/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,75,82,167,8,2.24,0,0,0,100,34,11002,Not In List,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,27,32,76,0,2.93,0,28,87.5,100,1,5628,Not In List,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,20,22,197,2,12.23,0,0,0,100,5,16139,Not In List,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,14,17,35,1,1.73,0,0,0,100,4,1764,Not In List,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,10,10,17,1,1.94,0,4,40,100,2,1162,Not In List,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,9,9,13,1,0.72,0,0,0,100,1,388,Not In List,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,8,11,19,1,1.21,0,4,36.36,100,2,800,Not In List,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,8,9,12,0,2.99,0,0,0,100,0,1614,Not In List,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,8,8,12,0,0.61,0,3,37.5,100,0,294,Not In List,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,5,6,10,0,5.12,0,1,16.67,100,0,1843,Not In List,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,54,58,170,11,2.25,0,0,0,66,18,7820,ISP Visitor,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,10,13,33,1,0.93,0,14,107.69,66,1,729,ISP Visitor,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,7,7,18,0,1.28,0,0,0,66,1,537,ISP Visitor,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,6,7,9,0,5.02,0,0,0,66,1,2107,ISP Visitor,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,6,6,18,1,0.5,0,0,0,66,2,180,ISP Visitor,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,5,9,0,0.16,0,0,0,66,1,47,ISP Visitor,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,2,2,5,0,0.41,0,2,100,66,0,49,ISP Visitor,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,4,0,15.23,0,2,200,66,0,914,ISP Visitor,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,4,0,0.78,0,2,200,66,0,47,ISP Visitor,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,4,0,0.52,0,2,200,66,0,31,ISP Visitor,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,9,9,13,3,0.36,0,0,0,19,9,192,::unspecified::,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,4,4,8,1,1.66,0,0,0,19,4,398,::unspecified::,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,3,1,0.5,0,0,0,19,2,60,::unspecified::,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,2,3,0,9.93,0,0,0,19,2,1191,::unspecified::,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,2,2,2,1,0.04,0,0,0,19,2,5,::unspecified::,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,19,5,0,::unspecified::,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,19,2,0,::unspecified::,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/careers/join-servicenow.html,0,0,0,0,INF,0,0,INF,19,1,0,::unspecified::,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpayr/gartner-magic-quadrant-itsm.html,0,0,0,0,INF,0,0,INF,19,1,0,::unspecified::,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+go.servicenow.com/LP=10113,0,0,0,0,INF,0,0,INF,19,1,0,::unspecified::,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0065581,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,3,4,2,2.29,0,0,0,2,3,413,ACCT0000538,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0006886,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,5,0,18.95,0,0,0,1,1,1137,ACCT0026431,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,2,0,0.72,0,1,100,1,0,43,ACCT0026431,5/24/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,50,59,165,9,1.76,0,0,0,65,21,6238,Not In List,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,12,15,166,0,15.43,0,0,0,65,4,13891,Not In List,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,11,14,49,1,2.51,0,1,7.14,65,3,2105,Not In List,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,11,12,25,0,2.12,0,8,66.67,65,0,1528,Not In List,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,10,11,25,3,1.95,0,0,0,65,4,1286,Not In List,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,6,7,16,0,2.24,0,7,100,65,0,941,Not In List,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,6,6,11,0,4.8,0,5,83.33,65,0,1728,Not In List,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,6,10,0,4.84,0,0,0,65,2,1743,Not In List,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,4,4,9,0,1.14,0,3,75,65,0,274,Not In List,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,2,2,4,0,0.89,0,1,50,65,0,107,Not In List,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,49,49,140,7,2.01,0,0,0,74,12,5904,ISP Visitor,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,13,14,40,1,2.78,0,0,0,74,3,2339,ISP Visitor,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,9,10,13,3,0.37,0,0,0,74,5,224,ISP Visitor,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,8,8,9,4,0.07,0,0,0,74,5,32,ISP Visitor,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,6,9,1,1.48,0,0,0,74,1,531,ISP Visitor,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,3,3,6,0,1.36,0,2,66.67,74,0,245,ISP Visitor,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,3,3,4,0,0.39,0,1,33.33,74,0,70,ISP Visitor,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,3,0,3.65,0,2,200,74,0,219,ISP Visitor,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,3,0,0.08,0,2,200,74,0,5,ISP Visitor,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,1,0,0,0,0,74,1,0,ISP Visitor,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,6,6,7,2,0.21,0,0,0,11,6,76,::unspecified::,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,19,0,8.37,0,0,0,11,3,1506,::unspecified::,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,5,0,0.83,0,0,0,11,1,50,::unspecified::,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,0,3.85,0,0,0,11,0,231,::unspecified::,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/content/dam/servicenow/demos/www-demo/Module_1/Mod1.html,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/security-operations.html,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/locations.html,0,0,0,0,INF,0,0,INF,11,1,0,::unspecified::,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,2,2,0,0,0,0,2,2,0,ACCT0065581,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/25/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,5,5,5,0,0.36,0,0,0,5,0,107,Not In List,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/solutions/prevent-service-outages.html,0,0,0,0,INF,0,0,INF,5,2,0,Not In List,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,5,1,0,Not In List,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,5,1,0,Not In List,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/services/consulting-services.html,0,0,0,0,INF,0,0,INF,5,1,0,Not In List,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,15,16,31,3,2.11,0,0,0,19,5,2028,ISP Visitor,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,5,5,9,1,0.96,0,0,0,19,2,289,ISP Visitor,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,2,2,4,0,0.46,0,0,0,19,0,55,ISP Visitor,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,2,2,2,0,1.75,0,0,0,19,0,210,ISP Visitor,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,2,2,0,0.93,0,0,0,19,0,111,ISP Visitor,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,3,0,9.28,0,1,100,19,0,557,ISP Visitor,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,3,0,6.88,0,1,100,19,0,413,ISP Visitor,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,2,0,2.63,0,1,100,19,0,158,ISP Visitor,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,2,0,1.73,0,1,100,19,0,104,ISP Visitor,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,2,0,1.07,0,1,100,19,0,64,ISP Visitor,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,2,2,0,0,0,0,5,2,0,::unspecified::,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,2,2,2,1,0.24,0,0,0,5,2,29,::unspecified::,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,0,0.18,0,0,0,5,1,11,::unspecified::,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/26/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,7,8,13,0,1.42,0,0,0,9,3,681,Not In List,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,9,0,3.02,0,0,0,9,0,181,Not In List,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,0,1.67,0,0,0,9,0,100,Not In List,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.32,0,0,0,9,0,19,Not In List,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,9,3,0,Not In List,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/content/dam/servicenow/demos/www-demo/Module_0/Mod0.html,0,0,0,0,INF,0,0,INF,9,1,0,Not In List,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/trust.html,0,0,0,0,INF,0,0,INF,9,1,0,Not In List,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/services/packages.html,0,0,0,0,INF,0,0,INF,9,1,0,Not In List,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,18,18,47,1,2.23,0,0,0,23,4,2413,ISP Visitor,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,3,3,3,0,0.39,0,0,0,23,0,71,ISP Visitor,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,2,2,2,1,0,0,0,0,23,1,0,ISP Visitor,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,2,2,2,0,0.47,0,0,0,23,0,56,ISP Visitor,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,3,0,0.65,0,0,0,23,0,39,ISP Visitor,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,0,0.73,0,0,0,23,0,44,ISP Visitor,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,23,8,0,ISP Visitor,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/customer-service-management.html,0,0,0,0,INF,0,0,INF,23,1,0,ISP Visitor,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/lpdem/demonow-all.html,0,0,0,0,INF,0,0,INF,23,1,0,ISP Visitor,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-automation-applications/cost-management.html,0,0,0,0,INF,0,0,INF,23,1,0,ISP Visitor,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,4,4,12,3,5.67,0,0,0,5,4,1360,::unspecified::,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,1,0,0,0,0,5,1,0,::unspecified::,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,5,3,0,::unspecified::,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5759,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/customers.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/hr-service-delivery.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/security-operations.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/partners.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/27/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,24,25,71,5,2.04,0,0,0,34,8,3064,Not In List,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,5,6,14,0,0.97,0,0,0,34,1,348,Not In List,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,4,5,12,0,0.76,0,0,0,34,1,227,Not In List,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,4,4,8,0,0.57,0,0,0,34,0,136,Not In List,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,2,2,3,0,4.87,0,0,0,34,0,584,Not In List,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,1,2,6,1,1.25,0,0,0,34,1,150,Not In List,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,2,4,0,3.02,0,2,100,34,0,363,Not In List,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps-form-1.html,1,1,2,0,0.3,0,1,100,34,0,18,Not In List,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,34,12,0,Not In List,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,34,2,0,Not In List,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,43,44,95,8,1.16,0,0,0,47,9,3055,ISP Visitor,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,8,9,16,1,0.64,0,0,0,47,4,343,ISP Visitor,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,9,0,0.82,0,0,0,47,0,198,ISP Visitor,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,4,4,7,1,2.58,0,0,0,47,2,619,ISP Visitor,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,4,4,5,0,1.65,0,1,25,47,0,396,ISP Visitor,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,3,1,0.94,0,0,0,47,1,170,ISP Visitor,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,1,0,1.75,0,0,0,47,0,105,ISP Visitor,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,47,20,0,ISP Visitor,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,47,2,0,ISP Visitor,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/customer-service-management.html,0,0,0,0,INF,0,0,INF,47,1,0,ISP Visitor,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,8,8,8,5,0.53,0,0,0,13,6,256,::unspecified::,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,3,3,4,2,0.13,0,0,0,13,3,23,::unspecified::,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,2,2,2,1,0.06,0,0,0,13,2,7,::unspecified::,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,13,4,0,::unspecified::,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,13,2,0,::unspecified::,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/customers.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/resources.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/nowforum.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0065581,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0106566,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/28/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,66,70,140,10,2,0,0,0,81,26,8385,Not In List,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,8,11,138,0,27.76,0,0,0,81,5,18321,Not In List,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,8,8,11,1,0.64,0,3,37.5,81,1,305,Not In List,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,7,7,17,1,0.77,0,0,0,81,2,323,Not In List,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,5,5,15,0,4.79,0,0,0,81,2,1436,Not In List,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,6,0,0.15,0,0,0,81,0,37,Not In List,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,1,1,1,0,0,0,0,0,81,0,0,Not In List,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,81,25,0,Not In List,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,81,4,0,Not In List,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products-by-category.html,0,0,0,0,INF,0,0,INF,81,2,0,Not In List,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,55,60,149,13,1.04,0,0,0,77,22,3745,ISP Visitor,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,15,16,44,1,2.39,0,0,0,77,6,2291,ISP Visitor,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,13,14,47,1,2.37,0,1,7.14,77,4,1990,ISP Visitor,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,8,9,17,0,8.43,0,6,66.67,77,0,4553,ISP Visitor,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,6,6,18,1,5.03,0,0,0,77,1,1812,ISP Visitor,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,5,5,11,1,5.43,0,0,0,77,1,1629,ISP Visitor,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,3,4,14,0,6.51,0,6,150,77,0,1563,ISP Visitor,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,2,4,0,4.03,0,0,0,77,0,484,ISP Visitor,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,1,0,22.18,0,0,0,77,0,1331,ISP Visitor,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,77,27,0,ISP Visitor,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,4,4,5,2,0.11,0,0,0,5,3,26,::unspecified::,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,0,0.23,0,0,0,5,1,14,::unspecified::,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,5,9,0,::unspecified::,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/services/training-and-certification.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5840,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products-by-category.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/shared-services-applications/field-service-management.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/partners.html,0,0,0,0,INF,0,0,INF,5,1,0,::unspecified::,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0065581,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0106566,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0006886,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,2,6,0,1.16,0,2,100,1,2,139,ACCT0026431,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,7,0,1.25,0,0,0,1,0,75,ACCT0026431,5/29/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,71,75,195,14,1.29,0,0,0,94,34,5787,Not In List,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,19,19,35,3,2.2,0,0,0,94,5,2508,Not In List,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,13,14,128,5,19.71,0,0,0,94,8,16559,Not In List,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,7,7,15,1,5.72,0,0,0,94,1,2404,Not In List,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,6,6,17,0,7.61,0,9,150,94,0,2739,Not In List,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,4,4,6,0,2.59,0,2,50,94,0,622,Not In List,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,2,2,0,0.24,0,0,0,94,1,29,Not In List,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,1,1,1,0,7.78,0,0,0,94,0,467,Not In List,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,94,31,0,Not In List,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,94,3,0,Not In List,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,74,76,136,9,2.28,0,0,0,93,23,10377,ISP Visitor,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,17,17,44,1,0.85,0,0,0,93,2,871,ISP Visitor,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,10,11,18,0,3.41,0,6,54.55,93,1,2251,ISP Visitor,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,8,8,11,1,0.14,0,0,0,93,1,68,ISP Visitor,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,4,4,4,2,0.15,0,0,0,93,2,36,ISP Visitor,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,3,3,6,0,2.28,0,3,100,93,0,410,ISP Visitor,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,2,2,3,0,8.24,0,0,0,93,0,989,ISP Visitor,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,1,0,0,0,0,0,93,0,0,ISP Visitor,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,93,37,0,ISP Visitor,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,93,4,0,ISP Visitor,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,11,11,22,6,1.47,0,0,0,13,9,968,::unspecified::,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,2,2,3,0,4.57,0,1,50,13,0,548,::unspecified::,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,1,0,0,0,0,13,1,0,::unspecified::,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,1,1,1,1,0,0,0,0,13,1,0,::unspecified::,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,13,3,0,::unspecified::,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/reporting.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5759/,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/company/media/analyst-report.html,0,0,0,0,INF,0,0,INF,13,1,0,::unspecified::,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,2,2,2,2,0,0,0,0,2,2,0,ACCT0065581,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0000538,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0106566,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,1,2,100,0,24.96,0,0,0,1,2,2995,ACCT0026431,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,1,1,3,0,10.93,0,2,200,1,0,656,ACCT0026431,5/30/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,57,58,148,7,1.27,0,0,0,80,19,4416,Not In List,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,17,23,103,4,5.78,0,0,0,80,14,7970,Not In List,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,12,16,27,1,1.47,0,0,0,80,3,1414,Not In List,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,9,10,21,0,1.73,0,0,0,80,3,1036,Not In List,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form.html,2,2,8,1,1.03,0,1,50,80,2,124,Not In List,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,2,2,4,0,14.05,0,1,50,80,1,1686,Not In List,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,2,2,3,0,0.21,0,0,0,80,0,25,Not In List,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops-form-1.html,1,1,2,0,0.38,0,1,100,80,0,23,Not In List,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator.html,1,1,1,0,0.65,0,0,0,80,0,39,Not In List,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator,1,1,1,0,0.45,0,0,0,80,0,27,Not In List,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,42,42,115,9,2.59,0,0,0,60,13,6516,ISP Visitor,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,13,15,48,2,1.8,0,0,0,60,5,1623,ISP Visitor,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,12,12,29,1,1.57,0,0,0,60,5,1127,ISP Visitor,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,7,7,21,0,3.13,0,10,142.86,60,0,1315,ISP Visitor,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-intelligent-apps.html,4,4,9,0,0.66,0,0,0,60,0,158,ISP Visitor,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-security-ops.html,3,3,6,0,4.33,0,0,0,60,0,779,ISP Visitor,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,3,3,5,0,5.24,0,1,33.33,60,0,943,ISP Visitor,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr-form-1.html,3,3,3,0,0.16,0,0,0,60,0,28,ISP Visitor,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form.html,1,1,4,0,0.6,0,1,100,60,1,36,ISP Visitor,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,60,24,0,ISP Visitor,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it.html,8,8,18,3,2.84,0,0,0,16,6,1363,::unspecified::,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,4,4,9,1,0.87,0,0,0,16,4,209,::unspecified::,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm.html,4,4,8,2,0.55,0,0,0,16,3,131,::unspecified::,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-it-form-1.html,2,2,2,1,0,0,0,0,16,1,0,::unspecified::,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-csm-form-1.html,1,1,1,0,0,0,0,0,16,0,0,::unspecified::,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/,0,0,0,0,INF,0,0,INF,16,3,0,::unspecified::,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+info.servicenow.com/LP=5345/,0,0,0,0,INF,0,0,INF,16,3,0,::unspecified::,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+go.servicenow.com/LP=10145,0,0,0,0,INF,0,0,INF,16,1,0,::unspecified::,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/products/it-service-management.html,0,0,0,0,INF,0,0,INF,16,1,0,::unspecified::,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/search-results.html,0,0,0,0,INF,0,0,INF,16,1,0,::unspecified::,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+www.servicenow.com/success/value-calculator-hr.html,1,1,1,1,0,0,0,0,1,1,0,ACCT0065581,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0000538,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0067422,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0106566,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0015888,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0006886,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
+,,,,,,,,,,,,ACCT0026431,5/31/2018,day,VALUE_CALCULATOR,CUSTOMER_SUCCESS,1/7/2019 12:54
